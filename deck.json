@@ -1,6 +1,220 @@
 {
     "__type__": "Deck",
-    "children": [],
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "fbbbb5ec-8295-11eb-9cbe-f82819695d86",
+            "deck_config_uuid": "e15c8f6c-8260-11eb-9f18-f82819695d86",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "latex-0128b2e04b376a64f6bd01152c96ce5157087a7c.png",
+                "latex-0a13d5c8f8e433462fd5543e89044ebff0f44fe7.png",
+                "latex-0b3cc6380c0a237a37e14cc61aeb7f2ba67d3ab7.png",
+                "latex-0bdd50c2f1d31d0dca01c7cf203c07521e472747.png",
+                "latex-0c1f9be7302c114c427dc20d6ab0af5a93c5eab3.png",
+                "latex-0eab0d40e6f74075bace870edeed2961c2ed7682.png",
+                "latex-1ea75a76cd7fdbd3cd81ce674062952d75fd1543.png",
+                "latex-2111a0e3d0b216bf4c52bc0a4d3763412fce2f04.png",
+                "latex-239c79c096c7fa4fa7af4276c9f61c75587e5b3e.png",
+                "latex-2a4c05dc81c23699476bc9b01262211dd4e1d21b.png",
+                "latex-2cccdabe8c4b6f5ed6c23b7a942043012ec42783.png",
+                "latex-37ea3f3f6507d10d7c8e5f65d18c3317f6e76b34.png",
+                "latex-3f7835942cc2dd89251ff1450f2b139533216977.png",
+                "latex-4ae8731485dc74171f5473d4df1f8da8c6718460.png",
+                "latex-4bbf145c92a21d3e42e75fe209ae975bef8d00fb.png",
+                "latex-764af7580fd9e8c59cfa9724a09a587c769fef79.png",
+                "latex-7e9d1c7f324e380875eb8bcffc5b2546eddafec5.png",
+                "latex-8467f8919bf1649c284fa9617a3c599070c19c33.png",
+                "latex-8ce8aa222cb388b39ff2703e97dbe314b353c0b6.png",
+                "latex-b4230d7d7be9cf2bc8632feed4d426add445dbaa.png",
+                "latex-b43154e52e128d00be93ac7a932f2dd3e64c5720.png",
+                "latex-b67b3d890ea6972e17e817ded41f034750be8ec3.png",
+                "latex-b7402a05c990b4d61b103ce62a54ba37adcf6d24.png",
+                "latex-b921bcfffca3a6f3b95396f307b4e0fb9e2adb03.png",
+                "latex-c5352efb098eb567bc7c3731c2e314dbdb2ec5f9.png",
+                "latex-df5d460272b21592c34552d65d07e485ae5c4abc.png",
+                "latex-e645ff3d6a238dc14b1227611121a00f601cfac5.png",
+                "latex-f04d072235b8239e4571c2c2165135522eb9f10c.png",
+                "latex-f2dedc7f7746d46c3f139fc7384791a90ded4b5e.png",
+                "paste-552dac18b761d59b0b84357eed8ee3ddc9d4513d.jpg",
+                "paste-8f9493d27b1f1e11c6d93b509a40c44ff6db474d.jpg",
+                "paste-a1c5eeada84047f9d0e7e8f04845d77529ef38e0.jpg",
+                "paste-b16a7a4a253c3ab8eb85b209ce66731ad8419ef1.jpg",
+                "paste-d00457731aa846537aa557a23163aa076986e6c3.jpg",
+                "paste-ed0333651bed4d30f0c7724bb69c9fabdda37a9a.jpg"
+            ],
+            "name": "01 Boltzmann-Gleichung",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Was lässt sich durch die Boltzmanngleichung und derer Verteilungsfunktion herleiten?[/latex]<br>",
+                        "[latex]Alle makroskopischen Größen und Transportkoeffizienten und somit können Erhaltungsgleichungen geschlossen werden[/latex]<br>"
+                    ],
+                    "guid": "AK_/SP+>fL",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Was lässt sich aus der Boltzmanngleichung bei bekannter Verteilungsfunktion herleiten?[/latex]<br>",
+                        "[latex]Alle makroskopischen Größen und Transportkoeffizienten und somit können Erhaltungsgleichungen geschlossen werden[/latex]<br>"
+                    ],
+                    "guid": "z(``juYGok",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]In welchem Bereich ist die Boltzmanngleichung gültig?[/latex]<br>",
+                        "[latex]Bereich des Kontinuums (Kn&lt;&lt;1) bis zu freien Molekülströmung (Kn&gt;&gt;1)[/latex]<br>"
+                    ],
+                    "guid": "j37VYz]H%9",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Was ist eine Lösung der Boltzmanngleichung?[/latex]<br>",
+                        "[latex]Maxwell-Verteilung[/latex]<br>"
+                    ],
+                    "guid": "r^.3vT)c=+",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Auf was führen die Momente der Boltzmanngleichung für die Maxwell-Verteilung?[/latex]<br>",
+                        "[latex]Euler-Gleichungen, Erhaltungsgleichungen für:<div>\\begin{itemize}</div><div>\\item Masse</div><div>\\item Impuls</div><div>\\item Energie</div><div>\\end{itemize}[/latex]<br></div>"
+                    ],
+                    "guid": "oG*]XC*`1p",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Wieso kann die Boltzmanngleichung nicht analytisch gelöst werden und welche Methode wird zur Lösung gerne genutzt?[/latex]<br>",
+                        "[latex]Da sehr komplexe Integro-DGL 2. Ordnung. Analytisch nur Näherungsansätze für einfache Problemstellungen\\\\<div>Löser: Direct Simulation Monte Carlo-Methode, wenn nahe am Gleichgewicht ist Navier-Stokes besser, da schneller und günstiger[/latex]<br></div>"
+                    ],
+                    "guid": "CShesi^`l%",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Einschränkungen / Vorraussetzungen der Boltzmanngleichung[/latex]<br>",
+                        "[latex]\\begin{itemize}<div>\\item Ausreichend verdünntes Gas (mittl. freie Weglänge &gt;&gt; Molekülabmessung)</div><div>\\item Reichweite intermulekularer Kräfte klein (geradlinige Bahnen der Moleküle)</div><div>\\item Kurze Kollisionszeit (keine Änderung Verteilungsfunktion)</div><div>\\item nur binäre Kollisionen</div><div>\\item Elastisches, harte Kugeln als Molekülmodell</div><div>\\end{itemize}[/latex]<br></div>"
+                    ],
+                    "guid": "w1~9nt[O!Q",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Wodurch kann sich die Anzahl der Teilchen änder (Änderung der Verteilungsfunktion über die Zeit)?[/latex]<br>",
+                        "[latex]\\begin{itemize}<div>\\item Änderung im physiklaischen Raum durch Geschwindigkeit</div><div>\\item Änderung im Geschwindigkeitsraum durch äußere Kräfte</div><div>\\item Änderung im Geschwindigkeitsraum durch Kollisionen</div><div>\\end{itemize}[/latex]</div><div><img src=\"paste-552dac18b761d59b0b84357eed8ee3ddc9d4513d.jpg\"><br></div>"
+                    ],
+                    "guid": "GHN=E@/vV(",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Wie ist die Kundsen-Zahl definiert und welche Grenzbereiche gelten für analytische Lösungen der Boltzmanngleichung?[/latex]",
+                        "[latex]$Kn = \\frac{\\lambda}{L}$<div>Grenzbereiche Kn \\textrightarrow 0 Kontinuum und Kn \\textrightarrow $\\infty$ freie Molekülbewegung[/latex]</div>"
+                    ],
+                    "guid": "pXe5bH|y8o",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Wie sieht die Boltzmanngleichung für die Grenzbereiche aus?[/latex]<br>",
+                        "[latex]Kn \\textrightarrow 0 : rechte Seite 0, übrig bleibt Transportterm (hyperbolische partielle DGL)\\\\<div>Kn \\textrightarrow $\\infty$ : linke Seite 0, Kollisionsterm verschwindet (Bedingung für thermodyn. GGW)[/latex]<br></div>"
+                    ],
+                    "guid": "q+[&NYI;2:",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Was besagt das H-Theorem und was muss nach dem 2. hauptsatz der Thermodynamik gelten?\\\\<div>Was gilt in einem homogenen, abgeschlossenen System nach unendlicher Zeit?[/latex]<br></div>",
+                        "[latex]Die Entropie eines Systems kann durch die Boltzmanngleichung definiert werden[/latex]<br><div><img src=\"paste-ed0333651bed4d30f0c7724bb69c9fabdda37a9a.jpg\"><br></div><div><img src=\"paste-b16a7a4a253c3ab8eb85b209ce66731ad8419ef1.jpg\"><br></div><div>[latex]Thermodynamisches Gleichgewicht, das durch Maxwell-Verteilung beschrieben wird[/latex]<br></div>"
+                    ],
+                    "guid": "Hr$Ct|D:(a",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Nennen Sie die Momente der Boltzmanngleichung für ein ideales Gas.[/latex]<br>",
+                        "<div>Das System der Momentengleichungen ist ein unendlich großes System, das in sich nicht geschlossen ist.</div><div><img src=\"paste-a1c5eeada84047f9d0e7e8f04845d77529ef38e0.jpg\"><br></div><div><img src=\"paste-8f9493d27b1f1e11c6d93b509a40c44ff6db474d.jpg\"><br></div>"
+                    ],
+                    "guid": "gyt-U^PoBd",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Was sind die Maxwellschen Transportgleichungen und woraus resultieren sie?[/latex]<br>",
+                        "[latex]Eine Umwandlung der Momentengleichungen der Boltzmanngleichung.\\\\<div>Momente können in Form gebracht werden, die Aussagen über Grundmomente (Mass, Impuls und Energie) liefern.[/latex]<br></div>"
+                    ],
+                    "guid": "yVW6H&B%R]",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Was sind die Eulergleichungen und welche Annahmen werden bei diesen getroffen?[/latex]<br>",
+                        "[latex]Geschlossenes System aus Erhaltungsgleichungen für Masse, Impuls und Energie. Hergeleitet aus Maxwell Transportgleichungen.\\\\<div>Annahmen:\\\\</div><div>\\begin{itemize}</div><div>\\item lokales \\&amp; thermodyn. GGW</div><div>\\item Kn \\textrightarrow 0</div><div>\\item Stetige, reibungsfreie Strömung</div><div>\\item An jedem Ort und zu jeder Zeit muss Maxwell-Verteilung gelten</div><div>\\end{itemize}[/latex]<br></div>"
+                    ],
+                    "guid": "kruXMYjK-m",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Was besagt die CHapman-Enskog Entwicklung der Boltzmann-Gleichung?[/latex]<br>",
+                        "[latex]Es wird ein Störansatz der Verteilungsfunktion für kleine Abweichungen vom GGW auf den vollständigen Kollisionsterm der BG angewendet.\\\\<div>In der Näherung 1. Ordnung führt dies auf die Navier-Stokes Gleichungen. Näherung führt auf lineare, inhomogene Integralgleichung für unbekannte Störfunktion. Ergebnisse der Transportkoeffizienten können aber berechnet werden.[/latex]<br></div><div><img src=\"paste-d00457731aa846537aa557a23163aa076986e6c3.jpg\"><br></div>"
+                    ],
+                    "guid": "zdI]C^1`]z",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "fbbc9fb5-8295-11eb-8db5-f82819695d86",
+            "deck_config_uuid": "e15c8f6c-8260-11eb-9f18-f82819695d86",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "02 lol",
+            "notes": []
+        }
+    ],
     "crowdanki_uuid": "e15c8f6b-8260-11eb-bf8e-f82819695d86",
     "deck_config_uuid": "e15c8f6c-8260-11eb-9f18-f82819695d86",
     "deck_configurations": [
@@ -51,10 +265,7 @@
     "dyn": 0,
     "extendNew": 0,
     "extendRev": 0,
-    "media_files": [
-        "latex-3e1ee8bceff2169b16b209c962f8790ec4b6050d.png",
-        "latex-5819778898df55e3a762f0c5728b457970d72cae.png"
-    ],
+    "media_files": [],
     "name": "Aerothermodynamik",
     "note_models": [
         {
@@ -113,16 +324,5 @@
             "vers": []
         }
     ],
-    "notes": [
-        {
-            "__type__": "Note",
-            "fields": [
-                "[latex]Amena[/latex]<br>",
-                "[latex]Git[/latex]<br>"
-            ],
-            "guid": "g%Xsf=L11t",
-            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
-            "tags": []
-        }
-    ]
+    "notes": []
 }
