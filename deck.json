@@ -21,15 +21,14 @@
                 "latex-2111a0e3d0b216bf4c52bc0a4d3763412fce2f04.png",
                 "latex-239c79c096c7fa4fa7af4276c9f61c75587e5b3e.png",
                 "latex-2a4c05dc81c23699476bc9b01262211dd4e1d21b.png",
-                "latex-2cccdabe8c4b6f5ed6c23b7a942043012ec42783.png",
                 "latex-37ea3f3f6507d10d7c8e5f65d18c3317f6e76b34.png",
                 "latex-3f7835942cc2dd89251ff1450f2b139533216977.png",
+                "latex-4575dbeb8967fc3fa1f62b8d763290ff863c229d.png",
                 "latex-4ae8731485dc74171f5473d4df1f8da8c6718460.png",
                 "latex-4bbf145c92a21d3e42e75fe209ae975bef8d00fb.png",
                 "latex-764af7580fd9e8c59cfa9724a09a587c769fef79.png",
                 "latex-7e9d1c7f324e380875eb8bcffc5b2546eddafec5.png",
                 "latex-8467f8919bf1649c284fa9617a3c599070c19c33.png",
-                "latex-8ce8aa222cb388b39ff2703e97dbe314b353c0b6.png",
                 "latex-b4230d7d7be9cf2bc8632feed4d426add445dbaa.png",
                 "latex-b43154e52e128d00be93ac7a932f2dd3e64c5720.png",
                 "latex-b67b3d890ea6972e17e817ded41f034750be8ec3.png",
@@ -49,16 +48,6 @@
             ],
             "name": "01 Boltzmann-Gleichung",
             "notes": [
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "[latex]Was lässt sich durch die Boltzmanngleichung und derer Verteilungsfunktion herleiten?[/latex]<br>",
-                        "[latex]Alle makroskopischen Größen und Transportkoeffizienten und somit können Erhaltungsgleichungen geschlossen werden[/latex]<br>"
-                    ],
-                    "guid": "AK_/SP+>fL",
-                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
-                    "tags": []
-                },
                 {
                     "__type__": "Note",
                     "fields": [
@@ -192,7 +181,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "[latex]Was besagt die CHapman-Enskog Entwicklung der Boltzmann-Gleichung?[/latex]<br>",
+                        "[latex]Was besagt die Chapman-Enskog Entwicklung der Boltzmann-Gleichung?[/latex]<br>",
                         "[latex]Es wird ein Störansatz der Verteilungsfunktion für kleine Abweichungen vom GGW auf den vollständigen Kollisionsterm der BG angewendet.\\\\<div>In der Näherung 1. Ordnung führt dies auf die Navier-Stokes Gleichungen. Näherung führt auf lineare, inhomogene Integralgleichung für unbekannte Störfunktion. Ergebnisse der Transportkoeffizienten können aber berechnet werden.[/latex]<br></div><div><img src=\"paste-d00457731aa846537aa557a23163aa076986e6c3.jpg\"><br></div>"
                     ],
                     "guid": "zdI]C^1`]z",
@@ -210,9 +199,157 @@
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
-            "media_files": [],
-            "name": "02 lol",
-            "notes": []
+            "media_files": [
+                "latex-02b1e0b91e4fdfad438273b4e364363cb366bd48.png",
+                "latex-1592a301d5bd4431002b55d6871a923f3f42e40e.png",
+                "latex-15fe21b693fd364ba5e3affbc1ef432f1edd679f.png",
+                "latex-26c2e43ea2e4dd6e1358f2057ae8327e2b24d602.png",
+                "latex-4f9c722b4f42aa297ed30f5f2010a82bcd313d4c.png",
+                "latex-5174b3f4e32cc17cc9a8c22e09231afce29ad6dc.png",
+                "latex-569ce33619c18680f2e34e1f3c4b0975955881a1.png",
+                "latex-573c0e78298094a09230ec14d5351de079057509.png",
+                "latex-5f1a9f4681f17fad6795996a4d74ffdbf7c7480e.png",
+                "latex-67c5fcba64bb25a426c636501079597de357bdb4.png",
+                "latex-7b4822ba655de5d6b7afc6c6a42137f9df8bd111.png",
+                "latex-7be4211ac010df025b3e5d032a77199701d93996.png",
+                "latex-8091e4aa692aeb202540c46a52d11b19302f56da.png",
+                "latex-83847000b85e451ba582a7008274daa820263026.png",
+                "latex-9cac8e6e8adb4cc01d79362892e410b14b733b82.png",
+                "latex-bd96b5eb73c2aedeb1074d6805a4de1cfb744470.png",
+                "latex-e0a185a1b83cbf125996b05f201e306a3ef649cb.png",
+                "latex-e8224996e407ab1c3b9085f9e98bf2a75f86e6d8.png",
+                "latex-ecc9b64668d987c999336d5cb52906d85e801349.png",
+                "latex-f60474599c7e8a10eec8dceceb3bd46b3023a704.png",
+                "latex-f77ef1068cacac3d8d27e99bd59d5592ff48d359.png",
+                "latex-ff95d870e44828f54ca0a8e393510a3dd67875d0.png",
+                "paste-1bdbf3d925472bdab19de01733dd61eadf11d4e8.jpg",
+                "paste-4ed36c0024a26f8a0902104334c5070e1f93c16f.jpg",
+                "paste-7fae4d161c3604d9780946ccea7363e7c5bd3224.jpg",
+                "paste-ef7ad4572589d93415484b0d86cbb5f0cc14cadd.jpg"
+            ],
+            "name": "02 DSMC",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Welche Bedingungen gelten für das Stoßintegral der Monte Carlo Approximation?[/latex]<br>",
+                        "[latex]<div>\\begin{itemize}<div>\\item Einatomige Gase</div><div>\\item Klassisches Gas $\\lambda_{DB} = \\frac{h}{p} &lt;&lt; n^{-1/3}$ (= mittl. Abstand der Moleküle &gt;&gt; Wellenfunktion der Teilchen)</div><div>\\item Binäre Stöße: Stoßdauer &lt;&lt; Stoßzeit \\end{itemize}</div><div>[/latex]<br></div></div>"
+                    ],
+                    "guid": "giJWN>+I_j",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Was ist Operatorsplitting und wozu dient es?[/latex]<br>",
+                        "[latex]Boltzmanngleichung wird in Operatordarstellung umgeformt. Jeweils ein Operator für Bewegung und Kollision. Approximation des nächsten Zeitschrittes durch Operatoren. Exakt in Ordnung 1.\\\\<div>Möglichkeit zur Entkopplung von Partikelbewegung und Kollisionsprozess \\textrightarrow Beliebige Methoden können für die beiden Prozesse angewendet werden.[/latex]<br><div><img src=\"paste-ef7ad4572589d93415484b0d86cbb5f0cc14cadd.jpg\"><br></div></div>"
+                    ],
+                    "guid": "K)+(:cScMi",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Wie wird die Verteilungsfunktion approximiert?[/latex]<br>",
+                        "[latex]Approximation durch N repräsentative Simulationsteilchen an Ort x und v \\textrightarrow direkte Simulation der Partikel, statt Lösung von Gleichungen[/latex]<br>"
+                    ],
+                    "guid": "j{f_IO<}j5",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Wie werden Raum und Zeit diskretisiert?[/latex]<br>",
+                        "[latex]Zeitl. Diskretisierung: $\\Delta t \\leqq \\frac{1}{z}$ mit Stoßfrequenz z \\textrightarrow pro Iterationsschritt nur eine Binärkollision pro Partikel \\\\<div>Räumliche Diskretisierung: freie Bewegung der Partikel im Raum, somit theoretisch keine räumliche Diskretisierung notwendig, aber aus praktischen Gründen sinnvoll $\\Delta x \\leqq \\lambda_{MFP}$[/latex]<br></div>"
+                    ],
+                    "guid": "BMghIVbFq#",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Wie sieht die Maxwell-BOltzmann-Verteilung aus?[/latex]<br>",
+                        "<img src=\"paste-1bdbf3d925472bdab19de01733dd61eadf11d4e8.jpg\">"
+                    ],
+                    "guid": "A.,vftT_9y",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Welche weiteren Zustände müssen bei zweiatomigen Gasen berücksichtigt werden und wie werden diese beschrieben?[/latex]<br>",
+                        "[latex]<div>\\begin{itemize}</div><div>\\item Elektronische Anregung (Atom + Molekül)</div><div>\\item Vibratorische Anregung (Molekül)</div><div>\\item Rotatorische Anregung (Molekül)</div><div>\\end{itemize}</div><div>Zustände beschrieben durch Wellenfunktion und diskrete Energiewerte[/latex]</div>"
+                    ],
+                    "guid": "yUV.kp7o[",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Warum kann ein Atom keine Rotationsenergie speichern?[/latex]<br>",
+                        "[latex]Durch die Annahme der Atome als Punktmassen (0-dimensional) ist diese ununterscheidbar von einer Drehung[/latex]<br>"
+                    ],
+                    "guid": "g=#{A==)a;",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Wie funktioniert das Monte-Carlo Verfahren?[/latex]<br>",
+                        "[latex]<div>\\begin{itemize}</div><div>\\item Stochastisches Verfahren mit wiederholenden Zufallsentscheidungen</div><div>\\item Numerische Lösung auf Basis Wagrscheinlichkeitstheorie (Nutzung Gesetz der großen Zahlen und Zufallszahlen)</div><div>\\item Ergebnisse abhängig von Güte der Zufallszahlen</div><div>\\item Ergebnisse unterliegen statistischem Rauschen</div><div>\\end{itemize}[/latex]<br></div>"
+                    ],
+                    "guid": "eYT=M5]1u%",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Wie sieht ein Zeitschritt im DSMC Verfahren aus?[/latex]<br>",
+                        "<img src=\"paste-4ed36c0024a26f8a0902104334c5070e1f93c16f.jpg\">"
+                    ],
+                    "guid": "faW-gya56T",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Was beschreibt die Hinshelwood Verteilung und wie ist sie definiert?[/latex]<br>",
+                        "[latex]Beschreibt kontinuierliche Energieverteilung mit $\\xi$ Freiheitsgraden[/latex]<br><div><img src=\"paste-7fae4d161c3604d9780946ccea7363e7c5bd3224.jpg\"><br></div>"
+                    ],
+                    "guid": "KKr?ybR>_|",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Welche Methoden gibt es zur Paarbildung und was sind die Vor- und Nachteile?[/latex]<br>",
+                        "[latex]<div>\\begin{table}</div><div>\\begin{tabular}{l|ll}</div><div>\\hline</div><div>&amp; Vorteile &amp; Nachteile\\\\</div><div>\\hline</div><div>Zufällige Paarung &amp; Einfach, schnell &amp; Auflösen von mitttl. freie Weglänge in jeder Gitterzelle notwendig\\\\</div><div>Nächster Nachbar &amp; Gitterunabhängig &amp; Hoher Rechenaufwand\\\\</div><div>\\end{tabular}</div><div>\\end{table}</div><div>[/latex]</div>"
+                    ],
+                    "guid": "eMR=[wW#)=",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Nennen Sie Anwendungsbeispiele des DSMC Lösers.[/latex]<br>",
+                        "[latex]Einströmung ins Vakuum, Wiedereintritt, Zündfunken[/latex]<br>"
+                    ],
+                    "guid": "dH{`Mkhg;y",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                }
+            ]
         }
     ],
     "crowdanki_uuid": "e15c8f6b-8260-11eb-bf8e-f82819695d86",
@@ -247,7 +384,7 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 20
+                "perDay": 200
             },
             "replayq": true,
             "rev": {
