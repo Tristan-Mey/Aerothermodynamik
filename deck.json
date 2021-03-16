@@ -350,6 +350,81 @@
                     "tags": []
                 }
             ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "cd43f98c-8693-11eb-bb99-f82819695d86",
+            "deck_config_uuid": "e15c8f6c-8260-11eb-9f18-f82819695d86",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "latex-2ee7a281e1f05af6c4372c573860906b269465c0.png",
+                "latex-3305b94fca7e2a6f06c0fc24b0324da3f71248e3.png",
+                "latex-51f40353f4c5f4752114b3a74601ec2860c143ac.png",
+                "latex-55febbcb007fe97e91e886f7f50a3dc30dddb7ce.png",
+                "latex-56b92f8737b87266833f4e0607dc20ec21795e4a.png",
+                "latex-8771af57b2a49a3659c74fdfc9d520355c5b8f30.png",
+                "latex-8ebad42c318eb1f1d02d7f1b635af65eedcacad8.png",
+                "latex-fe7b23ea0658d0e45ad3cfb6b4f776f0c6235fa9.png",
+                "paste-83432abc55fa6c92e1a4f19a644f9ece7d498abc.jpg",
+                "paste-cf4948c8e6061a5bd44a7f5b6f700cb55d84b912.jpg"
+            ],
+            "name": "03 Überblick Phänomene",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Zeichnen Sie die Strömungsbereiche einer Wiedereintrittstrajektorie auf.[/latex]<br>",
+                        "<img src=\"paste-cf4948c8e6061a5bd44a7f5b6f700cb55d84b912.jpg\">"
+                    ],
+                    "guid": "jU,Tg0kZwN",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Durch welche Faktoren wird heiße Gasströmung beeinflusst?[/latex]<br>",
+                        "[latex]\\begin{itemize}<div>\\item Aerodynamische Effekte</div><div>\\begin{itemize}</div><div>\\item Machzahleffekte</div><div>\\item Zaynoldszahleffekte</div><div>\\item 3 D Effekte</div><div>\\end{itemize}</div><div>\\item Realgaseffekte</div><div>\\begin{itemize}</div><div>\\item Innere Freiheitsgrade</div><div>\\item Chemie</div><div>\\end{itemize}</div><div>\\item Gas-Oberflächen-Effekte</div><div>\\item Strahlungseffekte</div><div>\\end{itemize}[/latex]<br></div>"
+                    ],
+                    "guid": "I!<ePA}/h%",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Welche Effekte treten bei einer Hochgeschwindigkeitsströmung auf?[/latex]<br>",
+                        "[latex]Durch starkes Abbremsen der Strömung: Hochenthalpieströmung\\\\<div>\\begin{itemize}</div><div>\\item Strömungsgeschwindigkeit</div><div>\\item Translationsenergie</div><div>\\item Rotatorische Anregung</div><div>\\item Schwingungsanregung</div><div>\\item Elektronische Anregung</div><div>\\item Dissoziation</div><div>\\item Ionisation</div><div>\\item Strahlung&nbsp;</div><div>\\end{itemize}[/latex]</div>"
+                    ],
+                    "guid": "M!$kjm<zPA",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Wie ist die Damköhlerzahl definiert und welche Gebiete gibt es?[/latex]<br>",
+                        "<img src=\"paste-83432abc55fa6c92e1a4f19a644f9ece7d498abc.jpg\">"
+                    ],
+                    "guid": "xI|<4VXef~",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Welche Stoß- und Grenzschichtzustände exisiteren entlang einer Trajektorie?[/latex]<br>",
+                        "[latex]<div>\\begin{itemize}</div><div><br></div><div>\\item Große Höhen $&gt; 120 km$</div><div><br></div><div>\\begin{itemize}</div><div>\\item Verdünnte Strömung</div><div>\\item Dicke Stoßschicht</div><div>\\item Schwache Dissoziation</div><div>\\end{itemize}</div><div><br></div><div>\\item Mittlere Höhen</div><div><br></div><div><div>\\begin{itemize}</div><div>\\item Bugstoß ist eine Unstetigkeit</div><div>\\item Außen- und Grenzschichtströmung im Nichtgleichgewicht</div><div>\\item Einfrieren der Strömung in Niderdruckgebieten</div><div>\\end{itemize}</div></div><div><br></div><div>\\item Niedrigere Höhen $&lt; 40 km$</div><div><br></div><div><div>\\begin{itemize}</div><div>\\item Stoß ist eine Unstetigkeit</div><div>\\item Außen im Gleichgewicht</div><div>\\item Grenzschicht im Gleichgewicht</div><div>\\end{itemize}</div></div><div><br></div><div>\\end{itemize}</div><div>[/latex]</div>"
+                    ],
+                    "guid": "E,mg>)rt>G",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                }
+            ]
         }
     ],
     "crowdanki_uuid": "e15c8f6b-8260-11eb-bf8e-f82819695d86",
@@ -384,7 +459,7 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 200
+                "perDay": 1000
             },
             "replayq": true,
             "rev": {
@@ -455,6 +530,61 @@
                     "name": "Karte 1",
                     "ord": 0,
                     "qfmt": "{{Vorderseite}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Vorderseite",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Rückseite",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Einfach-f04d0",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Rückseite}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Karte 1",
+                    "ord": 0,
+                    "qfmt": "{{Vorderseite}}\n"
                 }
             ],
             "type": 0,
