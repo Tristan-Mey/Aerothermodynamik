@@ -354,25 +354,53 @@
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "cd43f98c-8693-11eb-bb99-f82819695d86",
+            "crowdanki_uuid": "2fae0b5d-874c-11eb-b95a-f82819695d86",
             "deck_config_uuid": "e15c8f6c-8260-11eb-9f18-f82819695d86",
             "desc": "",
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [
+                "latex-00593bc2cc77567786cd3a649508eb2e7c0bd741.png",
+                "latex-08cf2b5965351f08e2b6eed1bf0f90f55a048d06.png",
+                "latex-0fa9a5d734aeff7b7b7a5995722b5d4dea5cc6eb.png",
+                "latex-1461d147df6aebbbd7e2cab1e474284867300082.png",
+                "latex-1ad9678877029c341d79c88a022134d7e25357b6.png",
+                "latex-1e9fa9151f8281f6e893f61560676398f74f25d7.png",
+                "latex-21f4487f5bcc43a64c1ded68a60f0f6779bc3c90.png",
                 "latex-2ee7a281e1f05af6c4372c573860906b269465c0.png",
-                "latex-3305b94fca7e2a6f06c0fc24b0324da3f71248e3.png",
+                "latex-4d6a74a6d5ffdf177c82704ad14b3f7df93d6f4d.png",
                 "latex-51f40353f4c5f4752114b3a74601ec2860c143ac.png",
                 "latex-55febbcb007fe97e91e886f7f50a3dc30dddb7ce.png",
                 "latex-56b92f8737b87266833f4e0607dc20ec21795e4a.png",
+                "latex-645f6d9146f51d9e3c1b79eeb49c182b9dfcf798.png",
+                "latex-6a83d6bf77b4c772a1dd4219b3552f049b6cf0ad.png",
+                "latex-7a3425e637a1a14c8524db830203b5c46eff7bcc.png",
+                "latex-7fd76e64bbc26e37d3a8e096251db4074bd3b245.png",
+                "latex-7fd78435c1f3a2687b29ee8285815e54a86974f6.png",
+                "latex-831ca20a0eb05970a7a25af7ac6401723753198f.png",
+                "latex-875df50e15d6d332d768178b782b49105e1df137.png",
                 "latex-8771af57b2a49a3659c74fdfc9d520355c5b8f30.png",
                 "latex-8ebad42c318eb1f1d02d7f1b635af65eedcacad8.png",
+                "latex-985e556692e98eaac2efb5a47f42b9c336995f25.png",
+                "latex-acd834c788cdb91dc3ef0b79ea87773a7d6f04dd.png",
+                "latex-b9105a8ea9e2c43391eb5a6087b96dc6f3709e8b.png",
+                "latex-bd7dc898d3cf9dd5a70bb50dd0de47b99a8d7eac.png",
+                "latex-cc617c9f387803ac93bbb13cc1f4f59f5ae9d52a.png",
+                "latex-d9ab8041c6353eb9d16dae8c2bab0acaaa0c9e09.png",
+                "latex-dfd2cad8542bed2cc87a86c9f3b54307c6d0d69f.png",
+                "latex-f0672c90a6a777d889299c7535b0b72b072f9587.png",
+                "latex-f35afe1f96cfd0c1ee6fb05db3784532d1847b1f.png",
+                "latex-fa248729506b5135064eeac7f8e9d5a570c678c5.png",
                 "latex-fe7b23ea0658d0e45ad3cfb6b4f776f0c6235fa9.png",
+                "paste-6e6c36f17fe53e8265b4a7e56bfeb9c03b49bf25.jpg",
                 "paste-83432abc55fa6c92e1a4f19a644f9ece7d498abc.jpg",
-                "paste-cf4948c8e6061a5bd44a7f5b6f700cb55d84b912.jpg"
+                "paste-c3e55c1fab28bb1c63684a2e1791728d3eff3b45.jpg",
+                "paste-cf4948c8e6061a5bd44a7f5b6f700cb55d84b912.jpg",
+                "paste-de2e35044e52ae9fc59d637f895be504667f427e.jpg",
+                "paste-e85a52b6732fe2f190e495f9cad69804d5cad9e3.jpg"
             ],
-            "name": "03 Überblick Phänomene",
+            "name": "03 Aerothermodynamik",
             "notes": [
                 {
                     "__type__": "Note",
@@ -418,9 +446,139 @@
                     "__type__": "Note",
                     "fields": [
                         "[latex]Welche Stoß- und Grenzschichtzustände exisiteren entlang einer Trajektorie?[/latex]<br>",
-                        "[latex]<div>\\begin{itemize}</div><div><br></div><div>\\item Große Höhen $&gt; 120 km$</div><div><br></div><div>\\begin{itemize}</div><div>\\item Verdünnte Strömung</div><div>\\item Dicke Stoßschicht</div><div>\\item Schwache Dissoziation</div><div>\\end{itemize}</div><div><br></div><div>\\item Mittlere Höhen</div><div><br></div><div><div>\\begin{itemize}</div><div>\\item Bugstoß ist eine Unstetigkeit</div><div>\\item Außen- und Grenzschichtströmung im Nichtgleichgewicht</div><div>\\item Einfrieren der Strömung in Niderdruckgebieten</div><div>\\end{itemize}</div></div><div><br></div><div>\\item Niedrigere Höhen $&lt; 40 km$</div><div><br></div><div><div>\\begin{itemize}</div><div>\\item Stoß ist eine Unstetigkeit</div><div>\\item Außen im Gleichgewicht</div><div>\\item Grenzschicht im Gleichgewicht</div><div>\\end{itemize}</div></div><div><br></div><div>\\end{itemize}</div><div>[/latex]</div>"
+                        "[latex]<div>\\begin{itemize}</div><div><br></div><div>\\item Große Höhen $&gt; 120 km$</div><div><br></div><div>\\begin{itemize}</div><div>\\item Verdünnte Strömung (Kn $&gt; 10$)</div><div>\\item Dicke Stoßschicht</div><div>\\item Schwache Dissoziation ($D_a &lt;&lt; 0.01$)</div><div>\\item textrightarrow Beschreibung: DSMC</div><div>\\end{itemize}</div><div><br></div><div>\\item Mittlere Höhen $&lt; 90km (Kn&nbsp; \\le 0.1)$</div><div><br></div><div><div>\\begin{itemize}</div><div>\\item Bugstoß ist eine Unstetigkeit</div><div>\\item Außen- und Grenzschichtströmung im Nichtgleichgewicht ($D_a \\le 100$)</div><div>\\item Einfrieren der Strömung in Niderdruckgebieten (nachlauf, $D_a &lt; 0.01$)</div><div>\\item DSMC, Navier-Stokes mit Gleitrand</div><div>\\end{itemize}</div></div><div><br></div><div>\\item Niedrigere Höhen $&lt; 40 km$</div><div><br></div><div><div>\\begin{itemize}</div><div>\\item Stoß ist eine Unstetigkeit (Kn $&lt; 0.01$)</div><div>\\item Außen im Gleichgewicht ($D_a \\gg 100$)</div><div>\\item Grenzschicht im Gleichgewicht</div><div>\\item (DSMC), Navier-Stokes, Grenzschichtverfahren<br></div><div>\\end{itemize}</div></div><div><br></div><div>\\end{itemize}</div><div>[/latex]</div>"
                     ],
                     "guid": "E,mg>)rt>G",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Zeichnen Sie die Flugbereiche und Gaszustände über die Geschwindigkeit und Höhe auf.[/latex]<br>",
+                        "<img src=\"paste-c3e55c1fab28bb1c63684a2e1791728d3eff3b45.jpg\">"
+                    ],
+                    "guid": "bw?Ng9wZ7E",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Wann ist thermisches Gleichgewicht&nbsp; und wann thermodynamisches Gleichgewicht erreicht?[/latex]<br>",
+                        "[latex]Thermsiches Gleichgewicht liegt vor, wenn die Verteilung der Partikel auf die möglichen Energieniveaus mit nur einer Temperatur durch Boltzmann-Verteilungen beschrieben werden können. Gleichgewicht in Rotation, Schwingung und elektronische Anregung.\\\\<div>Thermodynmaisches Gleichgewicht liegt vor, wenn sich bei thermischem Gleichgewicht die Zusammmensetzung nicht ändert.[/latex]<br></div>"
+                    ],
+                    "guid": "g#ky0YS3@v",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Zeichnen Sie die Bereiche auf der Staustromlinie anhand des Temperaturverlaufs auf.[/latex]<br>",
+                        "<img src=\"paste-de2e35044e52ae9fc59d637f895be504667f427e.jpg\">"
+                    ],
+                    "guid": "t3&!bO]9eF",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Bennen Sie die Terme der Boltzmanngleichung.[/latex]<br><div><img src=\"paste-e85a52b6732fe2f190e495f9cad69804d5cad9e3.jpg\"><br></div>",
+                        "[latex]Linke Seite:<div>\\begin{enumerate}</div><div>\\item Zeitliche Änderung der Verteilungsfunktion</div><div>\\item Flussänderung über das Volumenelement</div><div>\\item Äußere Kräfte</div><div>\\end{enumerate}</div><div><br></div><div>Rechte Seite:</div><div>\\begin{enumerate}</div><div>\\item Molekulare, binäre Kollisionen im Volumenelement&nbsp;</div><div>\\end{enumerate} [/latex]<br></div>"
+                    ],
+                    "guid": "nIs:JbA6({",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Welche Zusammenhänge lassen sich zwischen Verteilungsfunktion und makroskopische Größen herleiten?[/latex]<br>",
+                        "[latex]<div>\\begin{itemize}</div><div>\\item Thermische Geschwindigkeit und Eigengeschwindigkeit</div><div>\\item Teilchendichte</div><div>\\item Dichte</div><div>\\item Strömungsgeschwindigkeit</div><div>\\item Temperatur</div><div>\\item Drucktensor</div><div>\\end{itemize}[/latex]<br></div>"
+                    ],
+                    "guid": "DY:JY-o%OM",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Was ist die Chapman-Enskog Methode und welche Approximationen werden genutzt?[/latex]<br>",
+                        "[latex]Entwicklung der Verteilungsfunktion in eine unendliche Reihe.\\\\<div>1. Approximation: Maxwellverteilung (Gas im Gleichgewicht) \\textrightarrow Herleitung der Euler-Gleichungen\\\\</div><div>2. Approximation: linear gestörte Maxwellverteilung (Gas mit geringen Abweichungen vom Gleichgewicht)\\\\</div><div>\\textrightarrow Berechnung makroskopische Transportkoeffizienten\\\\</div><div>\\textrightarrow Herleitung der Navier-Stokes Gleichungen[/latex]<br></div>"
+                    ],
+                    "guid": "M~Dsie:9sB",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Unter welchen Annahmen werden die Reaktionsraten der Quellterme der Speziesgleichung mittels Stoßtheorie berechnet? Und was ergibt sich aus der Berechnung für die Reaktionsratenkonstante?[/latex]<br>",
+                        "[latex]<div>\\begin{itemize}</div><div>\\item Molekül im Grundzustand</div><div>\\item Verwendung Starrkugelmodell</div><div>\\item Ungestörte Maxwellverteilung</div><div>\\item Relative Energie senkrecht zur Teilchenkollision übersteigt die Aktivierungsenergie (=Dissozationsenergie)</div><div>\\item Nur Dissoziation wird betrachtet</div><div>\\end{itemize}</div><div><br></div><div>Es ergibt sich der erweiterte Arrheniusansatz</div><div>[/latex]<br></div><div><img src=\"paste-6e6c36f17fe53e8265b4a7e56bfeb9c03b49bf25.jpg\"><br></div>"
+                    ],
+                    "guid": "h.uqJPtsYP",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Welche Reaktionstypen treten für das 11 Spezies Reaktionsschema für Hochtemperatur-Luft von Park auf?[/latex]<br>",
+                        "[latex]<div>\\begin{itemize}</div><div>\\item Dissoziationsreaktion</div><div>\\item Austauschreaktion</div><div>\\item Assoziative Ionisationsreaktion</div><div>\\item Elektronenstoßionisationen</div><div>\\end{itemize}[/latex]<br></div>"
+                    ],
+                    "guid": "y;]3$&k9%|",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]In welche Anregungszustände können Teilchen eines Gasgemisches nochmals unterschieden werden?[/latex]<br>",
+                        "[latex]In elektronische Niveaus, Vibrationsniveaus und Rotationsniveaus. Anregungszustände werden nach Quantentheorie um diskrete Energiebeträge unterschieden.[/latex]<br>"
+                    ],
+                    "guid": "rNpr*.u+o1",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Nennen Sie die Eigenschaften des vollständigen thermochemischen Relaxationsmodell und den Übergang zum Mehrtemperaturmodell.[/latex]<br>",
+                        "[latex]<div>\\begin{itemize}<br>\\item Innere Freiheitsgrade können die Energie nur in diskreten Beträgen ändern.<br>\\item Partikel in einem bestimmten internen Quantenzustand werden als Partikel<br>einer speziellen chemischen Spezies eingeführt.<br>\\item Das Gas wird als eine Mischung einer sehr großen Zahl von chemischen<br>Spezies betrachtet.<br>\\item Aufstellung von Erhaltungsgleichungen für jede Spezies führt zu einem sehr<br>großen Gleichungssystem ($\\approx 100000$ Gleichungen)</div><div>\\end{itemize}</div><div>Annhamen für Mehrtemperaturmodell:</div><div>\\begin{itemize}</div><div>\\item Keine Unterscheidung der Komponenten durch den Quantenzustand<br>\\item Elektronische Freiheitsgrade seien nur im Grundzustand angeregt.<br>\\item Schwingungsenergie ist nicht mit der Schwerteilchentranslation im<br>Gleichgewicht.<br>\\item Gleichgewicht zwischen der Schwerteilchentranslation und den<br>rotatorischen Freiheitsgraden stellt sich schnell ein.<br>\\item Elektronenenergie ist nicht mit der Schwerteilchentranslation im<br>Gleichgewicht.<br></div><div>\\end{itemize}</div><div>[/latex]</div>"
+                    ],
+                    "guid": "Qa=oC5{WnO",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Welche Komponente wird zusätzlich in die Navier-Stokes Gleichungen eingefügt, bei der Betrachtung vom Mehrtemperaturmodell?[/latex]<br>",
+                        "[latex]Vibrationsenergie der neutralen Moleküle[/latex]<br>"
+                    ],
+                    "guid": "F/tt$]C*FG",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Warum sind die Komponenten des Quelltermvektors gekopplet?[/latex]<br>",
+                        "[latex]Über Teilchenstöße finden gleichzeitig Relaxationsprozesse innrere Freiheitsgrade und chemische Relaxationsprozesse statt.[/latex]<br>"
+                    ],
+                    "guid": "C,Nn.t<s24",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Wie erhält man die Transportkoeffizienten?[/latex]<br>",
+                        "[latex]Folgen mittels Chapman-Enskog Methode aus der Boltzmanngleichung durch Lösen des Kollisionsterms für alle binäre Wechselwirkungen.[/latex]<br>"
+                    ],
+                    "guid": "jZF(DNaH@7",
                     "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
                     "tags": []
                 }
