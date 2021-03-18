@@ -787,6 +787,7 @@
                 "latex-985e556692e98eaac2efb5a47f42b9c336995f25.png",
                 "latex-acd834c788cdb91dc3ef0b79ea87773a7d6f04dd.png",
                 "latex-af50926e65d3696c0dfc1de744e294fe1614a7e7.png",
+                "latex-b4adfcb6a1faccc3c81ea3dca0ce8ff9fdafed4b.png",
                 "latex-b9105a8ea9e2c43391eb5a6087b96dc6f3709e8b.png",
                 "latex-bd7dc898d3cf9dd5a70bb50dd0de47b99a8d7eac.png",
                 "latex-c7a53865a3dc67d1b9daa1b1bec0be3657b82664.png",
@@ -801,6 +802,7 @@
                 "latex-fa248729506b5135064eeac7f8e9d5a570c678c5.png",
                 "latex-fd4db51df26ccee071fe08aca756fe3d0d4c3a83.png",
                 "latex-fe7b23ea0658d0e45ad3cfb6b4f776f0c6235fa9.png",
+                "paste-11d5cd412fbd8a2ea678f9160a31514b515a0280.jpg",
                 "paste-2f22b2817a3d249e55a337c00c4bfe1f3eebe4a3.jpg",
                 "paste-6e6c36f17fe53e8265b4a7e56bfeb9c03b49bf25.jpg",
                 "paste-83432abc55fa6c92e1a4f19a644f9ece7d498abc.jpg",
@@ -1040,6 +1042,55 @@
                     ],
                     "guid": "BS8NpxJ>O2",
                     "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Zeichnen Sie den Modellierungsprozess einer Simulation auf.[/latex]<br>",
+                        "<img src=\"paste-11d5cd412fbd8a2ea678f9160a31514b515a0280.jpg\">"
+                    ],
+                    "guid": "qK%ji(C4O(",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "3def17ab-8836-11eb-abea-f82819695d86",
+            "deck_config_uuid": "e15c8f6c-8260-11eb-9f18-f82819695d86",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "latex-229838d47e2eb77fb95296904948d9894fc21ae4.png",
+                "latex-674cfae07955c104ddcbe30351c25c597fc3cc89.png",
+                "latex-c2723195b0998695d8249db673dc6c2e26049596.png",
+                "latex-f8a58ab6e75197ed222b98bc2f99839e757577b3.png"
+            ],
+            "name": "04 URANUS",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Bennenen Sie die Transportkoeffizienten, die benötigt werden um die viskosen Flüsse in den navier-Stokes Gleichungen zu bestimmen.[/latex]<br>",
+                        "[latex]Viskosität, Wärmeleitzahl, Diffusionskoeffizient[/latex]<br>"
+                    ],
+                    "guid": "I>nyb.{ri6",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Was besagt die \\textit{method of lines}?[/latex]<br>",
+                        "[latex]Seperate Diskretisierung von Raum und Zeit (unterschiedlicher Ordnungen möglich).[/latex]<br>"
+                    ],
+                    "guid": "GaQZK2yFY]",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
                     "tags": []
                 }
             ]
