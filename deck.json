@@ -11,22 +11,54 @@
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [
+                "latex-03d9f1e65444842cc7c9b7ebe54414a3f297d5f1.png",
+                "latex-064dff5eba483a21b9d9b04fa93f6cbc9c744509.png",
                 "latex-08025704c3478ebb52477d964a5bb773fa1ca2e4.png",
+                "latex-08706cea69e3cc3b58df14a973af72b339eb8f92.png",
+                "latex-0dfc168515364defd40a91724d49adcc33541023.png",
+                "latex-172df7928678c4623f0bc985e205ebafdd4ccf0c.png",
+                "latex-1da7f54b1be59c6a5313373696d984b6de1cf1a8.png",
                 "latex-1eedf6ac17e7939475042ea3e34f5cbbed7a1fbd.png",
                 "latex-2fd63b22620e931c56c556875466d05cbe106c82.png",
+                "latex-30842dfd2253f7ff924f9154ba2f1c40c385e694.png",
+                "latex-395d17b0e0855b7c367aecb61b5ae7ef4e1232e6.png",
+                "latex-3bdb0c2c296b357e083858a33b66f225eb7d2a60.png",
                 "latex-43efaa2cd002c58c6f07302706bac73d1f652a42.png",
+                "latex-469b0477f90d573be13571c352ea7eedb447cd4a.png",
                 "latex-4777110ba7973045a50d45fca7cbac6c3256bb7a.png",
                 "latex-477af3cd3d3fd129e22ba7ac2910989e961e4a93.png",
+                "latex-52ca78b417056592b6594186e6f3e1d0c29954a7.png",
+                "latex-5328922e6d258e35d56c300518b811a275965dae.png",
+                "latex-584c2efb752c49bbc6c0b35c243f7a385519d07e.png",
                 "latex-58635b23c4644e0b33d1769451a52bfa6ee39012.png",
+                "latex-61a5f11e8b49243838eb0c08e89f470a65014c0a.png",
                 "latex-6c3937e1ed772793e53d6d5d9ac87c8c98ca2821.png",
+                "latex-6c7242fb44a807cb916f6232b4509f4f302921a2.png",
+                "latex-701fce7e538f37689dd740a691cd7c73d9830fc9.png",
                 "latex-72754ef40404b568a647927d88bf3901f7429c0f.png",
                 "latex-7433b2b2f0be45c9bcd6c15eb5c1768fd3c1ca71.png",
+                "latex-77ee2b0dde726fc7fcbdcb7a220939c6283e2fc5.png",
+                "latex-78c8f20606d15dbf045605049481e8f8b6365057.png",
                 "latex-7ca62daf1929741a5ee1f2ff23acd83c167dc02d.png",
+                "latex-8454f171e76e46a53dd57b4e3e799d3d2d8fd1cc.png",
                 "latex-99a0c2d5337ea5a1124181c2afcbb86dfc0045ff.png",
+                "latex-a2519f87183e5c6a0d0ed4f2f4a9b44b316b72cd.png",
+                "latex-a95082e8a24de094097f766112a3be8d32a426bc.png",
                 "latex-aad2fecefcb70a63dabcb4724e4a6fb5304c3335.png",
+                "latex-b0ff945a0811e87d1284a95e296a690e9f50c567.png",
+                "latex-b844cad9e76bf7dd34c14efef82135aec9a69f19.png",
+                "latex-ba6e78c9efea28cb50af894137be2d9a9e06b23d.png",
+                "latex-bf06b29db6497656cbf6f3c67b0a4a758c962a28.png",
                 "latex-bfe236df30a8572912f934713fe77d169ef72783.png",
+                "latex-ca21f4889d5a63d74af241d6b723c153eca11ceb.png",
+                "latex-caa13195bd31d00b00676b51b76d3cf7e8a6795c.png",
                 "latex-d036c031bf8a2e653a834740fd85c51078b80c73.png",
-                "latex-dc19a5868422e851cdbfaac058679a65074e4f52.png"
+                "latex-d42e3719e85cf966d350801c621403bd8575a7f4.png",
+                "latex-dc19a5868422e851cdbfaac058679a65074e4f52.png",
+                "latex-dd524083d344b8dedc5f9e9589c2b3c7ea430260.png",
+                "latex-ebcd64de6182f9e18d659e6fcf265b58cf4e458a.png",
+                "latex-ed306333e95bb08deaeb2becc2b8d1c84de93c23.png",
+                "latex-ee1d385f01d96aee5d3d5562a7f729a4a836ba01.png"
             ],
             "name": "00 Fragenkatalog Flurus",
             "notes": [
@@ -108,6 +140,166 @@
                     ],
                     "guid": "zd.Yy{b5U]",
                     "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Als was werden die makroskopischen Größen ($v,\\rho,p,T$) einer Strömung aufgefasst?[/latex]<br>",
+                        "[latex]<div>Die makroskpischen Größen in jedem Punkt der Strömung können als Mittelwerte der molekularen Größen aufgefasst werden.\\\\</div><div>\\\\</div><div>Die Mittelwerte werden dabei über alle Moleküle gebildet, die sich in der näheren Umgeung des Punktes befinden.</div><div>[/latex]<br></div>"
+                    ],
+                    "guid": "dfsm/|ZKnn",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Wann ist die Beschreibung einer Strömung als Kontinuum noch sinnvoll?[/latex]<br>",
+                        "[latex]<div>Die Beschreibung als Kontinuum ist so lange gültig, wie das kleinste signifikante Volumen der Strömung genügend Teilchen enthält, um sinnvolle Mitellwerte bilden zu können.</div><div>[/latex]<br></div>"
+                    ],
+                    "guid": "s+koxR%peP",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Was beinhaltet die Boltzmanngleichung?[/latex]<br>",
+                        "[latex]<div>Die Änderungen nach Zeit, Ort und Geschwindigkeit der Verteilungsfunktion im Volumenelement sind durch die Bildungs- und Verlustraten von Teilchen gegeben.\\\\</div><div>[/latex]<br></div>"
+                    ],
+                    "guid": "QJKyakcFgn",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Was passiert mit polyatomaren Gasen, wenn sie eine \"chemische Reaktion\" eingehen?[/latex]<br>",
+                        "[latex]Sie werden durch inelastische Stöße in einen anderen Anregungszustand transferiert.[/latex]<br>"
+                    ],
+                    "guid": "P3uk&po-3*",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Warum sind in der Aerothermodynamik mikroskopische und makroskopische Beziehungen nebeneinander zu benutzen?[/latex]<br>",
+                        "[latex]<div>Da die benötigten makroskopischen Transportkoeffizienten der Navier-Stokes-Gleichung oft gaskinetisch, also über mikroskopische Beschreibung modelliert werden.[/latex]<br></div>"
+                    ],
+                    "guid": "B4r^>tL/8(",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Aus welcher Gleichung kann man die Kontinuumsgleichungen herleiten?[/latex]<br>",
+                        "[latex]Aus der Boltzmanngleichung[/latex]<br>"
+                    ],
+                    "guid": "cUKHJ5B6SY",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Mit welcher Methode lassen sich makroskopische Beziehungen für die Transportkoeffizienten aus der Boltzmanngleichung angeben?[/latex]<br>",
+                        "[latex]<div>Chapman-Enskog-Methode<br><div>[/latex]<br></div></div>"
+                    ],
+                    "guid": "GZj}:rKPbv",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Für welche Knudsenzahlen lassen sich mit der Chapman-Enskog-Methode makroskopische Beziehungen für Transportkoeffizienten angeben?[/latex]<br>",
+                        "[latex]für $Kn &lt;&lt;1$ (Kontinuum)[/latex]<br>"
+                    ],
+                    "guid": "u6l~RQKJTg",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Wann kann die Boltzmanngleichung in eine Gleichung für Momente der Verteilungsfunktion, aus der die Navier-Stokes-Gleichung folgt, umschrieben werden?</div><div>[/latex]<br></div>",
+                        "[latex]<div>Temperatur- und Geschwindigkeitsgradienten müssen über eine mittlere freie Weglänge klein sein!</div><div>[/latex]<br></div>"
+                    ],
+                    "guid": "DjfAEa+Vtn",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Worin liegt die Bedeutung der C-E-Mehtode?</div><div>[/latex]<br></div>",
+                        "[latex]<div>Die Bedeutung der C-E-Methode liegt in der Tatsache, dass sie die Berechnung der Transportkoeffizienten aus der molekularen Wechselwirkung ermöglicht.</div><div>[/latex]<br></div>"
+                    ],
+                    "guid": "Qd}ArP1/+`",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Wann ist in Bezug auf die mittlere freie Weglänge der Bereich der Kontinuumsgleichungen erreicht?</div><div>[/latex]<br></div>",
+                        "[latex]<div>Der Bereich der Kontinuumsgleichungen ist erreicht, wenn die mittlere freie Weglänge so klein geworden ist, dass sie zur Beschreibung der makroskopischen Vorgänge nicht mehr aufgelöst werden muss.</div><div>[/latex]<br></div>"
+                    ],
+                    "guid": "fP2TW500)O",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Durch welche 5 physikalischen Modelle muss die Navier-Stokes-Gleichung von Gasgemischen im Nicht-GG erweitert werden?</div><div>[/latex]<br></div>",
+                        "[latex]<div>\\begin{itemize}</div><div>\\item Thermodynamische Eigenschaften</div><div>\\item Gasgemischzusammensetzung</div><div>\\item Transportkoeffizienten</div><div>\\item chemische Reaktionen</div><div>\\item Relaxationen innerer Freiheitsgrade</div><div>\\end{itemize}</div><div>[/latex]<br></div>"
+                    ],
+                    "guid": "k)6zwx#+{b",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Die Navier-Stokes-Gleichung ist ein System von welchen Erhaltungsgleichungen?</div><div>[/latex]<br></div>",
+                        "[latex]<div>\\begin{itemize}</div><div>\\item Speziesgleichungen</div><div>\\item globalen Impulsgleichungen</div><div>\\item globalen Energiegleichungen</div><div>\\item Schwingungs-Energiegleichungen</div><div>\\item Energiegleichung für Elektronenenergie und Elektronenanregung</div><div>\\end{itemize}</div><div>[/latex]<br></div>"
+                    ],
+                    "guid": "HvF/=w9T8K",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Wie wird die Elektronendichte in einem Gas berechnet?</div><div>[/latex]<br></div>",
+                        "[latex]<div>Die Elektronendichte wird aus den Ionendichten unter Annahme von Ladungsneutralität berechnet.</div><div>[/latex]<br></div>"
+                    ],
+                    "guid": "f/^0mlCU<,",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Durch welche Effekte wird die Hyperschall- bis Unterschallströmung um einen Wiedereintrittsflugkörper beeinflusst?</div><div>[/latex]<br></div>",
+                        "[latex]<div>Nur durch aerodynamische Effekte, d.h. Mach- und Reynoldszahleffekte.\\\\</div><div>\\\\</div><div>Die Hochtemperatureffekte sind in diesem Flugbereich vernachlässigbar.</div><div>[/latex]<br></div>"
+                    ],
+                    "guid": "ca[ymX7$ji",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>\\textbf{Machzahleffekte}\\\\</div><div>\\\\</div><div>Beschreibe kurz die Strömung stromab vom Staupunkt entlang der Luvseite eines Fahrzeuges!</div><div>[/latex]<br></div>",
+                        "[latex]<div>\\begin{itemize}</div><div>\\item großes Unterschallströmungsgebiet stromab vom Staupunkt.</div><div>\\item Noch weiter stromab: reibungsfreie Strömung zwischen Stoß und Körper mit moderaten Überschallgeschwindigkeiten.</div><div>\\end{itemize}</div><div>[/latex]<br></div>"
+                    ],
+                    "guid": "opyyKwlm*n",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
                     "tags": []
                 }
             ]
