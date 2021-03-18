@@ -764,6 +764,7 @@
                 "latex-08cf2b5965351f08e2b6eed1bf0f90f55a048d06.png",
                 "latex-0fa9a5d734aeff7b7b7a5995722b5d4dea5cc6eb.png",
                 "latex-1461d147df6aebbbd7e2cab1e474284867300082.png",
+                "latex-15a397bdc74ef5b60fe4e2e037893b20c6dcd72b.png",
                 "latex-1ad9678877029c341d79c88a022134d7e25357b6.png",
                 "latex-1e9fa9151f8281f6e893f61560676398f74f25d7.png",
                 "latex-21f4487f5bcc43a64c1ded68a60f0f6779bc3c90.png",
@@ -772,6 +773,7 @@
                 "latex-51f40353f4c5f4752114b3a74601ec2860c143ac.png",
                 "latex-55febbcb007fe97e91e886f7f50a3dc30dddb7ce.png",
                 "latex-56b92f8737b87266833f4e0607dc20ec21795e4a.png",
+                "latex-5e0189fd7b609e1e7e984e585c2079ddda889b58.png",
                 "latex-645f6d9146f51d9e3c1b79eeb49c182b9dfcf798.png",
                 "latex-6a83d6bf77b4c772a1dd4219b3552f049b6cf0ad.png",
                 "latex-7a3425e637a1a14c8524db830203b5c46eff7bcc.png",
@@ -781,20 +783,29 @@
                 "latex-875df50e15d6d332d768178b782b49105e1df137.png",
                 "latex-8771af57b2a49a3659c74fdfc9d520355c5b8f30.png",
                 "latex-8ebad42c318eb1f1d02d7f1b635af65eedcacad8.png",
+                "latex-93a8c5f30f726f5065939208f76e8c1f8adb4bdf.png",
                 "latex-985e556692e98eaac2efb5a47f42b9c336995f25.png",
                 "latex-acd834c788cdb91dc3ef0b79ea87773a7d6f04dd.png",
+                "latex-af50926e65d3696c0dfc1de744e294fe1614a7e7.png",
                 "latex-b9105a8ea9e2c43391eb5a6087b96dc6f3709e8b.png",
                 "latex-bd7dc898d3cf9dd5a70bb50dd0de47b99a8d7eac.png",
+                "latex-c7a53865a3dc67d1b9daa1b1bec0be3657b82664.png",
                 "latex-cc617c9f387803ac93bbb13cc1f4f59f5ae9d52a.png",
+                "latex-d67d1602ff2478cd456f691c9fbc5d5f885fdfc5.png",
+                "latex-d94fd40f8070c9bb327f5c1a8f97a9cfb6a96686.png",
                 "latex-d9ab8041c6353eb9d16dae8c2bab0acaaa0c9e09.png",
+                "latex-dd29385de0ac481c124ad74e5b6d8f9679d303bd.png",
                 "latex-dfd2cad8542bed2cc87a86c9f3b54307c6d0d69f.png",
                 "latex-f0672c90a6a777d889299c7535b0b72b072f9587.png",
                 "latex-f35afe1f96cfd0c1ee6fb05db3784532d1847b1f.png",
                 "latex-fa248729506b5135064eeac7f8e9d5a570c678c5.png",
+                "latex-fd4db51df26ccee071fe08aca756fe3d0d4c3a83.png",
                 "latex-fe7b23ea0658d0e45ad3cfb6b4f776f0c6235fa9.png",
+                "paste-2f22b2817a3d249e55a337c00c4bfe1f3eebe4a3.jpg",
                 "paste-6e6c36f17fe53e8265b4a7e56bfeb9c03b49bf25.jpg",
                 "paste-83432abc55fa6c92e1a4f19a644f9ece7d498abc.jpg",
                 "paste-c3e55c1fab28bb1c63684a2e1791728d3eff3b45.jpg",
+                "paste-cb5354c05b36c67a4ea0e43300bcd79c61394942.jpg",
                 "paste-cf4948c8e6061a5bd44a7f5b6f700cb55d84b912.jpg",
                 "paste-de2e35044e52ae9fc59d637f895be504667f427e.jpg",
                 "paste-e85a52b6732fe2f190e495f9cad69804d5cad9e3.jpg"
@@ -980,21 +991,58 @@
                     "guid": "jZF(DNaH@7",
                     "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
                     "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Welche Prozesse können an einer TPS-Oberfläche auftereten?[/latex]<br>",
+                        "[latex]<div>\\begin{itemize}</div><div>\\item katalytische Reaktionen, welche Oberfläche chemisch nicht verändern</div><div>\\item Redox Reaktion, bei denen Oberfläche mit der Gasphase bzw. einer sich bildenden Deckschicht reagiert</div><div>\\begin{itemize}</div><div>\\item Reduktion: Aufnahme von Elektronen</div><div>\\item Oxidation: Abgabe von Elektronen</div><div>\\end{itemize}</div><div>\\item Thermische Zersetzung / Pyrolyse des Oberflächenmaterials</div><div>\\end{itemize}[/latex]<br></div>"
+                    ],
+                    "guid": "Ls2?ur:g7_",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Erklären Sie den Begriif Katalyse in bezug auf TPS-Oberfläche.[/latex]<br>",
+                        "[latex]<div>Katalytische Prozesse verschieben die chemische Zusammensetzung des \\\\</div><div>strömenden Gases zum chemischen Gleichgewicht hin&nbsp;</div><div><br><div>\\begin{itemize}</div><div>\\item An \"kalten\" Wänden ($T_w &lt; 2500K$) reagieren Stickstoff- und Sauerstoffatome zu den</div>entsprechenden molekularen Spezies N2 und O2.<br>\\item Rekombinationsreaktionen von Stickstoff- und Sauerstoffatomen führen zur Bildung<br>vibratorisch hochangeregter Moleküle<br>\\item Frei werdende Reaktionsenthalpie führt zu einer Erhöhung des Wandwärmestroms<br>\\textrightarrow Erhöhung der thermischen Belastung<div>\\end{itemize}</div><div>\\textrightarrow schwachkatalytische Materialen als TPS erwünscht</div><div>[/latex]<br></div></div>"
+                    ],
+                    "guid": "tc{=Dx-_?:",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Bennenen Sie die drei Definitionen einer vollkatalytischen Oberfläche.[/latex]<br>",
+                        "[latex]<div>\\begin{enumerate}</div><div>\\item Reaktionsenthalpie wird beim Auftreffen der Teilchen vollständig freigesetzt</div><div>\\item An der vollkatalytischen Wand herrscht chemisches Gleichgewicht</div><div>\\item Teilchen die unter chemischen GGW nicht vorhanden sind reagieren bei Kollision mit Wand zu teilchen die unter GGW Bedingungen vorhandne sind&nbsp;</div><div>\\end{enumerate}[/latex]<br></div>"
+                    ],
+                    "guid": "Lq^o_9#T/L",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Wie ist der katalytische Rekombinationskoeffizient definiert?[/latex]<br>",
+                        "<img src=\"paste-2f22b2817a3d249e55a337c00c4bfe1f3eebe4a3.jpg\">"
+                    ],
+                    "guid": "NUiy6@d<s<",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Bennenen Sie die verschiedenen Elementarreaktionen.[/latex]<br>",
+                        "<img src=\"paste-cb5354c05b36c67a4ea0e43300bcd79c61394942.jpg\"><div>[latex]</div><div>\\textbf{Adsorption/Desorptionsreaktion:} Atome werden auf aktiven</div>Zentren adsorbiert und können von diesen nach einer gewissen<br>Zeit desorbieren.<br>Beispiel: N + X \\textrightarrow NX \\\\<br>\\textbf{Eley-Rideal-Mechanismus:} Ein Gasphasenatom rekombiniert mit<br>einem adsorbierten Atom zu einem Molekül, welches sofort von<br>der Oberfläche desorbiert.<br>Beispiel: NX + N \\textrightarrow N2 + X\\\\<br>\\textbf{Langmuir-Hinshelwood-Mechanismus:} Ein Teil der adsorbierten<br>Atome besitzt genügend Energie um sich auf der Oberfläche zu<br>bewegen. Trifft ein solches Atom auf ein anderes adsorbiertes<br>Atom, so findet eine Rekombinationsreaktion mit anschließender<br>Desorption statt.<br><div>Beispiel: OX + OX \\textrightarrow O2 + 2X\\\\</div>\\textbf{Dissoziation:} Moleküle mit hoher kinetischer und vibratorischer<br>Energie können bei Kollision mit der Oberfläche dissoziieren.<br>Beispiel: NO \\textrightarrow N + O\\\\<br>\\textbf{Dissoziative Adsorption:} Trifft ein hochenergetisches Molekül auf<br>ein aktives Zentrum, so kann eine Dissoziation des Moleküls mit<br>gleichzeitiger Adsorption eines Atoms oder beider ablaufen.<br>Beispiel: O2 + X \\textrightarrow OX + O<br>O2 + 2X → OX + OX\\\\<br>\\textbf{Ionenrekombination:} Ionisierte Teichen rekombinieren mit einem<br>Elektron zu Neutralteilchen.<br><div>Beispiel: O+ + e- \\textrightarrow O[/latex]<br></div>"
+                    ],
+                    "guid": "BS8NpxJ>O2",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
                 }
             ]
-        },
-        {
-            "__type__": "Deck",
-            "children": [],
-            "crowdanki_uuid": "cd43f98c-8693-11eb-bb99-f82819695d86",
-            "deck_config_uuid": "e15c8f6c-8260-11eb-9f18-f82819695d86",
-            "desc": "",
-            "dyn": 0,
-            "extendNew": 0,
-            "extendRev": 0,
-            "media_files": [],
-            "name": "03 Überblick Phänomene",
-            "notes": []
         }
     ],
     "crowdanki_uuid": "e15c8f6b-8260-11eb-bf8e-f82819695d86",
