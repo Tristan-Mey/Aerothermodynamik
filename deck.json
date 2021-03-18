@@ -16,9 +16,12 @@
                 "latex-08025704c3478ebb52477d964a5bb773fa1ca2e4.png",
                 "latex-08706cea69e3cc3b58df14a973af72b339eb8f92.png",
                 "latex-0dfc168515364defd40a91724d49adcc33541023.png",
+                "latex-0eff4afbe411c403740ec3e9c58cef6ccc4cdf65.png",
+                "latex-164aed3e36d118d5e7f599601a35fe9683a7b184.png",
                 "latex-172df7928678c4623f0bc985e205ebafdd4ccf0c.png",
                 "latex-1da7f54b1be59c6a5313373696d984b6de1cf1a8.png",
                 "latex-1eedf6ac17e7939475042ea3e34f5cbbed7a1fbd.png",
+                "latex-1fd1cd5c6a1a2a50566fdfb484f79941d52f7d30.png",
                 "latex-2fd63b22620e931c56c556875466d05cbe106c82.png",
                 "latex-30842dfd2253f7ff924f9154ba2f1c40c385e694.png",
                 "latex-395d17b0e0855b7c367aecb61b5ae7ef4e1232e6.png",
@@ -27,6 +30,8 @@
                 "latex-469b0477f90d573be13571c352ea7eedb447cd4a.png",
                 "latex-4777110ba7973045a50d45fca7cbac6c3256bb7a.png",
                 "latex-477af3cd3d3fd129e22ba7ac2910989e961e4a93.png",
+                "latex-4b654bbaeb275508ac075de448b21815230f7463.png",
+                "latex-4d9abb6acfaa4187558d25045aa554c7efa927b8.png",
                 "latex-52ca78b417056592b6594186e6f3e1d0c29954a7.png",
                 "latex-5328922e6d258e35d56c300518b811a275965dae.png",
                 "latex-584c2efb752c49bbc6c0b35c243f7a385519d07e.png",
@@ -41,19 +46,30 @@
                 "latex-78c8f20606d15dbf045605049481e8f8b6365057.png",
                 "latex-7ca62daf1929741a5ee1f2ff23acd83c167dc02d.png",
                 "latex-8454f171e76e46a53dd57b4e3e799d3d2d8fd1cc.png",
+                "latex-90a60c31c647fe8f0bb60c929b3a6b683a49b14f.png",
+                "latex-990abebea56c14c8688b40653ad3c946f795b6e8.png",
                 "latex-99a0c2d5337ea5a1124181c2afcbb86dfc0045ff.png",
+                "latex-9a82e0c5f86c7aac7eea2625eba066842a533a22.png",
+                "latex-9e7c91d941a30556e544ac7ea138bb35ecaed264.png",
+                "latex-9fdeef5e2545429f97c369c38782451ee68059fb.png",
                 "latex-a2519f87183e5c6a0d0ed4f2f4a9b44b316b72cd.png",
                 "latex-a95082e8a24de094097f766112a3be8d32a426bc.png",
                 "latex-aad2fecefcb70a63dabcb4724e4a6fb5304c3335.png",
+                "latex-abd7a93288dd3fb7ababcf4b1649e938913f2d91.png",
                 "latex-b0ff945a0811e87d1284a95e296a690e9f50c567.png",
+                "latex-b1ebe33e692d6506bd1c7ace6b9ceab52945ca3f.png",
                 "latex-b844cad9e76bf7dd34c14efef82135aec9a69f19.png",
+                "latex-b9c36c8ab10b65a18db97f445927df3dbff00847.png",
                 "latex-ba6e78c9efea28cb50af894137be2d9a9e06b23d.png",
+                "latex-be34107f48e2339ad578846b7d77008f14ac1530.png",
                 "latex-bf06b29db6497656cbf6f3c67b0a4a758c962a28.png",
                 "latex-bfe236df30a8572912f934713fe77d169ef72783.png",
                 "latex-ca21f4889d5a63d74af241d6b723c153eca11ceb.png",
                 "latex-caa13195bd31d00b00676b51b76d3cf7e8a6795c.png",
                 "latex-d036c031bf8a2e653a834740fd85c51078b80c73.png",
+                "latex-d30533d8976e08d965db121fe0fe1da0abbf9d52.png",
                 "latex-d42e3719e85cf966d350801c621403bd8575a7f4.png",
+                "latex-d79b5281cdf7ee6b0196794939fcff4ce3f118ed.png",
                 "latex-dc19a5868422e851cdbfaac058679a65074e4f52.png",
                 "latex-dd524083d344b8dedc5f9e9589c2b3c7ea430260.png",
                 "latex-ebcd64de6182f9e18d659e6fcf265b58cf4e458a.png",
@@ -299,6 +315,86 @@
                         "[latex]<div>\\begin{itemize}</div><div>\\item großes Unterschallströmungsgebiet stromab vom Staupunkt.</div><div>\\item Noch weiter stromab: reibungsfreie Strömung zwischen Stoß und Körper mit moderaten Überschallgeschwindigkeiten.</div><div>\\end{itemize}</div><div>[/latex]<br></div>"
                     ],
                     "guid": "opyyKwlm*n",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>\\textbf{Machzahleffekte}\\\\</div><div>\\\\</div><div>Welche Eigenschaften hat eine Über-/Hyperschllströmung stromab des Bugstoßes auf der Leeseite eines Fahrzeuges?</div><div>[/latex]<br></div>",
+                        "[latex]<div>Bereiche mit sehr geringen Drücken.</div><div>[/latex]<br></div>"
+                    ],
+                    "guid": "dkGa:3K3+;",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>\\textbf{Machzahleffekte}\\\\</div><div>\\\\</div><div>Was gibt oberhalb einer ausreichend hohen Machzahl für die aerodynamischen Beiwerte?</div><div>[/latex]<br></div>",
+                        "[latex]<div>Machzahlunabhängigkeit (der Hyperschallströmung)</div><div>[/latex]<br></div>"
+                    ],
+                    "guid": "vK!$]Z):!P",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Was ist an lokalen aerodynamischen Aufheizungen so gefährlich?</div><div>[/latex]<br></div>",
+                        "[latex]<div>Lokale Wärmestromspitzen können sehr viel größer sein als der Wärmestrom im Staupunkt und evtl. die kritischen Wärmestromwerte der Materialien überschreiten.</div><div>[/latex]<br></div>"
+                    ],
+                    "guid": "pR<f:pA5;y",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Was verursacht die aerodynamische Aufheizung der oberflächennahen Hyperschallströmung?</div><div>[/latex]<br></div>",
+                        "[latex]<div>Reibungseffekte</div><div>[/latex]<br></div>"
+                    ],
+                    "guid": "eYTBm<c7_>",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Was charakterisiert die dünne Stoßfront einer Hyperschallströmung?</div><div>[/latex]<br></div>",
+                        "[latex]<div>Dichtezunahme über die Stoßwelle hinweg groß.\\\\</div><div>\\\\</div><div>Bei hohen Machzahlen und kleinen Reynoldszahlen (in großen Höhen) kann die dicke Grenzschicht mit dem Stoß verschmelzen.</div><div>[/latex]<br></div>"
+                    ],
+                    "guid": "lLx?eg,&gc",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Was ändert sich am Rand einer Entropieschicht?</div><div>[/latex]<br></div>",
+                        "[latex]<div>Entropie und Totaldruck</div><div>[/latex]<br></div>"
+                    ],
+                    "guid": "fUA$X]-.j_",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Was versteht man unter \" starker viskoser Interaktion\" in einer Strömungsgrenzschicht?</div><div>[/latex]<br></div>",
+                        "[latex]<div>Starke viskose Interaktionen zwischen einer hyperschallströmungs-grenzschicht und der reibunsgfreien Außenströmung, d.h. Grenzshcicht beeinflusst die Außenströmung.</div><div>[/latex]<br></div>"
+                    ],
+                    "guid": "g7gmX^(rnG",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Was versteht man unter einem sogenannten \"merged layer\"?</div><div>[/latex]<br></div>",
+                        "[latex]<div>Dicke mit Stoß verschmolzene Grenzschicht.</div><div>[/latex]<br></div>"
+                    ],
+                    "guid": "jkgUX,(`=Q",
                     "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
                     "tags": []
                 }
