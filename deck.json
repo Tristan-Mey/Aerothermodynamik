@@ -795,64 +795,72 @@
             "extendRev": 0,
             "media_files": [
                 "latex-00ca7a5827a83367bbea47c2a0fb2a347cb58996.png",
-                "latex-08649e9f7d640c32121b2074845fff3b2929b622.png",
                 "latex-0c4a31b8207f44bf82010781db54899f99f11785.png",
                 "latex-0d4a4f8480816832de40a5b6f0b4c6f5333f1f6e.png",
                 "latex-0df7602e3136c310be23abc4bbcceebc4a20af7a.png",
+                "latex-162327fefae729a3aa69e78be2c36b0e2b869abc.png",
                 "latex-1742e2d2743e9f76cdfc121bbb2ad71416840de3.png",
+                "latex-18a48ee1b71915aef6277011c0c5a0a1610fbc6f.png",
                 "latex-1b58300401c1a747e16a8e10b2b86e0bad53db45.png",
                 "latex-1ec788d5a81c936490aa79f5a732d51b8bf1f5e7.png",
+                "latex-1f360922880a0674a396823350485c939f3ddaed.png",
+                "latex-1f665baa883438a8432066837e63d792064afd7e.png",
                 "latex-20249c8e4e8f74c56b5d905427dccafcde105d5b.png",
-                "latex-21890ca4e05e7ac84ed0f849e9b027d4cd96efc1.png",
+                "latex-2406fb7480eb06b5a545ab6fad87d630fe10f328.png",
                 "latex-245eb524142a0eb2225134d63154ee13ca3d9b60.png",
-                "latex-276b9fee56e9266abc66ebc9633955b4cfee89d5.png",
+                "latex-26fe95e84db315817b250309b2f9bbb6a2bd0c8e.png",
+                "latex-2a099c0f1f79a21ab1e6af126c4ed237f13ec1bf.png",
                 "latex-2ce614176c31122347361210fc1e743c289532d3.png",
                 "latex-2cf803fdecd82c7ff7a07c78dd39014629918db9.png",
-                "latex-379dd3bdd66bb10ddc701324de68f685b5637daf.png",
+                "latex-32346cd84a4b1c59a465775a31e443ee58977ace.png",
                 "latex-3a22597e43f5bf5ef4cff09bb25e2259d4a0722e.png",
+                "latex-3e9eb0250e0a840d91724df1400c5a0f34f43d16.png",
                 "latex-411d06a535ee7cc4689199794976167df4746de6.png",
                 "latex-44cbb318dfbb248d23501f92b6581e990e9b736b.png",
-                "latex-455fb3c89680ad94203f293aaaf5e0e1dba8cc57.png",
+                "latex-459b66b03188724b7f3f470fd2f14edbe5eb3509.png",
                 "latex-4790ea0700b5a660f4b068f2710b124b80fbee27.png",
+                "latex-4de24d543a3a41c79f393301fb69b674170b9991.png",
+                "latex-4ee83fd7f08e13a6278f6eabf8fd055e094067b5.png",
                 "latex-57aa4b9a6111466ca6f75adabcd17fa68948ca88.png",
                 "latex-58872bac89f233f98b98c86f9fc53b9477fee93c.png",
                 "latex-622490861a2c990d1c813e13a6f1fa6c22517a31.png",
-                "latex-6c1e9dc3ba09f18b7ce75798e8743ea3c0fbf181.png",
                 "latex-70aa78f050330a2c4264cdaed05359bd55fb0e5c.png",
                 "latex-729f8c8c9ef538c84a7e0269c5e0c7a79f2783ef.png",
-                "latex-778e26178588e74eb46531551eada48c25ecd09c.png",
+                "latex-72a6edadfeb2c02936faaac3309b96cbc9e92a15.png",
                 "latex-796951f22cbf4a9a938198dbd226c3269852228f.png",
-                "latex-7bb3b35bcb4f74c026397202f04c75f4aea2ed4c.png",
-                "latex-8b53b14a046b98fb2d0b6dd043696e62a989bc3b.png",
+                "latex-7d56f2c368098dea04074790f4ab7664dc041399.png",
+                "latex-82b735cbcde95c2694f74ed367e2b2355c3a425a.png",
                 "latex-913e3aaae35a6f06fed4af3ec4d4cc446e9865d6.png",
+                "latex-92236249bb79e40574a73c38331da6f816bdc83a.png",
                 "latex-93668506bae18f9236a914e8ce69a4a0b1a8df1a.png",
                 "latex-93764d442b28cd2ceffd6adcab095b0c96c283d2.png",
-                "latex-94bab591c4837314a0fede0265d92eb78649c957.png",
                 "latex-960bb92d1ff791fcc9d8492c221576d24c5899b0.png",
-                "latex-9d6903c6ce7af37b5c52e72a2956fdd41a6e093b.png",
-                "latex-9f22a54c61e2432a9118549c4f9010bedef0276b.png",
-                "latex-a0ad38eaed8b3e8bad8568b01570a0ebc061ebf9.png",
+                "latex-9a618672be1f39929dd47ea919baf00ebbdc9c71.png",
+                "latex-9d3bbf144824e179cf7b6dbae6127767448b3467.png",
+                "latex-a284de1aae8b31a10aa753528436ef8922d9fa9d.png",
                 "latex-a67cedd70b055b766ae4283736e26cbf48ea2ce4.png",
                 "latex-a8105dda57c11b15f0dd9b86ce9981ffd5b0a1c2.png",
-                "latex-abf84ed7d6fedee3788c1bef363f12034777c91c.png",
-                "latex-bc758881b20af93d61edb8bc7cc97fc6c72c5905.png",
+                "latex-b65a1c78cb2845b4216f62c7165e9b8617f44c67.png",
+                "latex-b6e57273f9954b3d1a144d66a98d4058fbe4fc13.png",
                 "latex-bcb363ee47d69952de4b2b0c670ac99e0d3b7c6a.png",
                 "latex-bda8dc2b82cad474dfeed49dba20489ac70bbc1b.png",
-                "latex-bfb543cef1d6fc9a25c60ae001645757e4108571.png",
                 "latex-c28f648d87c3434597a8201e3f48b6f8263bdfdb.png",
                 "latex-c7295f7e616361db6094a463a55b17a03257eb42.png",
                 "latex-c73a532832cffa38924d4ca616319b3b673cc6bb.png",
                 "latex-c8758debe1417e76f7fa921f2e4def1b676b4269.png",
+                "latex-ca86c26c8c80218cd8eaabcc44a7c49fd40157e7.png",
                 "latex-caa616e67db8e844c4cfaae7455dec3abc5c9717.png",
+                "latex-cce5e55bb30d28662cec76160e3980a199b16c1b.png",
+                "latex-ccee10d22d00ef80d49018b35444df016f6b57d6.png",
+                "latex-d1d6114145326578e8f532284c5547ade843a060.png",
+                "latex-d2b9b63b39f5c3923b1985c09020f263be7b26a9.png",
                 "latex-d99fbfd4d61614248e4dfe370bbf105e66be9340.png",
+                "latex-dd7b64f5bac63bdf0990145f7e04ecc1c675f136.png",
+                "latex-df63b4a935cde8f705f478e2ab1bbf912d10b4e0.png",
                 "latex-e0093398c2a089bbead937fb881e2df816a6caf0.png",
                 "latex-e37e454cddc804c55a3dd9be8ccada5954c44d1c.png",
-                "latex-e5dc4238a3a4298ea631c8488e7c1a1d7ef29a8b.png",
-                "latex-ec933f923d0f93942d851d95e04322abe14741ae.png",
-                "latex-f4266173d062bb198dba2020a12a542224ae7ce1.png",
                 "latex-fa36a30e2816b332ba20ef80223a191ac9ceb3a7.png",
                 "latex-fbb90ad6fd8df1740c397cbe2529e4a8f4691a17.png",
-                "latex-ff1f069e50710c0c84c82b20239af5dd5858de35.png",
                 "paste-1dca715c21b9ff1bfd606d6d9d1a9e20adc422f2.jpg",
                 "paste-22a27f872dc7346df9e0f2c8a39cf95e1888fcb1.jpg",
                 "paste-36b559a29aa5ad58c8459b10eba029ac7a8f4946.jpg",
@@ -880,7 +888,7 @@
                     "__type__": "Note",
                     "fields": [
                         "[latex]Unter welchen Voraussetzungen ist die Boltzmann-Gleichung gültig?[/latex]<br>",
-                        "[latex]Ausreichend verdünntes Gas, mittlere freie Weglänge sehr viel größer als Molekülabmessung\\\\<div>Reichweite intermolekularer Kräfte klein im Vergleich zum molekularen Abstand. D.h Geradlinige Bahnen der Moleküle und Bahnänderung durch Stoß\\\\</div><div>Kollisionszeit ist so kurz, dass während einer Kollision sich die Verteilungsfunktion nicht ändert\\\\</div><div>Nur binäre Kollisionen berücksichtigt\\\\</div><div>In Herleitung außerdem nur elastische, harte Kugeln als Molekülmodell betrachtet[/latex]<br></div>"
+                        "[latex]<div>\\begin{itemize}</div><div>\\item Ausreichend verdünntes Gas, mittlere freie Weglänge sehr viel größer als Molekülabmessung<div>\\item Reichweite intermolekularer Kräfte klein im Vergleich zum molekularen Abstand. D.h Geradlinige Bahnen der Moleküle und Bahnänderung durch Stoß</div><div>\\item Kollisionszeit ist so kurz, dass während einer Kollision sich die Verteilungsfunktion nicht ändert</div><div>\\item Nur binäre Kollisionen berücksichtigt</div><div>\\item In Herleitung außerdem nur elastische, harte Kugeln als Molekülmodell betrachtet</div><div>\\end{itemize}</div><div>[/latex]<br></div></div>"
                     ],
                     "guid": "Lhn)b}o4$U",
                     "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
@@ -889,7 +897,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "[latex]Wie lautet die Bolrtmanngleichung für den Fall der freien Molekülströmung?[/latex]<br>",
+                        "[latex]Wie lautet die Boltzmanngleichung für den Fall der freien Molekülströmung?[/latex]<br>",
                         "<img src=\"paste-a961b3b91ed8d29ccef393f4ed1d1f34fd2cbefb.jpg\"><div>[latex]Vlassov-Gleichung[/latex]<br></div>"
                     ],
                     "guid": "MbdV(UM03A",
@@ -910,7 +918,7 @@
                     "__type__": "Note",
                     "fields": [
                         "[latex]Was versteht man unter dem H-Theorem?[/latex]<br>",
-                        "[latex]Statistischer Ansatz zur \"Ableitung\" des 2. Haptsazues der Thermodynamik (Entropie)[/latex]<br>"
+                        "[latex]Statistischer Ansatz zur \"Ableitung\" des 2. Hauptsatzes der Thermodynamik (Entropie)[/latex]<br>"
                     ],
                     "guid": "qR>qLj3aE)",
                     "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
@@ -930,7 +938,7 @@
                     "__type__": "Note",
                     "fields": [
                         "[latex]Wie lassen sich prinzipiell aus der Boltzmann-Gleichung die Euler- und Navier-Stokes Gleichungen ableiten?[/latex]<br>",
-                        "[latex]Die Momente der Boltzmann-Gleichung für die Maxwell-Verteilung führen auf die Euler-Gleichungen, d.h auf die Erhaltungsgleichungen für Masse, Impuls und Energie einer reibungs- und wärmeleitungsfreien Strömung.\\\\<div>Für kleine Abweichungen vom thermodynamischem Gleichgewicht erhält man mittels Chaman-Enskog-Entwicklung aus den Momenten der Boltzmann-Gleichung die Navier-Stokes-Gleichungen.[/latex]<br></div>"
+                        "[latex]Die Momente der Boltzmann-Gleichung für die Maxwell-Verteilung führen auf die Euler-Gleichungen, d.h auf die Erhaltungsgleichungen für Masse, Impuls und Energie einer reibungs- und wärmeleitungsfreien Strömung.\\\\<div>\\\\<br><div>Für kleine Abweichungen vom thermodynamischem Gleichgewicht erhält man mittels Chapman-Enskog-Entwicklung aus den Momenten der Boltzmann-Gleichung die Navier-Stokes-Gleichungen.[/latex]<br></div></div>"
                     ],
                     "guid": "x.h5=m3CY?",
                     "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
@@ -950,7 +958,7 @@
                     "__type__": "Note",
                     "fields": [
                         "[latex]Was versteht man in der Aerothermodynamik unter einem \"Mehr-Temperaturen-Modell\"?[/latex]<br>",
-                        "[latex]Mehr-Tmeperaturmodelle sind charakterisiert durch:<div>\\begin{itemize}</div><div>\\item Aufstellung von globalen Schwinungsenergiegleichungen für jede molekualre Spezies, welche Änderung der mittleren Schwingungsenergie pro Volumeneinheit beschreit</div><div>\\item Annahme, dass jede Molekulare Spezies über eine Boltzmannverteilung, die durch die Temperatur charakterisiert ist, relaxiert</div><div>\\item Aufstellung einer Elektronenenergieerhaltungsgleichung</div><div>\\end{itemize}[/latex]<br></div>"
+                        "[latex]Mehr-Temperaturmodelle sind charakterisiert durch:<div>\\begin{itemize}</div><div>\\item Aufstellung von globalen Schwinungsenergiegleichungen für jede molekualre Spezies, welche Änderung der mittleren Schwingungsenergie pro Volumeneinheit beschreibt</div><div>\\item Annahme, dass jede Molekulare Spezies über eine Boltzmannverteilung, die durch die Temperatur charakterisiert ist, relaxiert</div><div>\\item Aufstellung einer Elektronenenergieerhaltungsgleichung</div><div>\\end{itemize}[/latex]<br></div>"
                     ],
                     "guid": "fS$4QWNTmn",
                     "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
@@ -970,7 +978,7 @@
                     "__type__": "Note",
                     "fields": [
                         "[latex]Welche Prozesse bzw. Strömungsbereiche werdne in der nachfolgenden Abbildung gesucht[/latex]<br><div><img src=\"paste-53b93ec61d6481ff86a5d1a885b05c1a56a75b86.jpg\"><br></div>",
-                        "[latex]<div>\\begin{enumerate}</div><div>\\item Schwingungsanregung</div><div>\\item $O_2$ Dissoziation</div><div>\\item $N_2$ Dissoziation</div><div>\\item Ionisation</div><div>\\item Freie Molekülbewegung</div><div>\\item Übergangsbereich</div><div>\\item Gleiströmungsbereich</div><div>\\item Realgas im thermochemischen Nicht-Gleichgewicht</div><div>\\item&nbsp;&nbsp;Realgas im thermochemischen Gleichgewicht</div><div>\\end{enumerate}[/latex]</div>"
+                        "[latex]<div>\\begin{enumerate}</div><div>\\item Schwingungsanregung</div><div>\\item $O_2$ Dissoziation</div><div>\\item $N_2$ Dissoziation</div><div>\\item Ionisation</div><div>\\item Freie Molekülbewegung</div><div>\\item Übergangsbereich</div><div>\\item Gleiströmungsbereich</div><div>\\item Realgas im thermochemischen Nicht-Gleichgewicht</div><div>\\item&nbsp;&nbsp;Realgas im Gleichgewicht</div><div>\\end{enumerate}[/latex]</div>"
                     ],
                     "guid": "iDLdqe)Pty",
                     "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
@@ -979,7 +987,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "[latex]Welche Grenzen beschänken den Wiedereintrittskorridor in obiger Abbildung?[/latex]<br>",
+                        "[latex]Welche Grenzen beschränken den Wiedereintrittskorridor in obiger Abbildung?[/latex]<br>",
                         "[latex]Maximale Wärmestromdichte, maximal zulässiger Staudruck\\\\<div>Oder: Obere Grenze: $Q_{max}$, untere Grenze: $\\dot{q_{max}}$[/latex]<br></div>"
                     ],
                     "guid": "k:zR.op1LE",
@@ -1009,7 +1017,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "[latex]Um welche physikalischen Modelle ist dieses System der Nvaier-Stokes-Erhaltungsgleichungen zusrätzliche erweitert?[/latex]<br>",
+                        "[latex]Um welche physikalischen Modelle ist dieses System der Navier-Stokes-Erhaltungsgleichungen zusätzlich erweitert?[/latex]<br>",
                         "[latex]Modelle für thermodynamische Eigenschaften (Zustandsgleichungen),<div>Gasgemischzusammensetzung (chemische Enthalpie), Transportkoeffizienten, chemische Reaktionen und Relaxation innerer Freiheitsgrade[/latex]<br></div>"
                     ],
                     "guid": "D2rQMyira&",
@@ -1029,7 +1037,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "[latex]Die Navier-Stokes-Gleichungen in kartesischen Koordinaten (zweidimensional) lauten ganz allgemein:[/latex]<br><div><img src=\"paste-1dca715c21b9ff1bfd606d6d9d1a9e20adc422f2.jpg\"></div><div>[latex]Wobei der Erhaltungsvektor gegebn ist durch[/latex]</div><div><img src=\"paste-a74c7ff85abde621e62ca5df5b4829cb1aee3e24.jpg\"></div><div>[latex]Was beschreiben die anderen Termine in der ersten Gleichung und was stellen die einzelnen Komponenten des Erhaltungsvektors dar? [/latex]<br></div>",
+                        "[latex]Die Navier-Stokes-Gleichungen in kartesischen Koordinaten (zweidimensional) lauten ganz allgemein:[/latex]<br><div><img src=\"paste-1dca715c21b9ff1bfd606d6d9d1a9e20adc422f2.jpg\"></div><div>[latex]Wobei der Erhaltungsvektor gegebn ist durch[/latex]</div><div><img src=\"paste-a74c7ff85abde621e62ca5df5b4829cb1aee3e24.jpg\"></div><div>[latex]Was beschreiben die anderen Terme in der ersten Gleichung und was stellen die einzelnen Komponenten des Erhaltungsvektors dar? [/latex]<br></div>",
                         "[latex]\\begin{itemize}<div>\\item Q: Erhaltungsvektor</div><div>\\item E,F Flüsse</div><div>\\item $E_v$, $F_v$ viskose Flüsse</div><div>\\item S sind Quellterme dür chemische Energie und innerere Freiheitsgrade</div><div>\\item $\\rho_s$ Partialdichte der Spezies</div><div>\\item $\\rho$ Gesamtdichte</div><div>\\item u, v Geschwindigkeiten</div><div>\\item $e_t$ massenspez. Gesamtenergie</div><div>\\item $e_{v,k}$ virbonische Energie</div><div>\\item $e_e$ Elektronenenergie</div><div>\\item $\\rho_k$ Gesamtdichte schwingender Spezies</div><div>\\item $\\rho_e$ Elektronendichte</div><div>\\end{itemize}[/latex]<br></div>"
                     ],
                     "guid": "PC|tXN)nXA",
@@ -1039,8 +1047,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "[latex]Die geschwindigkeit von Dissoziationsreaktionen wird (außer von der Translationstemperatur) auch von einer weiteren Wechselwirkung beeinflusst. Welche ist dies und wie kann dies anschaulihc erklärt werden?[/latex]<br>",
-                        "[latex]<div>Von der Schwingung und damit der relevanten Vibrationstemperatur\\\\\\\\</div><div>Steignedes Schwingungsniveau muss der Dissoziation (aufgrund der Schwingung des Moleküls) förderlich sein.[/latex]<br></div>"
+                        "[latex]Die Geschwindigkeit von Dissoziationsreaktionen wird (außer von der Translationstemperatur) auch von einer weiteren Wechselwirkung beeinflusst. Welche ist dies und wie kann dies anschaulich erklärt werden?[/latex]<br>",
+                        "[latex]<div>Von der Schwingung und damit der relevanten Vibrationstemperatur\\\\\\\\</div><div>Steigendes Schwingungsniveau muss der Dissoziation (aufgrund der Schwingung des Moleküls) förderlich sein.[/latex]<br></div>"
                     ],
                     "guid": "P|^}cJ3[]R",
                     "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
@@ -1049,7 +1057,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "[latex]Warum sollte der Werkstoff eines Hitzeschutzsystems möglichsr \"nicht katalytisch\" wirken? Welche entscheidende Belastungsgröße wird dadurch beeinflusst und wie hoch kann der Einfluss im Extremfall sein?[/latex]<br>",
+                        "[latex]Warum sollte der Werkstoff eines Hitzeschutzsystems möglichst \"nicht katalytisch\" wirken? Welche entscheidende Belastungsgröße wird dadurch beeinflusst und wie hoch kann der Einfluss im Extremfall sein?[/latex]<br>",
                         "[latex]Nichtkatalytisch bewirkt einen geringen Umsatz an heterogenen Rekombinationsreaktionen. Damit wird der \"chemische Anteil\" der Energie, die von der Oberfläche gesehen werden kann, minimiert. In einem Luftplasmasystem kann dies beim Gesamtwärmefluss den Faktor 3 ausmachen.[/latex]"
                     ],
                     "guid": "O}4>gmbNH1",
@@ -1060,7 +1068,7 @@
                     "__type__": "Note",
                     "fields": [
                         "[latex]In welchen Freiheitsgraden kann bei hochenergetischen Strömungen Energie gespeichert werden? (Nennen Sie mindestens 6).[/latex]",
-                        "[latex]Translation, Rotation, Schwingung und elektronische Anregung, sowie in Dossiziation und Ionisation[/latex]<br>"
+                        "[latex]Translation, Rotation, Schwingung und elektronische Anregung, sowie in Dissoziation und Ionisation[/latex]<br>"
                     ],
                     "guid": "uS|R[y0$-^",
                     "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
@@ -1069,7 +1077,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "[latex]DIe DSMC-Methode zur Simulation verdünnter Gasströmungen basiert auf der Grundannahme, dass sich die realen Teilchen durch eine repräsentative Anzahl an Simulationsteilchen nachbilden lässt. Welche weiteren Annahmen werden getroffen und wie sieht das prinzipielle Ablaufschema einer SImulation aus? Gehen SIe besonder auf die Kollisionsprozesse ein![/latex]<br>",
+                        "[latex]Die DSMC-Methode zur Simulation verdünnter Gasströmungen basiert auf der Grundannahme, dass sich die realen Teilchen durch eine repräsentative Anzahl an Simulationsteilchen nachbilden lässt. Welche weiteren Annahmen werden getroffen und wie sieht das prinzipielle Ablaufschema einer Simulation aus? Gehen Sie besonder auf die Kollisionsprozesse ein![/latex]<br>",
                         "<img src=\"paste-e19b0cd6b0fe024082eb0f88ef82fb28ec613e42.jpg\"><div>[latex]</div><div>\\begin{enumerate}</div><div>\\item Eine Anzahl von Partikeln wird eingesetzt, ausgestattet mit Position, Geschwindigkeit und innerer Energie</div><div>\\item Bewegung der Partikel (klassische Newtonsche Mechanik mit $\\Delta T$ als Zeitschritt)</div><div>\\item Implementierung und Anpassung der RB (offene Wand, Periodischer Rand, Reflektierender Rand)</div><div>\\item Paarbildung zur behandlung der binären Stöße (zufällig oder nearest neighbour)</div><div>\\end{enumerate}</div><div>5.&nbsp;</div><div>[/latex]<br></div><div><img src=\"paste-22a27f872dc7346df9e0f2c8a39cf95e1888fcb1.jpg\"><br></div><div>[latex]</div><div>6. Makroskopische Werte durch Mittelung mikroskopischer Daten in Zellen[/latex]<br></div><div><br></div>"
                     ],
                     "guid": "yokmf6jK53",
@@ -1080,7 +1088,7 @@
                     "__type__": "Note",
                     "fields": [
                         "[latex]Die DSMC Methode zur SImulation verdünnter Gase ist ein sogenanntes Monte Carlo Verfahren. Beschreiben Sie allgemein das Prinzip eines Monte Carlo Verfahrens. Wovon hängt die Qualität der Ergebnisse solcher Verfahren ab?[/latex]<br>",
-                        "[latex]Stochastische Verfahren mit wiederholenden Zufallsentscheidungen gzw. numerische Lösung auf Basis Wahrscheinlichkeitstheorie:<div>\\begin{itemize}</div><div>\\item Nutzung Gesetz der großen Zahlen</div><div>\\item Nutzung von Zufallszaheln</div><div>\\end{itemize}</div><div>Qualität abhängig von:</div><div>\\begin{itemize}</div><div>\\item Güte der Zufallszahlen / Zufallszahlgenerator</div><div>\\item Stichprobengröße</div><div>\\end{itemize}[/latex]<br></div>"
+                        "[latex]Stochastische Verfahren mit wiederholenden Zufallsentscheidungen gzw. numerische Lösung auf Basis Wahrscheinlichkeitstheorie:<div>\\begin{itemize}</div><div>\\item Nutzung Gesetz der großen Zahlen</div><div>\\item Nutzung von Zufallszahlen</div><div>\\end{itemize}</div><div>Qualität abhängig von:</div><div>\\begin{itemize}</div><div>\\item Güte der Zufallszahlen / Zufallszahlgenerator</div><div>\\item Stichprobengröße</div><div>\\end{itemize}[/latex]<br></div>"
                     ],
                     "guid": "zyi&xFr1L{",
                     "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
@@ -1089,8 +1097,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "[latex]Was beschreibt der Geschwindigkeitsfaktor w der Partikel einer DSMC SImulation und warum wird dieser beötigt?[/latex]<br>",
-                        "[latex]Verhätnis Anzahl Realteilchen zu Anzahl SImulationsteilchen. Zu großer Rechenaufwand und / oder zu großer Arbeitsspeicherbedarf bei der SImulation aller Realteilchen.[/latex]<br>"
+                        "[latex]Was beschreibt der Gewichtungsfaktor w der Partikel einer DSMC SImulation und warum wird dieser beötigt?[/latex]<br>",
+                        "[latex]Verhätnis Anzahl Realteilchen zu Anzahl Simulationsteilchen. Zu großer Rechenaufwand und / oder zu großer Arbeitsspeicherbedarf bei der Simulation aller Realteilchen.[/latex]<br>"
                     ],
                     "guid": "g8@-te!:+|",
                     "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
@@ -1100,7 +1108,7 @@
                     "__type__": "Note",
                     "fields": [
                         "[latex]Welche Annahmen bei der DSMC Methode kann durch sogenannte Operatorsplitting getroffen werden und was bedeutet das für den Zeitschritt? Welche weitere Bedingung muss die zeitliche Diskretisierung bei der DSMC Methoder erfüllen?[/latex]<br>",
-                        "[latex]Entkopplung von Stoß und Bewegung der Partikel!\\\\<div>Fehler ist proportional zu $\\Delta t^2$ \\textrightarrow gute Approximation bei kleinen $\\Delta t$\\\\</div><div>Zeitschritt muss Strofrequenz $\\tau$ auflösen[/latex]<br></div>"
+                        "[latex]Entkopplung von Stoß und Bewegung der Partikel!\\\\<div>Fehler ist proportional zu $\\Delta t^2$ \\textrightarrow gute Approximation bei kleinen $\\Delta t$\\\\</div><div>Zeitschritt muss Stroßfrequenz $\\tau$ auflösen[/latex]<br></div>"
                     ],
                     "guid": "LQ<,.B.kpa",
                     "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
@@ -1110,7 +1118,7 @@
                     "__type__": "Note",
                     "fields": [
                         "[latex]Aus welchen Anteilen setzt sich das Spektrum der Gasstrahlung beim Wiedereintritt zusammen?[/latex]<br>",
-                        "[latex]Molekulare Banden (Vibrationsbanden) sowie Banden von Radiklaen. Einzellinien für Anregung und Ionisation. Elektronenkontinuumstrahlung[/latex]<br>"
+                        "[latex]Molekulare Banden (Vibrationsbanden) sowie Banden von Radikalen. Einzellinien für Anregung und Ionisation. Elektronenkontinuumstrahlung[/latex]<br>"
                     ],
                     "guid": "ziM}.MY4[]",
                     "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
@@ -1119,7 +1127,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "[latex]Das Schema zeigt die Kapsel STURDUST, die im januar 2006 mit $12,8 km/s$ am Rand der Atmosphäre (ca. 120 km Höhe) als bisher von Menschenhand geschaffenes Objekt in die Erdatmosphäre eingetreten ist.[/latex]<br><div><img src=\"paste-4ab27a64108ca9ecf12d027826287f13eb03cfaf.jpg\"><br></div><div>[latex]Das folgenden Diagramm zeigt die Wärmestromdichten über der Kapselkontur in 63 km Höhe nach der Art der Modellierung (konvektiv und strahlungsbedingt, gekopplet und nicht gekoppelt simuliert mit URANUS-HERTA-PARADE)[/latex]<br></div><div><img src=\"paste-36b559a29aa5ad58c8459b10eba029ac7a8f4946.jpg\"><br></div><div>[latex]</div><div>a) Ordnen Sie die dargestellten Wärmestromverläufe nach der Art der Modellierung\\\\</div><div>b) Wie groß ist die Wärmestromdichte im Staupunkt?\\\\</div><div>c) Wie groß sind er strahlungsbedingte Wärmestrom und dessen Anteil am Gesamtwärmestrom im Staupunkt?\\\\</div><div>d) Begründen Sie, warum der Anteil der strahlungsbedingen Wärmeflusses trotz der hohen Bahnenergie relativ gering ausfällt.[/latex]<br></div>",
+                        "[latex]Das Schema zeigt die Kapsel STARDUST, die im januar 2006 mit $12,8 km/s$ am Rand der Atmosphäre (ca. 120 km Höhe) als bisher von Menschenhand geschaffenes Objekt in die Erdatmosphäre eingetreten ist.[/latex]<br><div><img src=\"paste-4ab27a64108ca9ecf12d027826287f13eb03cfaf.jpg\"><br></div><div>[latex]Das folgenden Diagramm zeigt die Wärmestromdichten über der Kapselkontur in 63 km Höhe nach der Art der Modellierung (konvektiv und strahlungsbedingt, gekopplet und nicht gekoppelt simuliert mit URANUS-HERTA-PARADE)[/latex]<br></div><div><img src=\"paste-36b559a29aa5ad58c8459b10eba029ac7a8f4946.jpg\"><br></div><div>[latex]</div><div>a) Ordnen Sie die dargestellten Wärmestromverläufe nach der Art der Modellierung\\\\</div><div>b) Wie groß ist die Wärmestromdichte im Staupunkt?\\\\</div><div>c) Wie groß sind er strahlungsbedingte Wärmestrom und dessen Anteil am Gesamtwärmestrom im Staupunkt?\\\\</div><div>d) Begründen Sie, warum der Anteil der strahlungsbedingen Wärmeflusses trotz der hohen Bahnenergie relativ gering ausfällt.[/latex]<br></div>",
                         "[latex]<div>a) \\\\<div>1: konvektiv, gekopplet\\\\<div>2: konvektiv, nicht gekoppelt\\\\</div><div>3: strahlungsbedingt, nicht gekopplet\\\\</div><div>4: strahlungsbedingt, gekoppelt\\\\</div><div>b) Ca. $13,6 MW/m^2$\\\\</div><div>c) Ca. $2,6 MW/m^2 &lt; 20\\% $\\\\</div><div>d) Obgleich die Bahngeschwindigkeit ziemlich hoch ist, fällt der strahlungsbedingte Wärmefluss gering aus, da der Nasenradius von 0,22m relativ klein ist, denn der strahlungsbasierte Wärmefluss ist direkt proportional zu diesem. Der konvektive Wärmestrom hingegen ist $\\propto \\frac{1}{\\sqrt{r_N}}$[/latex]<br></div></div></div>"
                     ],
                     "guid": "t;&Q:H+VZO",
@@ -1133,6 +1141,46 @@
                         "[latex]e) \\\\<div>1: Oberste Kurve\\\\<div>2: unterste Kurve\\\\\\\\</div><div>f) D.h.: Der maximale Anteil kommt aus dem sogenannten VUV Bereich[/latex]<br></div></div>"
                     ],
                     "guid": "n0DyD6b_{c",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Wofür werden in kontinuumsmechanischen Simulationsprogrammen (wie etwa URANUS) für die Simulation von Wiedereintrittsströmungen im thermochemischen Nichtgleichgewicht die Transportkoeffizienten benötigt?\\\\</div><div>Warum müssenhier aufwendige Transportkoeffizientenmodelle verwendet werden?</div><div>[/latex]<br></div>",
+                        "[latex]<div>\\begin{itemize}</div><div>\\item TK sind zur Berechnung der viskosen Flüsse notwendig</div><div>\\item wegen thermischem und chemischem Nichtgleichgewicht</div><div>\\end{itemize}</div><div>[/latex]<br></div>"
+                    ],
+                    "guid": "hA9e~?N-yW",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Nennen Sie die Zahl der Stöße, die in etwa notwendig sind, damit sich rotatorisches, vibratorisches bzw. chemisches Gleichgewicht einstellt!\\\\</div><div>Wie bezeichnet man den Vorgang, der zum Gleichgewicht führt?</div><div>[/latex]<br></div>",
+                        "[latex]<div>Unterschiedliche Anzahl von Partikelstößen ist notwendig, bis sich die Gleichgewichtsverteilung einstellt:</div><div>\\begin{itemize}</div><div>\\item Rotation $&lt;$ 100 Stöße</div><div>\\item Schwingung $\\approx$ 1000 Stöße</div><div>\\item elektronische Anregung $&gt;$ 10.000 Stöße</div><div>\\item chemische Zusammensetzung $\\approx$ 100.000 Stöße</div><div>\\end{itemize}</div><div><br></div><div>Thermochemische Relaxation(en)</div><div>[/latex]<br></div>"
+                    ],
+                    "guid": "Hi(&l}2ZTZ",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Ein (einfaches) Luftmodell geht für hohe Temperaturen von 11 Komponenten aus.\\\\</div><div>Welche sind dies und wie sehen typischerweise die Reaktionsgleichungen für Dissoziations-, Rekombinations-, Ionisations., und Austauschreaktionen aus?</div><div>[/latex]<br></div>",
+                        "[latex]<div>$N_2, O_2, NO, N, O, N^{+}_2, O^{+}_2, NO^+, N^+, O^+, e^-$\\\\</div><div>\\\\</div><div>\\begin{tabular}{@{}l|l@{}}</div><div>Reaktion &amp; Gleichung\\\\</div><div>\\hline</div><div>Stoßdissoziation&amp; $AB+M&lt;=&gt;A+B+M$\\\\</div><div>Austauschreaktionen &amp; $AB+C&lt;=&gt;AC+B$\\\\</div><div>Assoziative Ionisationen &amp; $A+B&lt;=&gt; AB^+ +e^-$\\\\</div><div>Elektronenstoßionisation &amp; $A+e^- &lt;=&gt; A^+ +2e^-$\\\\</div><div>\\end{tabular}</div><div>[/latex]<br></div>"
+                    ],
+                    "guid": "O/$IH~%fKo",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>[latex]</div><div>Wie ist die Knudsenzahl definiert und wie unterteilen sich die Knudsenzahlenbereiche?</div><div>[/latex]<br></div>",
+                        "[latex]<div>Die Knudsenzahl ist als das Verhältnis der mittleren freien Weglänge $\\lambda$ und der charakteristischen Länge $L$ des Wiedereintrittskörpers definiert.\\\\</div><div>Die mittlere freie Weglänge ist die Weglänge, die ein Molekül bzw. ein Atom im Mittel zwischen zwei Zusammenstößen mit einem anderen&nbsp; Teilchen zurücklegt.\\\\</div><div>\\\\</div><div>Folgende Bereiche können unterschieden werden:</div><div>\\begin{itemize}</div><div>\\item Bereich der freien Molekülbewegnung: 10 $&lt;$ Kn</div><div>\\item Übergangsbereich: 0,1 $&lt;$ Kn $ &lt;$ 10</div><div>\\item Gleitströmungsbereich: 0,01 $&lt;$ Kn $&lt;$ 0,1</div><div>\\item Kontinuumsbereich: Kn $&lt;$ 0,01</div><div>\\end{itemize}</div><div>[/latex]<br></div>"
+                    ],
+                    "guid": "GQ6`n{W1%/",
                     "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
                     "tags": []
                 }
