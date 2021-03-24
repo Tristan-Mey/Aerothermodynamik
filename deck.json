@@ -11,6 +11,7 @@
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [
+                "latex-002ff03503fd6529f17597bbd268ef81a476957f.png",
                 "latex-028183b70eeb776c9733b04ec04469f27c2cbf70.png",
                 "latex-03d9f1e65444842cc7c9b7ebe54414a3f297d5f1.png",
                 "latex-0519cd79c6daf087b2c4c3edacacbb6d423ff99c.png",
@@ -31,24 +32,33 @@
                 "latex-0dfd5502881b6f687859c9d7d597f0b56bbc7c02.png",
                 "latex-0e6cd31bde59e53e8b1455f14951a9e0316f2f9b.png",
                 "latex-0eff4afbe411c403740ec3e9c58cef6ccc4cdf65.png",
+                "latex-0fa47a7ea1cde381bdc3758930aa1c9391edfaef.png",
                 "latex-1071aa4341b6d312ca5156a9f0f1e492d6ed73dc.png",
+                "latex-10846d552c01a936d223a35c612aa08a43a4a127.png",
                 "latex-11a28eceba36e6a5d341e3da8aac366bc55b8d9e.png",
                 "latex-1302c6a38d2530bd489c364e32f2d67cf17a2b0b.png",
                 "latex-131dd02e18014e6fe9a00b6388d84774d8f9dfe6.png",
                 "latex-13b7c64c0bc648952790a9975c89eaa7be56c08b.png",
+                "latex-143c9aba09da017a1eba816094d9147aa5ba16d4.png",
                 "latex-14b33382a7573821192bc9d41dd04364218f2b04.png",
                 "latex-14ebeaf01169ac2f089e73a4c8f5b451db1986b0.png",
                 "latex-164aed3e36d118d5e7f599601a35fe9683a7b184.png",
                 "latex-172df7928678c4623f0bc985e205ebafdd4ccf0c.png",
                 "latex-1745c0daeea2033087d1d5b5ccf5ae2370125898.png",
                 "latex-17831c106eb631e8b9a97e559b26c7529fec58d7.png",
+                "latex-17a65695ae22ca073e82af794b2019fe46834050.png",
                 "latex-17c402764937e79a95b440abbc814d5c250959ee.png",
                 "latex-1874b57c119351e719ba213c1c1fc1822cc58c1f.png",
+                "latex-194bc8754c1f5677f03570ac920539f1d632033b.png",
                 "latex-1d8f6bb64f7bca2a329b106c3bdbda252ea6ff47.png",
                 "latex-1da7f54b1be59c6a5313373696d984b6de1cf1a8.png",
                 "latex-1eedf6ac17e7939475042ea3e34f5cbbed7a1fbd.png",
                 "latex-1fd1cd5c6a1a2a50566fdfb484f79941d52f7d30.png",
+                "latex-20a40b068ad48b4b1065a6c1a2d40ff959678527.png",
+                "latex-20bc1d0ee2284e896bfe3539ef2d38178ac8cc8e.png",
+                "latex-212625d9f65b51de3ccf1f654a63073dbe0a4786.png",
                 "latex-215078dbe5e0b937c1b27106746b5b274e79f961.png",
+                "latex-21515f5e6b47a622aad674803b8c0cc17c5da823.png",
                 "latex-2355a7ecbc3af63cfaec4615bdfb57bf21a27875.png",
                 "latex-23f9eb0aa7c607f85ef038aadf56a54f51369fc3.png",
                 "latex-24c588d502680bebf715a5dcf3b61f36621d8957.png",
@@ -62,6 +72,8 @@
                 "latex-2fd63b22620e931c56c556875466d05cbe106c82.png",
                 "latex-30842dfd2253f7ff924f9154ba2f1c40c385e694.png",
                 "latex-31a85ae37b91a18b5d75b3cd6953aedc55b3b88f.png",
+                "latex-32b2c15f3b457294b4c1c40a9c4a75957fcc8d5e.png",
+                "latex-33132ebc3df9599a3f608a8a45676bb14efc238e.png",
                 "latex-33b12f60157641098d522bcb8fba5d39d43a0642.png",
                 "latex-348db9f8b661c167423ce16a92b7a406653b7a9e.png",
                 "latex-3500c0daae0018bf958ab5527e22f48f784e37c5.png",
@@ -77,6 +89,7 @@
                 "latex-4127aeb2b3f46c7a8a189b0ccdc6c7aabd569bae.png",
                 "latex-421f3be1968b5adc055966af3f866a64e7b6acd6.png",
                 "latex-43efaa2cd002c58c6f07302706bac73d1f652a42.png",
+                "latex-446a1822bb90bca512515ad38381d5a123613796.png",
                 "latex-4544b4f4f47990f9704c781e38296bc466410d7d.png",
                 "latex-469b0477f90d573be13571c352ea7eedb447cd4a.png",
                 "latex-4777110ba7973045a50d45fca7cbac6c3256bb7a.png",
@@ -87,6 +100,7 @@
                 "latex-4c9e36b8ec4e2a03410aec7a8e442426e32cba96.png",
                 "latex-4d9abb6acfaa4187558d25045aa554c7efa927b8.png",
                 "latex-4dca721a201880b79b3af82c090ee12373875c19.png",
+                "latex-4f53b6f37101ef8c39c3ad55e4467b3399f37911.png",
                 "latex-4f61ef7142b1a3f0940ebd807c7e2100a5a398ce.png",
                 "latex-50c0da252f44e546633fffab190d021922195ff7.png",
                 "latex-5193059bada583cd132a745d4570d03715f4ff68.png",
@@ -106,10 +120,12 @@
                 "latex-60d4f1fee581805382c651429bc495157be7704f.png",
                 "latex-60e121bd8d6b336b6761fe0280cabf9dfb65ccfe.png",
                 "latex-61a5f11e8b49243838eb0c08e89f470a65014c0a.png",
+                "latex-61fafa0bcd0f012965e9f2b5a8a87d747601dc7e.png",
                 "latex-6280f501b0bf7b0beafdc5fb76db386024e85647.png",
                 "latex-62861d60fd993a57d1e6645e8768bf0ad1b5df0c.png",
                 "latex-64499e2f222a606ae9764b0b3b5bbce7f5bbaa1f.png",
                 "latex-649e3913c32f83bae59555e7b9676e4f5135b052.png",
+                "latex-650f2ded7130948af6069d7a3ffe91bbabaade45.png",
                 "latex-652c9a516d5a8fbcac9cf23ba0f02cdfb815e708.png",
                 "latex-66148f53c271fd74c608b4a7690ca2599d5182f4.png",
                 "latex-66a40c3b1b29a163146bf4629874c9089dd36034.png",
@@ -128,6 +144,7 @@
                 "latex-74fc8d7cc3e99158a5ee60169529405f66efe425.png",
                 "latex-767e5143820dda4611e3c53fc183bad7829463e3.png",
                 "latex-76a7510384955cd8e253d0766053ab64837ae0ac.png",
+                "latex-76f4aa6b49c820f63a3de6372a17c39c5c842e22.png",
                 "latex-772c580ca339f983e221b34f129fabe94bd316df.png",
                 "latex-77ee2b0dde726fc7fcbdcb7a220939c6283e2fc5.png",
                 "latex-78c8f20606d15dbf045605049481e8f8b6365057.png",
@@ -146,9 +163,12 @@
                 "latex-829693d677e717b2a143e303ba59d81d7f807e42.png",
                 "latex-8454f171e76e46a53dd57b4e3e799d3d2d8fd1cc.png",
                 "latex-84d5f4a851357456ba40ac8854bc6c2faf94b113.png",
+                "latex-856467885b782322d0fe2192896ce022b056bd74.png",
+                "latex-85e300bd26dd6ba6d408aeb5f58fd2fa0d130d02.png",
                 "latex-89651647e2199bc46c79de2e32cac89e122edcb0.png",
                 "latex-89677f31db2a2dfde23103e7ea49ccb573c61f7f.png",
                 "latex-8afd31446662a2d70058e1977e70293cccfde244.png",
+                "latex-8cad97c75280e2d1c36f27110d66378b954bf827.png",
                 "latex-8e857f9a2419414846c434164422080608c73b81.png",
                 "latex-8eb9536c4710057422f69526b5dca130590c5ef5.png",
                 "latex-8ec1710f72f0f955ffa7c28b550e9898c367f436.png",
@@ -156,9 +176,11 @@
                 "latex-90101979d874709d46813e56fc9a7c9c0669e1ca.png",
                 "latex-90a60c31c647fe8f0bb60c929b3a6b683a49b14f.png",
                 "latex-9163565eeda2a22eb711176ddb53716afea4de33.png",
+                "latex-946fe5d47cbd2e1e8a0a7e3f4c3459d75e13bd6c.png",
                 "latex-95d38c8e2840bea63198be8b6bbeab18c139b4b3.png",
                 "latex-95e67bc07e333901f54a6744012180fd54a01a57.png",
                 "latex-964aec03b4e3a6bbfd86ac94b5db3e0df2d3f783.png",
+                "latex-9699231487b09549ed28010d9a65fe1a3100eee6.png",
                 "latex-970cac31ecb60f0b9f8a5b78a04a1b66d0ba5a92.png",
                 "latex-972ffc56b6f81df7c2ee9b8d5a13502bbb1d4324.png",
                 "latex-97fedeefd418879349f1a3f986789b15d56cd114.png",
@@ -169,12 +191,15 @@
                 "latex-9a82e0c5f86c7aac7eea2625eba066842a533a22.png",
                 "latex-9dbf4b092ae54a77b88975ae4c089bd16d4a123a.png",
                 "latex-9e7c91d941a30556e544ac7ea138bb35ecaed264.png",
+                "latex-9ef08273fb8c100a4dd4d2dd5a78915d13af1a0e.png",
                 "latex-9fdeef5e2545429f97c369c38782451ee68059fb.png",
                 "latex-a1c08088cbd93543a324517ae2f397f3f8172b2e.png",
                 "latex-a2519f87183e5c6a0d0ed4f2f4a9b44b316b72cd.png",
                 "latex-a2b68a12a244b7386df473a8104a30f9fe4d5179.png",
                 "latex-a35cd3a616888f2d608950131992af4c443f40a9.png",
+                "latex-a65fa51f13f618946a382f558d4f4139219026b8.png",
                 "latex-a68489af8e858be1886977f164e7d9851b8757d9.png",
+                "latex-a7b4f49afa02f8cf60f918b6691df76475e3adc3.png",
                 "latex-a8690211a5cbdd7acd1c441bc25bbdaf9ba3decb.png",
                 "latex-a898505974319759fce162e95671f6dae9ce4cef.png",
                 "latex-a9425f59d4f6341536d5b02ad3eabefe8a7bb602.png",
@@ -200,14 +225,18 @@
                 "latex-b9c36c8ab10b65a18db97f445927df3dbff00847.png",
                 "latex-ba0abae60bde40b22edbcfc0aeb38737e99f0a12.png",
                 "latex-ba6e78c9efea28cb50af894137be2d9a9e06b23d.png",
+                "latex-bb77bf795615ad2790b059b46f8117de599a4506.png",
                 "latex-bbaa73010dc36f8d0e286db871e9f926592f3231.png",
                 "latex-bc8d749716d63bc2bb79900b00ffdf290474019c.png",
                 "latex-bced8c318d4b643232224bbaa8583972d5ca1ca7.png",
                 "latex-bdcbf19fd3c373cc4425079f655b277641b0fb01.png",
+                "latex-bde10585a5eab1a8ee18e9513869254a925d888a.png",
                 "latex-be34107f48e2339ad578846b7d77008f14ac1530.png",
+                "latex-be795507ee195d9a4b4e59c9897a5c45152aaf35.png",
                 "latex-bf06b29db6497656cbf6f3c67b0a4a758c962a28.png",
                 "latex-bfe236df30a8572912f934713fe77d169ef72783.png",
                 "latex-c068f422fcc80f6847d8d76abe8c338078be650b.png",
+                "latex-c2b263b3e1da6864e35d52d4420cfd6b13fdd61f.png",
                 "latex-c381fa948de19a8239a60e3e798fabe5083b5371.png",
                 "latex-c394b72d6ced8765589044f8f5b86f68fba54861.png",
                 "latex-c595827691f0b57ecf126aa7ed48433770c70b80.png",
@@ -221,6 +250,7 @@
                 "latex-ca95c2c6dbb07b6d73de2d18b7e54724239ddf2e.png",
                 "latex-caa13195bd31d00b00676b51b76d3cf7e8a6795c.png",
                 "latex-cb4e42ee266654cc41ff80234a2a6037f3c8c797.png",
+                "latex-cb6848b1ebbe4349bdd5ed21dbafdeea4903287a.png",
                 "latex-cc1da1725a121b07c0bd559ee75874a3793fae25.png",
                 "latex-cda11ccc9d2c764cc8b93985518f3c447743fe6a.png",
                 "latex-ceb4cf3f70ef5ae0e7fd055f3f66a8727cf38ccd.png",
@@ -235,8 +265,10 @@
                 "latex-d79b5281cdf7ee6b0196794939fcff4ce3f118ed.png",
                 "latex-d7a6462b26644841b24f9add650a6045f0e51022.png",
                 "latex-d811095511557c34b1e7ae2f34abfc968dcbc6c8.png",
+                "latex-d95497e778ec3eb0d4c18c57d75b2c571e5f67a3.png",
                 "latex-d99511f4997350d6a4c1db025eeadef31b1493e3.png",
                 "latex-d99d62ec6488cf25e8e458ad91f23de49e58c84a.png",
+                "latex-da23160af5832aae1951510c076de263d964510c.png",
                 "latex-db3289e93086a63b3fdddb05131d1125fdbf01cc.png",
                 "latex-dc19a5868422e851cdbfaac058679a65074e4f52.png",
                 "latex-dd524083d344b8dedc5f9e9589c2b3c7ea430260.png",
@@ -245,6 +277,8 @@
                 "latex-df16808eb893d401cfcc160638feaedbe7d3e2d6.png",
                 "latex-e05258dc884be49b8cd6b1353da88b800195226d.png",
                 "latex-e145789dab384f1f6bfe817c6db87bd79ccbed57.png",
+                "latex-e19a312ac8150d5fdbe7137d903faf7910b5c8f3.png",
+                "latex-e216326ad23ffb682a62f9e0d1883a9c02cb2daf.png",
                 "latex-e30ead24115bf9fe7788e7a1fbb2be248675d48c.png",
                 "latex-e3887d53709280bd45f42f19f58b5861d3892094.png",
                 "latex-e5641995e113d2e9c6caf9f711876d81b3b62d03.png",
@@ -257,9 +291,11 @@
                 "latex-ee1d385f01d96aee5d3d5562a7f729a4a836ba01.png",
                 "latex-ee627f7ae6cbad34c788c79869716512056fe346.png",
                 "latex-ef1d840fb4261fbca969129cda7d5eae0dd2c7da.png",
+                "latex-ef55b8d58af12b267b1abd3dcb61cf6aae3ed041.png",
                 "latex-efd75a39c570ff12b98540923ac769c0e50bfa11.png",
                 "latex-f13ca2ec993ff4423f27f4a6b3a38aeafb4eb474.png",
                 "latex-f2549972acfdc61f84f3ea9dfa38384bab55c80d.png",
+                "latex-f2aeb44685001d69105ac4baf75b3338bd4e48ab.png",
                 "latex-f38174f8896654fbfdb3ca6f7ab50196c0fcddfa.png",
                 "latex-f3c5bb5500b0c94a851cf903e7513ea5065ffc5d.png",
                 "latex-f5a909611f269f0ab810e016e09561b16b95fd07.png",
@@ -273,14 +309,18 @@
                 "latex-ff1672321f00629230952bdc6e58e3100c1fba1c.png",
                 "latex-fffc9d11febe10939fd22d48064f5a404e8b4840.png",
                 "paste-08f579b93a562f485c0a434ae6bd381167e69e05.jpg",
+                "paste-3d27536f6569f25aae95aa2431a9f5c0a35524f4.jpg",
                 "paste-4b4e345f41ce8cdcd8eb706052374fb45f285552.jpg",
                 "paste-53df85ff07d085d8aa681bef6d43a58ee9c9c01a.jpg",
+                "paste-7e21ff3b5069d5ed0aa697af03fccf70ab1ff21b.jpg",
                 "paste-872c4f6aa0f2d89dd151290f0979e64945524305.jpg",
                 "paste-a8b982dabd38eaa1cd75523d3fc2e25f22754247.jpg",
                 "paste-b3efae7bdc922677aa778120798adf2f061f3a20.jpg",
+                "paste-c964f927bff17145fb9b33ba8e004cc4d4c20956.jpg",
                 "paste-d5d39952ad7a9ee5c9b1e393c362bc5a927bfa6a.jpg",
                 "paste-e50d791163df83f5d70f72a201be1315be377d7b.jpg",
-                "paste-ea52096d586d9f7a987fd9589cf41b69f9ceaff9.jpg"
+                "paste-ea52096d586d9f7a987fd9589cf41b69f9ceaff9.jpg",
+                "paste-fdbae33c17b2861f60ded4f91a4dd98579463cff.jpg"
             ],
             "name": "00 Fragenkatalog Flurus",
             "notes": [
@@ -1247,6 +1287,236 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "[latex]<div>Nenne drei Bereiche einer Trajektorie und die jeweils<div>verwendeten Verfahren zur Beschreibung der Strömung!</div><div></div><div>[/latex]<br></div></div>",
+                        "[latex]<div>\\begin{tabular}{@{}l|l@{}}</div><div>Bereich &amp; Verfahren\\\\</div><div>\\hline</div><div>$&gt;$120\\,km&amp;DSMC\\\\</div><div>$40$\\,km$&lt;$H$&lt;$120\\,km&amp; DSMC, Navier-Stokes mit Gleitrand\\\\</div><div>$&lt;40$\\,km &amp; Navier-Stokes, Grenzschichtverfahren\\\\</div><div>\\end{tabular}</div><div>[/latex]<br></div>"
+                    ],
+                    "guid": "Ce:fgA,PoJ",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Skizzieren Sie den Temperaturverlauf entlang der Staustromlinie<div>eines Rückkehrfahrzeugs in etwa 60 km Höhe und bezeichnen</div><div>Sie unterschiedliche Bereiche!<br></div><div><div>[/latex]<br></div></div></div>",
+                        "<img src=\"paste-b3efae7bdc922677aa778120798adf2f061f3a20.jpg\">"
+                    ],
+                    "guid": "BoX2`oNw>p",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Was gibt es zum Thema Gasstrahlung beim FIRE II Experiment zu sagen?</div><div>[/latex]<br></div>",
+                        "[latex]<div>\\begin{itemize}</div><div>\\item Gesamt- und&nbsp;Strahlungswärmestrom&nbsp;wurden auf der&nbsp;Oberfläche&nbsp;mit</div><div>einem Kalorimeter bzw. einem Radiometer gemessen.&nbsp;</div><div></div><div>\\item Die&nbsp;Strömung&nbsp;ist signifikant ionisiert (10\\%). Die elektronische</div><div>Anregung muss genau berechnet werden.</div><div>\\item Strömungsgleichungen&nbsp;und Strahlungstransportgleichung&nbsp;müssen</div><div>gekoppelt berechnet werden.<br></div><div>\\item Bei diesen hohen Geschwindigkeiten werden&nbsp;Strahlungkühlung&nbsp;in der</div><div>Stoßschicht&nbsp;und&nbsp;Strahlungswärmestrom&nbsp;an die&nbsp;Oberfläche</div><div>bedeutsam.</div><div>\\end{itemize}</div><div>[/latex]<br></div>"
+                    ],
+                    "guid": "b#Q[wAzA$d",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Nenne drei Erkenntnisse zur Strahlungskühlung beim FIRE II Experiment!</div><div>[/latex]<br></div>",
+                        "[latex]<div>\\begin{itemize}</div><div>\\item Die Strahlungskühlung in der Gasphase führt zu einer Absenkzng der Grenzschichtrandtemperatur.</div><div>\\item Andererseits findet jedoch in der vergleichsweise kalten Grenzschicht eine starke Reabsorbtion der Strahlung statt.</div><div>\\item Der Strahlungswärmestrom an der Oberfläche beträgt etwa 15\\% des Gesamtwärmestroms.</div><div>\\end{itemize}</div><div>[/latex]<br></div>"
+                    ],
+                    "guid": "t9}9.dUfC4",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Warum ist die Annahme einer strahlungsadiabaten&nbsp;Oberfläche</div><div>mit Ausnahme des oberen Wiedereintritts hinreichend?</div><div>[/latex]</div>",
+                        "[latex]<div>Weil der Wärmestrom in die Struktur i.a. vergleichsweise klein ist.</div><div>[/latex]<br></div>"
+                    ],
+                    "guid": "703*FG3&T",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Was muss bei nichtkonvexen Fahrzeuggeometrien beachtete<div>werden?</div><div>[/latex]</div></div>",
+                        "[latex]<div>Bei nichtkonvexen Fahrzeuggeometrien&nbsp;müssen&nbsp;bei der Berechnung<div>der&nbsp;Strahlungskühlung&nbsp;Sichtfaktoren bzw. ein effektiver</div><div>Emissionsgrad&nbsp;eingeführt&nbsp;werden.<br></div><div>[/latex]<br></div></div>"
+                    ],
+                    "guid": "x%cwy4ii89",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Warum treten beim Wiedereintritt<div>Nichtgleichgewichts-strömungen&nbsp;mit Relaxationsprozessen auf?<br></div><div>[/latex]<br></div></div>",
+                        "[latex]<div>Weil sich die Relaxationszeiten der Relaxationsprozesse der<div>unterschiedlichen Freiheitsgrade (z.B. Translation, Rotation,</div><div>Schwingung) unterscheiden.</div><div>[/latex]<br></div></div>"
+                    ],
+                    "guid": "u,%Oj=peUj",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div><div>Welche Geschwindigkeitsverteilungsfunktion&nbsp;erhält&nbsp;man aus der</div><div>Boltzmanngleichung im thermodynamischen Gleichgewicht?</div><div>Was gilt in diesem Fall&nbsp;für&nbsp;den&nbsp;Stoßterm?</div><div>[/latex]<br></div></div>",
+                        "[latex]<div>Maxwell-Verteilung\\\\</div><div>\\\\</div><div>Stoßterm=0</div><div>[/latex]<br></div>"
+                    ],
+                    "guid": "#{G@1ja6r",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>In welche drei Klassen werden die klassischen<div>Wirbelviskositätsmodelle</div><div>eingeteilt? Wodurch zeichnen Sie sich aus?</div><div>[/latex]<br></div></div>",
+                        "[latex]<div>???</div><div>[/latex]<br></div>"
+                    ],
+                    "guid": "wrbK7/d1oD",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Nennen Sie 4 Typen von Reaktionen, die in einer dissoziierten<div>und ionisierten&nbsp;Strömung&nbsp;um ein Wiedereintrittsfahrzeug</div><div>auftreten!</div><div>[/latex]<br></div></div>",
+                        "[latex]<div>\\begin{itemize}</div><div>\\item Stoßdissoziation</div><div>\\item Austauschreaktion</div><div>\\item Assoziative Ionisation</div><div>\\item Elektronenstoßionisation</div><div>\\end{itemize}</div><div>[/latex]<br></div>"
+                    ],
+                    "guid": "y-1kb*zA%7",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Wie heißen die beiden wichtigsten Rekombinations-mechanismen an der&nbsp;Hitzeschildoberfläche&nbsp;und wodurch zeichnen sie sich aus (detailliertes Katalysemodell)?<div>[/latex]<br></div></div>",
+                        "[latex]<div>\\begin{itemize}</div><div>\\item Eley-Rideal-Mechanismus</div><div>(Spielt vor allem bei niedrigen Temperaturen eine wesentliche Rolle)</div><div>\\item Langmuir-Hinshelwood-Mechanismus</div><div>(Im Gegensatz zum ER-Mechanismus dominiert dieser Prozess bei</div><div><div>hohen Temperaturen)<br></div></div><div>\\end{itemize}</div><div>[/latex]<br></div>"
+                    ],
+                    "guid": "bm{3fU`>o9",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Was versteht man unter dem Frank-Condon-Prinzip?</div><div>[/latex]<br></div>",
+                        "[latex]<div>Mit dem Franck-Condon-Prinzip&nbsp;lässt&nbsp;sich eine Aussagen&nbsp;über&nbsp;die<div>Wahrscheinlichkeiten von&nbsp;Übergängen&nbsp;zwischen verschiedenen</div><div>Schwingungszuständen&nbsp;eines&nbsp;Moleküls&nbsp;machen.\\\\</div><div>\\\\<br></div><div><div>Das Prinzip bezieht sich dabei auf den Fall, dass sich neben dem</div><div>Schwingungszustand auch die elektronische Anregung des&nbsp;Moleküls</div><div>ändert.</div></div><div>[/latex]<br></div></div>"
+                    ],
+                    "guid": "p4o3oJ=tZm",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Ist der Abstand des&nbsp;Bugstoßes&nbsp;vom Wiedereintrittsfahrzeug bei<div>einer Idealgas oder einer&nbsp;Realgasströmung&nbsp;größer?&nbsp;Begründen</div><div>Sie Ihre Antwort!</div><div>[/latex]<br></div></div>",
+                        "[latex]<div>Bei Idealsgasströmung größer.\\\\</div><div>\\\\</div><div>Keine anderen Freiheitsgrade außer Translation:</div><div>\\begin{itemize}</div><div>\\item Translationstemperatur viel zu hoch</div><div>\\item ideale Gasgleichung</div><div>\\item Druck viel zu hoch</div><div>\\item Abstand zu hoch</div><div>\\end{itemize}</div><div>[/latex]<br></div>"
+                    ],
+                    "guid": "kHu-aYf]U}",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Wie ist eine nichtkatalytische&nbsp;Oberfläche&nbsp;definiert und aus<div>welcher Bedingung kann die Gaszusammensetzung an der</div><div>Oberfläche&nbsp;berechnet werden?</div><div>[/latex]<br></div></div>",
+                        "[latex]<div>Definition:\\\\</div><div>Oberfläche an der keine chemischen Reaktionen stattfinden.\\\\</div><div>\\\\</div><div>Bedingung für die Gaszusammensetzung????</div><div>[/latex]<br></div>"
+                    ],
+                    "guid": "r)N{Xpas#5",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Wie ist in der DSMC der Bezug zwischen Testteilchen udn realen Partikeln?[/latex]",
+                        "[latex]Jedes Teilchen repräsentiert in der Simulation eien Vielzahl realer Partikel[/latex]"
+                    ],
+                    "guid": "u1QlKpGO7i",
+                    "note_model_uuid": "e92bc65f-8cc8-11eb-9ab8-548d5a19ec17",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Wie werden in der DSMC die Anfangsbedingungen meistens gewählt?[/latex]",
+                        "[latex]Meist wird angenommen, dass die Geschwindigkeit sowie Rotations- und Vibrationstemperaturen der Teilchen einer Maxwellverteilung gehorchen[/latex]"
+                    ],
+                    "guid": "OF7>$N]@Yf",
+                    "note_model_uuid": "e92bc65f-8cc8-11eb-9ab8-548d5a19ec17",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Worin besteht in der Praxis der größte Konflikt bei eienr DSMC Simulation?[/latex]",
+                        "[latex]Zwischen einer ausreichend räumlichen Diskretisierung (ausreichend vielen Teilchen pro Zelle für Kollisionprozesse und zur Mittelwertbildung) und der zur Verfügugn stehenden Rechenkapazitäten[/latex]"
+                    ],
+                    "guid": "fh+BYSIm!^",
+                    "note_model_uuid": "e92bc65f-8cc8-11eb-9ab8-548d5a19ec17",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Nach welchem Maß werden die Größen der Zellen in eienr DSMC gewählt?[/latex]",
+                        "[latex]Die lokale, mittlere freie Weglänge ist ein Maß für die Größenordnung der Zellen in der Simulation.[/latex]<br>"
+                    ],
+                    "guid": "C*iW`ZEcm%",
+                    "note_model_uuid": "e92bc65f-8cc8-11eb-9ab8-548d5a19ec17",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Wie wird beim DSMC-Verfahren der Simulationszeitschritt gewählt?[/latex]",
+                        "[latex]Als Simulationszeitschritt wird meist ein Teil des Zeitintervalls gewählt, das ein Teilchen benötigt, um eien Zelle zu durchfliegen.[/latex]"
+                    ],
+                    "guid": "B0O+pux0{O",
+                    "note_model_uuid": "e92bc65f-8cc8-11eb-9ab8-548d5a19ec17",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Wie&nbsp;ändern&nbsp;sich die Gastemperaturen in der&nbsp;Strömung,&nbsp;wenn<div>eine signifikante&nbsp;Strahlungskühlung&nbsp;(durch Gasstrahlung)</div><div>auftritt?</div><div>[/latex]<br></div></div>",
+                        "[latex]<div>kurz: Die Temperatur sinkt\\\\</div><div>\\\\</div><div>Die&nbsp;Strahlungskühlung&nbsp;in der&nbsp;Außenströmung&nbsp;führt&nbsp;zu einer</div><div>Absenkung der Grenzschichtrandtemperatur.</div><div>[/latex]</div>"
+                    ],
+                    "guid": "J!!N5e?vbK",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div><div>Muss die&nbsp;Oberflächenstrahlung&nbsp;bei der Berechnung des</div><div>Oberflächenwärmestroms&nbsp;des US Space Shuttle Orbiters</div><div>berücksichtigt&nbsp;werden? Spielt die&nbsp;Kühlung&nbsp;der&nbsp;Strömung&nbsp;durch</div><div>die Gasstrahlung beim Shuttle- Wiedereintritt eine wesentliche</div><div>Rolle?</div></div><div>[/latex]<br></div>",
+                        "[latex]<div>Der Energietransport durch Strahlung&nbsp;für&nbsp;den typischen Wiedereintritt<div>aus LEO ist&nbsp;vernachlässigbar.<br></div><div>[/latex]<br></div></div>"
+                    ],
+                    "guid": "dNyFu0pOa|",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div><div>Wie sind Modellbildung, Simulation, Verifikation, Validierung</div><div>definiert?</div><div>[/latex]<br></div></div>",
+                        "[latex]<div>\\begin{itemize}</div><div>\\item Modellbildung:</div><div><div>\\begin{itemize}</div><div>\\item Abstrahiert mit dem Erstellen eines Modells von der&nbsp;Realität.</div><div>\\end{itemize}</div></div><div>\\item Simulation:</div><div><div>\\begin{itemize}</div><div>\\item Ist eine Vorgehensweise zur Analyse von Systemen, die&nbsp;für&nbsp;die</div><div>theoretische oder&nbsp;formelmäßige&nbsp;Behandlung zu kompliziert sind.<br></div><div>\\end{itemize}</div></div><div>\\item Verifikation:</div><div><div>\\begin{itemize}</div><div>\\item Mathematischer Beweis, dass ein Programm (also eine konkrete</div><div>Implementation) der vorgegebenen Spezifikation entspricht.</div><div>\\end{itemize}</div></div><div>\\item Gültigkeitskontrolle:</div><div><div>\\begin{itemize}</div><div>\\item Überprüfung&nbsp;der&nbsp;Gültigkeit&nbsp;(Validierung)</div><div>Nachweis, dass eine analytische Methode&nbsp;für&nbsp;ihren Einsatzzweck</div><div>geeignet ist und die an sie gestellten Anforderungen&nbsp;erfüllt.</div><div>\\end{itemize}</div></div><div>\\end{itemize}<br></div><div>[/latex]<br></div>"
+                    ],
+                    "guid": "AeN;SNTBru",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Welche zwei Transportmodelle gibt es?<div></div><div>[/latex]<br></div></div>",
+                        "[latex]<div>\\begin{itemize}</div><div>\\item Starrkugelmodell</div><div>\\item Potentialmodell</div><div>\\end{itemize}</div><div>[/latex]<br></div>"
+                    ],
+                    "guid": "Q+_u4F-|xQ",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "[latex]<div>Welchen Einfluss hat die&nbsp;Oberflächenkatalyzität in einer Nicht-GG-Grenzschicht auf den Oberflächenwärmestrom? (Faktor)<br>[/latex]<br></div>",
                         "[latex]Oberflächenwärmestrom kann bei vollkatalytischenr Oberfläche um Faktor 3 größer sein![/latex]<br><div><img src=\"paste-872c4f6aa0f2d89dd151290f0979e64945524305.jpg\"><br></div>"
                     ],
@@ -1427,181 +1697,151 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "[latex]<div>Nenne drei Bereiche einer Trajektorie und die jeweils<div>verwendeten Verfahren zur Beschreibung der Strömung!</div><div></div><div>[/latex]<br></div></div>",
-                        "[latex]<div>\\begin{tabular}{@{}l|l@{}}</div><div>Bereich &amp; Verfahren\\\\</div><div>\\hline</div><div>$&gt;$120\\,km&amp;DSMC\\\\</div><div>$40$\\,km$&lt;$H$&lt;$120\\,km&amp; DSMC, Navier-Stokes mit Gleitrand\\\\</div><div>$&lt;40$\\,km &amp; Navier-Stokes, Grenzschichtverfahren\\\\</div><div>\\end{tabular}</div><div>[/latex]<br></div>"
+                        "[latex]Nenne die 5 wichtigsten Randbedingungen einer DSMC[/latex]",
+                        "[latex]Temperaturen\\<br>Geschwindigkeiten\\<br>Teilchendichten<br>Rekombinationskoeffizienten\\<br>Molanteilen\\<br><br>an begrenzenden Rändern und Wänden.<br>[/latex]"
                     ],
-                    "guid": "Ce:fgA,PoJ",
-                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "guid": "nf]Lw,!rQ{",
+                    "note_model_uuid": "e92bc65f-8cc8-11eb-9ab8-548d5a19ec17",
                     "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "[latex]<div>Skizzieren Sie den Temperaturverlauf entlang der Staustromlinie<div>eines Rückkehrfahrzeugs in etwa 60 km Höhe und bezeichnen</div><div>Sie unterschiedliche Bereiche!<br></div><div><div>[/latex]<br></div></div></div>",
-                        "<img src=\"paste-b3efae7bdc922677aa778120798adf2f061f3a20.jpg\">"
+                        "[latex]Wie berechnet man bei der DSMC Druck, Schub oder Wärmefluss auf eine Wand[/latex]",
+                        "[latex] Der Normal- und Tangentialimpuls eines Teilchens berechnet sich einfach aus der Summer alle IEnzelimpulse der auftreffenden Teilchen.\\<br>Ebenso kann der Energietransfer auf die Wand berechnet werden.[/latex]"
                     ],
-                    "guid": "BoX2`oNw>p",
-                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "guid": "Pi?cFlQ^zv",
+                    "note_model_uuid": "e92bc65f-8cc8-11eb-9ab8-548d5a19ec17",
                     "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "[latex]<div>Was gibt es zum Thema Gasstrahlung beim FIRE II Experiment zu sagen?</div><div>[/latex]<br></div>",
-                        "[latex]<div>\\begin{itemize}</div><div>\\item Gesamt- und&nbsp;Strahlungswärmestrom&nbsp;wurden auf der&nbsp;Oberfläche&nbsp;mit</div><div>einem Kalorimeter bzw. einem Radiometer gemessen.&nbsp;</div><div></div><div>\\item Die&nbsp;Strömung&nbsp;ist signifikant ionisiert (10\\%). Die elektronische</div><div>Anregung muss genau berechnet werden.</div><div>\\item Strömungsgleichungen&nbsp;und Strahlungstransportgleichung&nbsp;müssen</div><div>gekoppelt berechnet werden.<br></div><div>\\item Bei diesen hohen Geschwindigkeiten werden&nbsp;Strahlungkühlung&nbsp;in der</div><div>Stoßschicht&nbsp;und&nbsp;Strahlungswärmestrom&nbsp;an die&nbsp;Oberfläche</div><div>bedeutsam.</div><div>\\end{itemize}</div><div>[/latex]<br></div>"
+                        "[latex]Welche zwei Modelle für die Simulation von Wandreflexionen werden bei der DSMC unterschieden? Erklären Sie kurz[/latex]",
+                        "[latex]Spiegelden Reflexion:\\<br>Es wird keine Energie mit der Obefläche ausgetauscht. Der Betrag der Geschwindigkeit bleibt gleich. Es ändert sich lediglich das Vorzeichen der Normalkomponente.\\\\<br><br>Vollständig diffuse Reflexion:\\<br>Es wird angenommen, dass sämtliche Energien, unabhängig von Einfallswinkel nd Energie der Teilchen, mit einer Maxwellverteilung der Wandtemperatur reflektiert werden.<br>[/latex]"
                     ],
-                    "guid": "b#Q[wAzA$d",
-                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "guid": "ce3KJ_~Ze+",
+                    "note_model_uuid": "e92bc65f-8cc8-11eb-9ab8-548d5a19ec17",
                     "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "[latex]<div>Nenne drei Erkenntnisse zur Strahlungskühlung beim FIRE II Experiment!</div><div>[/latex]<br></div>",
-                        "[latex]<div>\\begin{itemize}</div><div>\\item Die Strahlungskühlung in der Gasphase führt zu einer Absenkzng der Grenzschichtrandtemperatur.</div><div>\\item Andererseits findet jedoch in der vergleichsweise kalten Grenzschicht eine starke Reabsorbtion der Strahlung statt.</div><div>\\item Der Strahlungswärmestrom an der Oberfläche beträgt etwa 15\\% des Gesamtwärmestroms.</div><div>\\end{itemize}</div><div>[/latex]<br></div>"
+                        "[latex]Wie werden intermolekulare Kollisionen in der DSMC simuliert?[/latex]",
+                        "[latex]Kollisionen oder Stöße entweder thermische Kollision oder chemische Reaktion[/latex]"
                     ],
-                    "guid": "t9}9.dUfC4",
-                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "guid": "wF2<M!2&t.",
+                    "note_model_uuid": "e92bc65f-8cc8-11eb-9ab8-548d5a19ec17",
                     "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "[latex]<div>Warum ist die Annahme einer strahlungsadiabaten&nbsp;Oberfläche</div><div>mit Ausnahme des oberen Wiedereintritts hinreichend?</div><div>[/latex]</div>",
-                        "[latex]<div>Weil der Wärmestrom in die Struktur i.a. vergleichsweise klein ist.</div><div>[/latex]<br></div>"
+                        "[latex]Beschreibe kurz wie im DSMC entschieden wird, ob eine Kollision stattfindet und wenn ja, von welchen Typ diese ist[/latex]",
+                        "<img src=\"paste-fdbae33c17b2861f60ded4f91a4dd98579463cff.jpg\">"
                     ],
-                    "guid": "703*FG3&T",
-                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "guid": "yADTFf(wQq",
+                    "note_model_uuid": "e92bc65f-8cc8-11eb-9ab8-548d5a19ec17",
                     "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "[latex]<div>Was muss bei nichtkonvexen Fahrzeuggeometrien beachtete<div>werden?</div><div>[/latex]</div></div>",
-                        "[latex]<div>Bei nichtkonvexen Fahrzeuggeometrien&nbsp;müssen&nbsp;bei der Berechnung<div>der&nbsp;Strahlungskühlung&nbsp;Sichtfaktoren bzw. ein effektiver</div><div>Emissionsgrad&nbsp;eingeführt&nbsp;werden.<br></div><div>[/latex]<br></div></div>"
+                        "[latex]Welche drei Arten einer termischen Kollision werden beim DSMC unterschieden[/latex]",
+                        "<img src=\"paste-3d27536f6569f25aae95aa2431a9f5c0a35524f4.jpg\">"
                     ],
-                    "guid": "x%cwy4ii89",
-                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "guid": "NZ<Q$!DxKG",
+                    "note_model_uuid": "e92bc65f-8cc8-11eb-9ab8-548d5a19ec17",
                     "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "[latex]<div>Warum treten beim Wiedereintritt<div>Nichtgleichgewichts-strömungen&nbsp;mit Relaxationsprozessen auf?<br></div><div>[/latex]<br></div></div>",
-                        "[latex]<div>Weil sich die Relaxationszeiten der Relaxationsprozesse der<div>unterschiedlichen Freiheitsgrade (z.B. Translation, Rotation,</div><div>Schwingung) unterscheiden.</div><div>[/latex]<br></div></div>"
+                        "[latex]Was sind typische Werte der Wahrscheinlichkeit zum Austausch in der Rotationsenergie bzw. Vibrationsenergie in der DSMC?[/latex]",
+                        "<img src=\"paste-c964f927bff17145fb9b33ba8e004cc4d4c20956.jpg\">"
                     ],
-                    "guid": "u,%Oj=peUj",
-                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "guid": "Gs$yH(f0uk",
+                    "note_model_uuid": "e92bc65f-8cc8-11eb-9ab8-548d5a19ec17",
                     "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "[latex]<div><div>Welche Geschwindigkeitsverteilungsfunktion&nbsp;erhält&nbsp;man aus der</div><div>Boltzmanngleichung im thermodynamischen Gleichgewicht?</div><div>Was gilt in diesem Fall&nbsp;für&nbsp;den&nbsp;Stoßterm?</div><div>[/latex]<br></div></div>",
-                        "[latex]<div>Maxwell-Verteilung\\\\</div><div>\\\\</div><div>Stoßterm=0</div><div>[/latex]<br></div>"
+                        "[latex]Ab welcher Geschwindigkeit treten Gasstrahlungseffekte auf?[/latex]",
+                        "[latex] aufwärts von 8 km/s[/latex]"
                     ],
-                    "guid": "#{G@1ja6r",
-                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "guid": "d~kf`])PP=",
+                    "note_model_uuid": "e92bc65f-8cc8-11eb-9ab8-548d5a19ec17",
                     "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "[latex]<div>In welche drei Klassen werden die klassischen<div>Wirbelviskositätsmodelle</div><div>eingeteilt? Wodurch zeichnen Sie sich aus?</div><div>[/latex]<br></div></div>",
-                        "[latex]<div>???</div><div>[/latex]<br></div>"
+                        "[latex]Ab welcher Eintrittsgeschwindigkeit ist die Strahlung relevant für die thermische Belastung[/latex]",
+                        "[latex]ab 14 km/s[/latex]"
                     ],
-                    "guid": "wrbK7/d1oD",
-                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "guid": "xS$b)fc#zZ",
+                    "note_model_uuid": "e92bc65f-8cc8-11eb-9ab8-548d5a19ec17",
                     "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "[latex]<div>Nennen Sie 4 Typen von Reaktionen, die in einer dissoziierten<div>und ionisierten&nbsp;Strömung&nbsp;um ein Wiedereintrittsfahrzeug</div><div>auftreten!</div><div>[/latex]<br></div></div>",
-                        "[latex]<div>\\begin{itemize}</div><div>\\item Stoßdissoziation</div><div>\\item Austauschreaktion</div><div>\\item Assoziative Ionisation</div><div>\\item Elektronenstoßionisation</div><div>\\end{itemize}</div><div>[/latex]<br></div>"
+                        "[latex] Skizziere ein H-v Diagramm mit typischen thermodynamschen Bereichen und Trajektorien[/latex]",
+                        "<img src=\"paste-7e21ff3b5069d5ed0aa697af03fccf70ab1ff21b.jpg\">"
                     ],
-                    "guid": "y-1kb*zA%7",
-                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "guid": "oWj36L3}%|",
+                    "note_model_uuid": "e92bc65f-8cc8-11eb-9ab8-548d5a19ec17",
                     "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "[latex]<div>Wie heißen die beiden wichtigsten Rekombinations-mechanismen an der&nbsp;Hitzeschildoberfläche&nbsp;und wodurch zeichnen sie sich aus (detailliertes Katalysemodell)?<div>[/latex]<br></div></div>",
-                        "[latex]<div>\\begin{itemize}</div><div>\\item Eley-Rideal-Mechanismus</div><div>(Spielt vor allem bei niedrigen Temperaturen eine wesentliche Rolle)</div><div>\\item Langmuir-Hinshelwood-Mechanismus</div><div>(Im Gegensatz zum ER-Mechanismus dominiert dieser Prozess bei</div><div><div>hohen Temperaturen)<br></div></div><div>\\end{itemize}</div><div>[/latex]<br></div>"
+                        "[latex]Welche zwei Lösungsgrößen sollen durch eine Strahlungsberechnung in eienr Nachstoßschicht hauptsächlich ermittelt werden[/latex]",
+                        "[latex]der Energiequellterm(zur Einkopplung in die Gesamtenergiegleichung und die Elektronenenergiegleichugn der Strömung)\\<br>der Strahlunsgwärmestrom ( auf die Oberfläche des Wiedereintrittskörpers)[/latex]"
                     ],
-                    "guid": "bm{3fU`>o9",
-                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "guid": "t(Ff[0TpF2",
+                    "note_model_uuid": "e92bc65f-8cc8-11eb-9ab8-548d5a19ec17",
                     "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "[latex]<div>Was versteht man unter dem Frank-Condon-Prinzip?</div><div>[/latex]<br></div>",
-                        "[latex]<div>Mit dem Franck-Condon-Prinzip&nbsp;lässt&nbsp;sich eine Aussagen&nbsp;über&nbsp;die<div>Wahrscheinlichkeiten von&nbsp;Übergängen&nbsp;zwischen verschiedenen</div><div>Schwingungszuständen&nbsp;eines&nbsp;Moleküls&nbsp;machen.\\\\</div><div>\\\\<br></div><div><div>Das Prinzip bezieht sich dabei auf den Fall, dass sich neben dem</div><div>Schwingungszustand auch die elektronische Anregung des&nbsp;Moleküls</div><div>ändert.</div></div><div>[/latex]<br></div></div>"
+                        "[latex]Durch welche zwei Grundgrößen lässt sic der Strahlungstransport durch ein Gas beschrieben[/latex]",
+                        "[latex]Spektrale Strahldichte $I_{\\lambda}$\\\\<br>Strahlungsfluss oder Strahlungswärmestrom $\\vec{q}_{r,\\lambda}$<br>[/latex]"
                     ],
-                    "guid": "p4o3oJ=tZm",
-                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "guid": "gE^s9eo=E2",
+                    "note_model_uuid": "e92bc65f-8cc8-11eb-9ab8-548d5a19ec17",
                     "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "[latex]<div>Ist der Abstand des&nbsp;Bugstoßes&nbsp;vom Wiedereintrittsfahrzeug bei<div>einer Idealgas oder einer&nbsp;Realgasströmung&nbsp;größer?&nbsp;Begründen</div><div>Sie Ihre Antwort!</div><div>[/latex]<br></div></div>",
-                        "[latex]<div>Bei Idealsgasströmung größer.\\\\</div><div>\\\\</div><div>Keine anderen Freiheitsgrade außer Translation:</div><div>\\begin{itemize}</div><div>\\item Translationstemperatur viel zu hoch</div><div>\\item ideale Gasgleichung</div><div>\\item Druck viel zu hoch</div><div>\\item Abstand zu hoch</div><div>\\end{itemize}</div><div>[/latex]<br></div>"
+                        "[latex]Wovon sind die Strahldichte und Strahlungswärmestrom abhängig?[/latex]",
+                        "[latex]Von der Strahlungswellenlänge $\\lambda$ (spektrale Abhängigkeit)[/latex]"
                     ],
-                    "guid": "kHu-aYf]U}",
-                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "guid": "r-`|C20u@3",
+                    "note_model_uuid": "e92bc65f-8cc8-11eb-9ab8-548d5a19ec17",
                     "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "[latex]<div>Wie ist eine nichtkatalytische&nbsp;Oberfläche&nbsp;definiert und aus<div>welcher Bedingung kann die Gaszusammensetzung an der</div><div>Oberfläche&nbsp;berechnet werden?</div><div>[/latex]<br></div></div>",
-                        "[latex]<div>Definition:\\\\</div><div>Oberfläche an der keine chemischen Reaktionen stattfinden.\\\\</div><div>\\\\</div><div>Bedingung für die Gaszusammensetzung????</div><div>[/latex]<br></div>"
+                        "[latex]Welches Problem tritt bei der Bestimmung der Absoprtions- und Emissionskoeffizienten im thermschien Nichtgleichgweicht auf?[/latex]",
+                        "[latex]Im fall des thermischen Nichtgleichgewichtes kann kein Zusammenhang ( z.B. über das Kirchhoffsche Gesetz) zwischen Absoprtionskoeffizient und Emissionskoeffizient hergestellt werden.[/latex]"
                     ],
-                    "guid": "r)N{Xpas#5",
-                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "guid": "pidHKDh,ws",
+                    "note_model_uuid": "e92bc65f-8cc8-11eb-9ab8-548d5a19ec17",
                     "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "[latex]<div>Wie&nbsp;ändern&nbsp;sich die Gastemperaturen in der&nbsp;Strömung,&nbsp;wenn<div>eine signifikante&nbsp;Strahlungskühlung&nbsp;(durch Gasstrahlung)</div><div>auftritt?</div><div>[/latex]<br></div></div>",
-                        "[latex]<div>kurz: Die Temperatur sinkt\\\\</div><div>\\\\</div><div>Die&nbsp;Strahlungskühlung&nbsp;in der&nbsp;Außenströmung&nbsp;führt&nbsp;zu einer</div><div>Absenkung der Grenzschichtrandtemperatur.</div><div>[/latex]</div>"
+                        "[latex]Welches Problem besteht bei der Berechnung der spektralen Strahldichte $I_{\\lambda}$[/latex]",
+                        "[latex]Die emittierte Strahlung wird auf ihrem Weg durch das Gas zum jeweils betrachten Volumenelemnt bereits teilweise absorbiert. Hierzu tragen alle Volumenelemente im betrachteten Gebiet bei[/latex]"
                     ],
-                    "guid": "J!!N5e?vbK",
-                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "[latex]<div><div>Muss die&nbsp;Oberflächenstrahlung&nbsp;bei der Berechnung des</div><div>Oberflächenwärmestroms&nbsp;des US Space Shuttle Orbiters</div><div>berücksichtigt&nbsp;werden? Spielt die&nbsp;Kühlung&nbsp;der&nbsp;Strömung&nbsp;durch</div><div>die Gasstrahlung beim Shuttle- Wiedereintritt eine wesentliche</div><div>Rolle?</div></div><div>[/latex]<br></div>",
-                        "[latex]<div>Der Energietransport durch Strahlung&nbsp;für&nbsp;den typischen Wiedereintritt<div>aus LEO ist&nbsp;vernachlässigbar.<br></div><div>[/latex]<br></div></div>"
-                    ],
-                    "guid": "dNyFu0pOa|",
-                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "[latex]<div><div>Wie sind Modellbildung, Simulation, Verifikation, Validierung</div><div>definiert?</div><div>[/latex]<br></div></div>",
-                        "[latex]<div>\\begin{itemize}</div><div>\\item Modellbildung:</div><div><div>\\begin{itemize}</div><div>\\item Abstrahiert mit dem Erstellen eines Modells von der&nbsp;Realität.</div><div>\\end{itemize}</div></div><div>\\item Simulation:</div><div><div>\\begin{itemize}</div><div>\\item Ist eine Vorgehensweise zur Analyse von Systemen, die&nbsp;für&nbsp;die</div><div>theoretische oder&nbsp;formelmäßige&nbsp;Behandlung zu kompliziert sind.<br></div><div>\\end{itemize}</div></div><div>\\item Verifikation:</div><div><div>\\begin{itemize}</div><div>\\item Mathematischer Beweis, dass ein Programm (also eine konkrete</div><div>Implementation) der vorgegebenen Spezifikation entspricht.</div><div>\\end{itemize}</div></div><div>\\item Gültigkeitskontrolle:</div><div><div>\\begin{itemize}</div><div>\\item Überprüfung&nbsp;der&nbsp;Gültigkeit&nbsp;(Validierung)</div><div>Nachweis, dass eine analytische Methode&nbsp;für&nbsp;ihren Einsatzzweck</div><div>geeignet ist und die an sie gestellten Anforderungen&nbsp;erfüllt.</div><div>\\end{itemize}</div></div><div>\\end{itemize}<br></div><div>[/latex]<br></div>"
-                    ],
-                    "guid": "AeN;SNTBru",
-                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "[latex]<div>Welche zwei Transportmodelle gibt es?<div></div><div>[/latex]<br></div></div>",
-                        "[latex]<div>\\begin{itemize}</div><div>\\item Starrkugelmodell</div><div>\\item Potentialmodell</div><div>\\end{itemize}</div><div>[/latex]<br></div>"
-                    ],
-                    "guid": "Q+_u4F-|xQ",
-                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "guid": "LJVVsh@*kv",
+                    "note_model_uuid": "e92bc65f-8cc8-11eb-9ab8-548d5a19ec17",
                     "tags": []
                 }
             ]
@@ -2753,6 +2993,458 @@
                     "tags": []
                 }
             ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "f1fd9dc1-8ccd-11eb-9851-b46d83530bff",
+            "deck_config_uuid": "46448205-6b20-11eb-bc0a-b46d83530bff",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "latex-116b104718e20415542e1d1d3a3941a0af8dfdfa.png",
+                "latex-11825c80ce195579e5fc1c04a41d255144afd345.png",
+                "latex-1188bd86566b394872aa93c932600b773d164dca.png",
+                "latex-12d071456d5688c4d9394afa7a6b470be39896b0.png",
+                "latex-13aab74197b1fe00786619cd149ce1f335e74797.png",
+                "latex-14ef8e987894b9f984554adcca4644be490010ab.png",
+                "latex-169644d70cb804a9f1a563158e1e6627afb0512f.png",
+                "latex-17e8ecd9cc7baa241a2543e73eaa4837666e9193.png",
+                "latex-194916c5d6bfe4be6fa6e5572f28d78a6c75b5ea.png",
+                "latex-1f72a7b73589548eba5c08417cdc88bc74e1daf1.png",
+                "latex-1fd9213d53a8232f6d181bdf666abb8ad48421a5.png",
+                "latex-247ed792407424dbb721ef770693120c6774a4a2.png",
+                "latex-28a7554cd91be3ed1e6db191cb4cddb5519fe730.png",
+                "latex-2da0b2989603bbe50acea89a34e858d8f1f6b38a.png",
+                "latex-327b3802a59b4c4a3ae9cf0a6f97021bc6adb1f2.png",
+                "latex-3989a654b0bf8e12dc2a9220ad4a7770cfb14676.png",
+                "latex-3a4c419c2aafa7e76bd12cdd790e41d8f5883122.png",
+                "latex-3b49c92e7c461e0c197de756393907f3b152c790.png",
+                "latex-3b8e2c58ffe40e4cbee52a3a7047e73f0da56256.png",
+                "latex-42371d6688b42cb9b080f9f0c1830688b4bab026.png",
+                "latex-4298a4a4ea8593ec0675a960712604f8f52e2e38.png",
+                "latex-429d9354a4dc02856a0d6adb9b0fc1bdca02df6f.png",
+                "latex-4420f262be69857a24582efa6dd85ee3fd3e3268.png",
+                "latex-46a97edb2c08733b75ed93f8f9ed70416be8f016.png",
+                "latex-48a36befc609ee17cb50f8784804dc0b23acb097.png",
+                "latex-5269b79d25a9f9b03fe31bbe7aaa105198f02cc3.png",
+                "latex-52ea950358095ca2fd2fc219a93c562530de6775.png",
+                "latex-5916b1deac2869e5ce3ab113e2cc21b41bb1fe2b.png",
+                "latex-60438f5fd0f21d1de2e358277721a289b3a03179.png",
+                "latex-622d034ebbd08f14281a1f35e9b30f178a6f89b1.png",
+                "latex-6689c17f80c54389a4b88d9a6950de1d1bd6132c.png",
+                "latex-6698f8376bf7ca1845a1520d3888b6b70b089403.png",
+                "latex-696f40b26d6887ec0761df197a10e1a250510aeb.png",
+                "latex-6d86a414b3ed41504e6c476db60a1154e100912a.png",
+                "latex-761eb78cd43b980ff905177392ac5d3945d992a3.png",
+                "latex-79309ac8ad4a3d4bc0bf36cd9e08f5fb7ebbd520.png",
+                "latex-7c8e18e4b968e21581c5dc9fa85e339806023a58.png",
+                "latex-7cf356e77879ae6d209be2e9467062c70f6948dc.png",
+                "latex-7e457584f6ba50b9f94e6ce598d4172e3d49c598.png",
+                "latex-7f0bd6596fc9c8171ce6687065a6e5111cda44f4.png",
+                "latex-81597c62896f5ff06b41561e6ebe955a5342734a.png",
+                "latex-82d5c02929ce410929885084699fbf436ee1dc57.png",
+                "latex-83ecad4a77a0a29da99ac64595e6e758069a8713.png",
+                "latex-8488fe4bde886f782fd7030791cac14298c1cce0.png",
+                "latex-89d0a697ae6b5234b3e84b92c0f95a9bfcfe56c4.png",
+                "latex-8b4444e73ef41ece9d1bd4026f95a96937e79f9b.png",
+                "latex-8b599459caff7dde6954b098238c4ffb42f3ff71.png",
+                "latex-938c4eb248cb661c464ee7e180697181910acc93.png",
+                "latex-94e7cc26cfed8ccfc4b9b054f2d03364610f9a9e.png",
+                "latex-98271119b885f41c87d56d1726e1f2d9d9440a9b.png",
+                "latex-9c25d7379dc8e5ba9f6814430bbf0d641fb69230.png",
+                "latex-9ebe705d069478f9a9775c1c7a48b7bab1246814.png",
+                "latex-b3b1207348e5bb98ea5e8bdd6f149e54ba11444e.png",
+                "latex-b875308bfc89275728ad2c4b2c33cf8115b328a1.png",
+                "latex-bb68130ae4b505a34f4e54b26f4ee67fd64e36ed.png",
+                "latex-c8bda5ed4533671f4c8928e44b5f58bc3c99c73d.png",
+                "latex-cd32a8491d8b2f9d0d11d6e9463791dfacff7d37.png",
+                "latex-ce1c22c84fbe705f0ee869dde3019f1ecb9b0fbd.png",
+                "latex-d470e468e2331a779888373ed50c44b3eb44b833.png",
+                "latex-e50c1e4ef343cf73e2949dbb4f29e6e6ba8c68ed.png",
+                "latex-e7110eed530f6edcb0fe7961894037443fed129b.png",
+                "latex-eccf84d2f08168ef5c19b80b525cc54a0eb7c237.png",
+                "latex-edbf88e7bc79a2c27db70ca22b6075e4ce2cc565.png",
+                "latex-eebfa51c683a204cd1d71b64c03be28089f6c2d9.png",
+                "latex-f0f2b19291f97b087d310022891a9820563100c0.png",
+                "latex-f24097b3f890b013c1d48edc2af0acc5ae278b6e.png",
+                "latex-f331b8a9d015a16814feb5dbcccb94839fcd8338.png",
+                "latex-f9e23781d641c7559a99847f175c405c41f19b1e.png",
+                "paste-2a3d709793610d338deb7a69d05c1f4becea9ffd.jpg",
+                "paste-3d198632d01c703f5cda8041b6f0bbc2fe5ab94c.jpg",
+                "paste-43efaf920cf23c0fb5a794c0eac6d85af6e222c4.jpg",
+                "paste-4cd901349f37baa6bc6e255a30e07e18b488ef97.jpg",
+                "paste-4f4ba8da44b8256a342dc4d8aa646f03d6f39095.jpg",
+                "paste-69f297422a546cb9a553969d3e209552a09db079.jpg",
+                "paste-6d0099dc3964dd6751d843f18946eb35166a0aab.jpg",
+                "paste-8b100553708a477275819e2ce5de61e34c039f4e.jpg",
+                "paste-a779d02fafaaa57091bbd4bee394b3d5cfe29d4e.jpg"
+            ],
+            "name": "Kinetische Gastheorie",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Was wird bei der klassischen Thermodynamik betrachtet?[/latex]",
+                        "[latex]\\begin{itemize}<div>\\item makroskopische Betrachtung</div><div>\\item keine Betrachtung der Atome/Moleküle (Teilchen)</div><div>\\item Mittelwertbildung</div><div>\\item Kontinuumstheorie</div><div>\\end{itemize}</div><div>[/latex]<br></div>"
+                    ],
+                    "guid": "JiYW`EK3_b",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Was ist die mittlere freie Weglänge und wann, bzw. wie wird sie betrachtet?[/latex]",
+                        "<div>[latex]<br></div><div><br></div><div>\\begin{itemize}</div><div>\\item der zwischen zwei aufeinanderfolgenden Stöße im Mittel zurückgelegte Weg</div><div>\\end{itemize}<br></div><div><br></div><div>\\textbf{Mikroskopische Betrachtung}\\\\<br></div>Teilchen bewegen sich auf geraden Bahnen, bis sie durch Stöße untereinander oder mit Berandungen abgelenkt werden.\\\\<div><br></div><div>Luft&nbsp; unter Normalbedingungen: $l=6,6\\cdot10^{-8} = 66\\,nm$<br><div>[/latex]<br></div></div>"
+                    ],
+                    "guid": "G+s7M62ht?",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Nenne die drei Hypothesen und die Idealisierungen der Modelltheorie![/latex]",
+                        "[latex]<div>Hypothesen:<br><div>\\begin{itemize}</div><div>\\item Materie besteht aus diskreten Teilchen. Teilchen einer Substanz sind gleich.</div><div>\\item Interaktion der Teilchen folgen den Gesetzen der Mechanik:</div><div><div>\\begin{itemize}</div><div>\\item Impulserhaltung</div><div>\\item Energieerhaltung</div><div>\\end{itemize}</div></div><div>\\item Teilchenanzahl ist sehr groß:</div><div><div>\\begin{itemize}</div><div>\\item statistische Betrachtung</div><div>\\end{itemize}</div></div><div>\\end{itemize}</div><div>Idealisierung:</div><div><div>\\begin{itemize}</div><div>\\item Teilchen sind Punktmassen ($m_{T}$), deren Eigenvolumen vernachlässigbar ist. (Keine Verformung beim Stoß.)</div><div>\\item Teilchen sind kugelförmig mit Modelldurchmesser $\\sigma$</div><div>\\item Teilchen sind viel kleiner als ihre mittlere freie Weglänge. ($l&gt;&gt;\\sigma$)</div><div>\\item Teilchen sind weit voneinander entfernt. Mittlerer Teilchenabstand ($d&gt;&gt;\\sigma$)</div><div>\\item Teilchen führen nur elastische Stöße aus.</div><div>\\begin{itemize}</div><div>\\item Modell der starren Kugel</div><div>\\item keine intermolekularen Wechselwirkungen (keine Anziehung; keine Abstoßung ohne Berührung) $\\to$ Modell des idealen Gases</div><div>\\item Abweichung für sehr dichte Gase.</div><div>\\item Abweichung für komplexe Moleküle</div><div>\\end{itemize}<br></div><div>\\end{itemize}</div></div><div>[/latex]<br></div></div>"
+                    ],
+                    "guid": "MJ6P`g+eL)",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]In welchem Zusammenhang stehen die mittlere freie Weglänge, Temperatur, Druck, Volumen, Masse und Dichte?[/latex]",
+                        "[latex]<div>$pV=mRT$, mit&nbsp; $R= const.$ \\&amp; $m=const.$\\\\</div><div>\\\\</div><div>Wenn $V=const.$ \\&amp; $T\\uparrow$:\\\\</div><div>$p\\uparrow, \\rho \\downarrow$ $\\to$ mittlere freie Weglänge $l = const.$\\\\</div><div><div>Wenn $V\\downarrow$ \\&amp; $ T\\uparrow$:\\\\</div><div>$p\\uparrow, \\rho \\uparrow$ $\\to$ mittlere freie Weglänge $ l\\downarrow$.\\\\</div><div><br></div><div>\\textbf{Die mittlere freie Weglänge wächst mit abnehmender Dichte}</div><div>[/latex]<br></div></div>"
+                    ],
+                    "guid": "zd[UdtS?wy",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]In welchem Zusammenhang steht die Reynoldszahl zur Kinetischen Gastheorie?[/latex]",
+                        "[latex]<div>Reynoldszahl:\\\\</div><div>$Re=\\frac{cL}{\\nu}$\\\\</div><div>\\\\</div><div>Kinetische Gastheorie: \\\\</div><div>$\\nu \\propto \\l\\bar{c}$, $\\bar{c}$ Mittlere Teilchengeschwindigkeit\\\\</div><div>$\\bar{c} \\approx c_s$, $c_s$ Schallgeschwindigkeit\\\\</div><div>\\\\</div><div>$Re \\propto \\frac{cL}{\\nu}\\frac{l\\bar{c}}{lc_s}\\frac{c_s}{l\\bar{c}} \\propto Ma\\frac{L}{l}$\\\\</div><div>\\\\</div><div>$\\frac{l}{L} \\propto \\frac{Ma}{Re}$\\\\</div><div>\\\\</div><div>Ideales Gas: $\\frac{1}{\\rho} \\propto \\frac{T}{p} \\to l\\uparrow$, wenn $\\frac{T}{p}\\uparrow$</div><div>[/latex]<br></div>"
+                    ],
+                    "guid": "kn3Wd/wx6<",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Wie hängt die mittlere freie Weglänge l mit der Wärmeleitung durch ein Medium (ruhendes Gas) zusammen?[/latex]",
+                        "<img src=\"paste-4cd901349f37baa6bc6e255a30e07e18b488ef97.jpg\"><div><br><div>[latex]</div><div>Der Wärmestrom, der durch Wärmeleitung von einer Wand mit Temperatur $T_1$ zur kälteren Wand $T_2$ transportiert wird, nimmt mit wachsender mittleren freien Weglänge ab.</div><div>[/latex]<br></div></div>"
+                    ],
+                    "guid": "miTr_P|mO[",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Wie lautet das Theorem von Leukippos/Demokrit und was sagt es aus?[/latex]<br>",
+                        "[latex]<div>\\textbf{\\textit{Bewegung wäre unmöglich, wenn kein leerer Raum existiert, in den ein Körper sich hinein bewegen kann.}}\\\\</div><div>\\\\</div><div>\\begin{itemize}</div><div>\\item Materie besteht aus Teilchen, die sich im leeren Raum bewegen</div><div>\\item Materie ist nicht beliebig teilbar</div><div>\\item kleinste, unteilbare Einheit $\\alpha\\tau o\\mu o\\sigma$(atomos)</div><div>\\item Atome sind von verschiedener Gestalt</div><div>\\item Unterschiede in den Materialeigenschaften durch unterschiedliche Teilchen und Bewegungen</div><div>\\end{itemize}</div><div><div>[/latex]<br></div></div>"
+                    ],
+                    "guid": "i}YaB(`|NR",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Wie lautet die Theorie von Empedocles/Plato/Aristoteles?[/latex]",
+                        "<img src=\"paste-3d198632d01c703f5cda8041b6f0bbc2fe5ab94c.jpg\">"
+                    ],
+                    "guid": "fsU<rIVz<X",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Was sind Prozessgrößen?[/latex]<br>",
+                        "[latex]Eine&nbsp;<b>Prozess-</b>&nbsp;oder&nbsp;<b>Vorgangsgröße</b>&nbsp;ist eine&nbsp;<a href=\"https://de.wikipedia.org/wiki/Physikalische_Gr%C3%B6%C3%9Fe\">physikalische Größe</a>, die ausschließlich bei&nbsp;<a href=\"https://de.wikipedia.org/wiki/Zustands%C3%A4nderung\">Zustandsänderungen</a>&nbsp;auftritt und den Prozess der Zustandsänderung beschreibt.<sup><a href=\"https://de.wikipedia.org/wiki/Prozessgr%C3%B6%C3%9Fe#cite_note-1\">[1]</a></sup>&nbsp;Daher sind Prozessgrößen vom Weg der Änderung abhängig. Prozessgrössen beschreiben, wie ein&nbsp;<a href=\"https://de.wikipedia.org/wiki/Zustand_(Thermodynamik)\">Zustand</a>&nbsp;in einen anderen Zustand übergeht.<div>Dies steht im Gegensatz zu den&nbsp;<a href=\"https://de.wikipedia.org/wiki/Zustandsgr%C3%B6%C3%9Fe\">Zustandsgrößen</a>, welche lediglich vom jeweiligen Zustand abhängen, und für die es ohne Bedeutung ist, auf welche Art und Weise sich dieser Zustand eingestellt hat.</div>Durch Zu- oder Abfuhr von&nbsp;<a href=\"https://de.wikipedia.org/wiki/Energie\">Energie</a>&nbsp;erfährt ein&nbsp;<a href=\"https://de.wikipedia.org/wiki/Thermodynamisches_System\">thermodynamisches System</a>&nbsp;eine Zustandsänderung. Die hierbei verrichtete&nbsp;<a href=\"https://de.wikipedia.org/wiki/Arbeit_(Physik)\">Arbeit</a>&nbsp;W&nbsp;und ausgetauschte&nbsp;<a href=\"https://de.wikipedia.org/wiki/W%C3%A4rme\">Wärme</a>&nbsp;Q&nbsp;sind daher Prozessgrößen.[/latex]<br>"
+                    ],
+                    "guid": "d>(A3nK)BT",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Wie erhält man die Gesamtteilchenanzahl aus der Geschwindigkeitsverteilungsfunktion?[/latex]<br>",
+                        "[latex]Integration dieser über alle Merkmale (Lage- und Geschwindigkeitsraum)[/latex]<br>"
+                    ],
+                    "guid": "hbYau9LFl=",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Wie lautet die mikroskopische Form der Zustandgleichung des idelaen Gases?[/latex]<br>",
+                        "[latex]$p = n\\cdot k\\cdot T$[/latex]<br>"
+                    ],
+                    "guid": "fC_6N7p];X",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Wie setzt sich die Gesamtgeschwindigkeit der Teilchen in einem Gas zusammen und was gilt für ein Gas in Ruhe?[/latex]<br>",
+                        "[latex]Addition von Eigengeschwindigkeit und makroskopische Geschwindigkeit\\\\<div>$\\vec{\\xi} = \\vec{c} + \\vec{v}$\\\\</div><div>Für Gas in Ruhe: $\\vec{v} = 0$ (makroskopische Geschwindigkeit)[/latex]<br></div>"
+                    ],
+                    "guid": "nTb7LrDz~h",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Was ist das 6-Zellen Modell und wie leitet sich hieraus die kinetische Energie?[/latex]<br>",
+                        "[latex]Eine Vereinfachung der Verteilungsfunktion unter der Annahme:\\\\<div>1/6 aller Teilchen bewegen sich in positiver und negativer Richtung der kartesischen Achsen und haben die gleiche Geschwindigkeit $c_0$.\\\\</div><div>Kinetische Energie durch Aufteilung der Teilchen auf 3 Freiheitsgrade. Durch Gleichverteilungssatz sind die Geschwindigkeitskomponenten in alle Raumrichtungen gleich, daruch entspricht kin. Energie je Freiheitsgrad $\\epsilon = \\frac{1}{2}\\cdot k\\cdot T$ und somit gesamt: $\\epsilon = \\frac{3}{2}\\cdot k\\cdot T$. Diese entsprcht der gesamten inneren volumenspezifischen Energie für translatorische Bewegung.[/latex]</div>"
+                    ],
+                    "guid": "P~,ziy51TP",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Warum nimmt die Temperatur für große Höhen über dem Erboden zu und weshalb können Satelliten diese Temperaturen standhalten?[/latex]<br>",
+                        "[latex]Die Temperatur ist $\\propto \\frac{c^2}{n}$. In großen Höhen nimmt die Teilchendichte n ab und die Eigengeschwindigkeit c der Teilchen ist dort durch die Sonneneinwirkung sehr groß, dadurch ist die Temperatur sehr groß. Da aber die Teilchendichte sehr gering ist, ist der Wärmeeintrag / Wärmestrom sehr gering.&nbsp; &nbsp;[/latex]<br>"
+                    ],
+                    "guid": "L%Oh?G=@qP",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Wie sind die spezifischen Wärmekapazitäten und der Isotropenexponent in Abhängigkeit der Freiheitsgrade definiert?[/latex]<br>",
+                        "[latex]$c_v = \\frac{FG}{2}\\cdot R$\\\\<br><div>$c_p = \\frac{FG+2}{2}\\cdot R$\\\\</div><div>$\\kappa = \\frac{FG+2}{FG}$[/latex]<br></div>"
+                    ],
+                    "guid": "ch5D~4`)IP",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Was ist die Stokessche Annahme in Bezug auf Zustandsgrößen und was ist die Besonderheit die sich daraus ergibt?[/latex]<br>",
+                        "[latex]Der Druck p ergibt sich aus dem Mittelwert der Normaldrücke in alle 3 Raumrichtungen unter der Annhame, dass diese im Gleichgewicht sind.\\\\<div>Gesamtdruck ist eine skalare Größe und lässt sich in über ideale Gasgleichung in Temepratur umrechnen. Verhätlins von T zu p ist keine Funktion von der Verteilungsfunktion und somit auch für ein Gas im Nichtgleichgewicht gültig.[/latex]<br><div><img src=\"paste-8b100553708a477275819e2ce5de61e34c039f4e.jpg\"><br></div></div>"
+                    ],
+                    "guid": "B4$-xkeDA7",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Was gilt für Zustands- und Prozessgrößen für Gas im Gleichgewicht?[/latex]<br>",
+                        "[latex]Makroskopische Geschwindigkeit, Tangentialdrücke und Wärmestrom sind gleich Null.[/latex]<br>"
+                    ],
+                    "guid": "jP~I10.G@.",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Die vereinfachte Stoßfrequenz eines Gases ist nach $\\frac{\\Delta N}{\\Delta t} = n\\cdot \\pi\\cdot \\sigma^2\\cdot c_0$ definiert. Welche Korrektur muss für die vereinfachte Annahme getroffen werden und wie lautet die endgültige Stoßfrquenz?\\\\<div>Wie ergibt sich hieraus die mittlere freie Weglänge?[/latex]<br></div>",
+                        "[latex]Statt $c_0$ muss die mittlere Relativgeschwindigkeit $\\bar{g}$ aus Maxwellverteilung genutzt werden.\\\\<div>Korrektur mit $a_z = \\frac{\\bar{g}}{c_0}$, wobei $\\bar{g} = \\sqrt{2}\\cdot \\bar{c}$<br><div>$\\nu_F = \\frac{4}{\\sqrt{3\\cdot \\pi}} n\\cdot \\pi\\cdot \\sigma^2\\cdot c_0$\\\\</div><div>Mittlere freie Weglänge nach $l = \\bar{c} / v_F = Funktion(\\frac{1}{\\sigma^2\\cdot n})$ und nicht von Geschwindigkeit abhänhig.[/latex]<br></div></div>"
+                    ],
+                    "guid": "CYjg?(9#N#",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Wie sit die Knudsenzahl definiert und welche Gebiete erschließen sich aus dieser?[/latex]<br>",
+                        "[latex]$ Kn = \\frac{l}{L}$\\\\<div>Gebiete:</div><div>\\begin{enumerate}</div><div>\\item Kontinuum $Kn &lt; 0.01$ \\textrightarrow fast nur Teilchenstöße</div><div>\\item Gleitströmungsgebiet $0.01 &lt; Kn &lt; 0.1$ \\textrightarrow Einfluss der Randzonen</div><div>\\item Übergangsgebiet $0.1 &lt; Kn &lt; 10$ \\textrightarrow&nbsp;Teilchenstöße $\\simeq$ Wandstöße</div><div>\\item Freie Molekülbewegung $Kn &gt; 10$ \\textrightarrow&nbsp;fast nur wandstöße</div><div>\\end{enumerate}[/latex]</div>"
+                    ],
+                    "guid": "JF8zg+[Mx`",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Wie ist der mittlere Teilchenabstand definiert in einem Würfelkontrollvolumen?[/latex]<br>",
+                        "[latex]$ d = n^{-1/3}$[/latex]"
+                    ],
+                    "guid": "j+yUEG`ZE",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Was kommt durch die gaskinetische Betrachtung der Couette-Strömung zustande?[/latex]<br>",
+                        "[latex]Druch die Eigengeschwindigkeit der Teilchen muss eine Tangentialspannung herrschen, um ein lineares Geschwindigkeitsprofil zu erhalten.\\\\<div>Dynamische Viskosität $\\eta \\propto \\sqrt{T}$[/latex]<br></div>"
+                    ],
+                    "guid": "M3BC_>_$eR",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Die dynamische Zähigkeit lautet nach empirischem Ansatz $\\eta = \\eta_0 (\\frac{T}{t_0})^S$. Der Parameter S ist mit 0.5....1 angegeben. Aus der gaskinetischen Betrachtung ist der Exponentn mit 0.5 definiert. Aus Experimenten erfolgt, dass dieser größer ist als 0.5. Warum ist das so?[/latex]<br>",
+                        "[latex]Die gaskinetische Betrachtung bezieht die Anziehungskräfte der Atome nicht mit ein. Somit ist für Atome mit großer Molmasse der Exponent $&gt; 1$. Im Sutherland-Modell wird dieser Zusammenhang berücksichtigt.[/latex]<br>"
+                    ],
+                    "guid": "fF#j1J$.`1",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Was beschreibt die Korrektur von Eucken?[/latex]<br>",
+                        "[latex]Der Wärmetransport eines Gases wird aufgespaltet in Anteile für translatorische Bewegung und Anteile für die innere Energie. Inneren Freiheitsgrade werden im einfachen Modell nicht modelliert.[/latex]<br>"
+                    ],
+                    "guid": "<)M1][m[J",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Von was ist die Wärmeleitung in einem stark verdünnten Gas unabhängig? Was folgt daraus?[/latex]<br></div>",
+                        "[latex]<div>Von dem Abstand H.\\\\</div><div><br></div><div>Das bedeutet, dass keine Wärmeleitfähigkeit nach Fourier definierbar ist.\\\\</div><div>\\\\</div><div>$\\dot{q}=-\\lambda \\frac{\\Delta T}{H}$</div><div>[/latex]<br></div>"
+                    ],
+                    "guid": "jxp}5LbE7P",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Warum ist der Ansatz nach Newton im Gebiet der freien Molekülbewegung für die Tangentialspannung nicht sinnvoll?[/latex]<br>",
+                        "[latex]Tanngentialspannung im FM Gebiet nicht von Abstand abhängig, somit muss Zähigkeit $\\eta$ von Geoemtrie abhängen, womit sie nicht mehr als Stoffgröße definiert ist.[/latex]<br>"
+                    ],
+                    "guid": "CNqL%Oy%0~",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Welche Bedingung liegt vor, wenn der kunematische Akkomodationskoeffizient null ist?[/latex]<br>",
+                        "[latex]Keine Anpassung an Wandgeschwindigkeit: Teilchengeschwindigkeit vor und nach dem Stoß mit der Wand ist gleich \\textrightarrow es wird keine Tangentialspannung übertragen[/latex]<br>"
+                    ],
+                    "guid": "qDNl}rY!mO",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Warum kann im Gebiet der freien Molekülbewegung die Wärmeleitfähigkeit nicht nach Fourier definiert werden?[/latex]<br>",
+                        "[latex]Wärmestrom ist unabhängig von Abstand der Platten.[/latex]<br>"
+                    ],
+                    "guid": "M&l=&e3/$0",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Wie sehen die Temperaturverläufe zwischen 2 Wänden für unterschiedliche Kn, bzw. Strömungsgebiete aus?[/latex]<br>",
+                        "<img src=\"paste-69f297422a546cb9a553969d3e209552a09db079.jpg\">"
+                    ],
+                    "guid": "QwL[N[JNEY",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Wie sieht der dimensionslose Wärmestrom (in Bezug auf Kontinuum) aufgetragen über 1/Kn aus?[/latex]<br>",
+                        "<img src=\"paste-2a3d709793610d338deb7a69d05c1f4becea9ffd.jpg\">"
+                    ],
+                    "guid": "LW`L0II`DL",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Wie ist der Leitwert einer Rohrleitung definiert?[/latex]<br>",
+                        "[latex]$L = \\frac{\\bar{p} \\bar{\\dot{V}}}{p_1-p_2}$[/latex]<br>"
+                    ],
+                    "guid": "LU%E#$v5@A",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Welche Vorraussetzungen müssen bei der Maxwell-Verteilungsfunktion getroffen werden?[/latex]<br>",
+                        "[latex]<div>\\begin{itemize}</div><div>\\item Thermodynamisches Gleichgewicht</div><div>\\item keine makroskopische Geschwindigkeit</div><div>\\item keine bevorzugte Geschwindigkeitsrichtung</div><div>\\end{itemize}[/latex]<br></div>"
+                    ],
+                    "guid": "rGql6EKK6o",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Was geschieht mit der Gaußverteilung bei steigender Temperatur?[/latex]<br>",
+                        "[latex]Verteilung wird flacher und breiter. Die Fläche unter der Kurve bleibt jedoch gleich. Anteil der schnelleren Teilchen nimmt zu.[/latex]<br><div><img src=\"paste-a779d02fafaaa57091bbd4bee394b3d5cfe29d4e.jpg\"><br></div><div><img src=\"paste-43efaf920cf23c0fb5a794c0eac6d85af6e222c4.jpg\"><br></div>"
+                    ],
+                    "guid": "Cl0dJ@AVis",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Wie sieht die Verteilungsfunktion in Abhängigkeit der Teilchemasse aus?[/latex]<br>",
+                        "[latex]Teilchen mit geringerer Masse, verhalten sich wie Teilchen mit höherer Temperatur[/latex]<br><div><img src=\"paste-4f4ba8da44b8256a342dc4d8aa646f03d6f39095.jpg\"><br></div>"
+                    ],
+                    "guid": "jU9X-0cQBp",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Skizzieren SIe die verschiedenen Geschwindigkeiten, welche sich aus der $f_3(c)$ Verteilungsfunktion ermitteln lassen.[/latex]<br>",
+                        "<img src=\"paste-6d0099dc3964dd6751d843f18946eb35166a0aab.jpg\">"
+                    ],
+                    "guid": "g<neYuGU&A",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Was versteht man unter dem Begriff Effusion?[/latex]<br>",
+                        "[latex]Ausströmen eines Gases durch eine kleine Öffnung d allein durch die Eigengeschwindigkeit der Teilchen. Hierbei gilt $ d \\ll l$[/latex]<br>"
+                    ],
+                    "guid": "r$|^r<:K7p",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Wie verhält sich der Teilchenstrom bei Effusion in Abhängigkeit der Teilchenmasse und wofür wird dies genutzt?[/latex]<br>",
+                        "[latex]$\\dot{N} \\propto \\sqrt{T/M}$\\\\<div>Bei gegebener Temperatur ist der Teilchenstrom für leichtere Gase in einem Gemisch größer \\textrightarrow Wird für Gastrennungsverfahren genutzt[/latex]<br></div>"
+                    ],
+                    "guid": "P4*JT8W!Xr",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                }
+            ]
         }
     ],
     "crowdanki_uuid": "e15c8f6b-8260-11eb-bf8e-f82819695d86",
@@ -2959,6 +3651,58 @@
             ],
             "type": 0,
             "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "e92bc65f-8cc8-11eb-9ab8-548d5a19ec17",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Vorderseite",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Rückseite",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Einfach-8ba94",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Rückseite}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Karte 1",
+                    "ord": 0,
+                    "qfmt": "{{Vorderseite}}"
+                }
+            ],
+            "type": 0
         }
     ],
     "notes": []
