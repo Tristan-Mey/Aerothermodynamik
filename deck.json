@@ -20,6 +20,7 @@
                 "latex-08706cea69e3cc3b58df14a973af72b339eb8f92.png",
                 "latex-09fe21adfa84cfb507626bda8e0d36a263edbbb1.png",
                 "latex-0bc39f47b4bd0746379ca5cb2c046bd38d83d68d.png",
+                "latex-0c4018d1ab5da2da78f0fd133b62a48312307a72.png",
                 "latex-0dd2ebb9bfdb131afd19c9235bf4ef3b57b356e9.png",
                 "latex-0df534c643ea9f8e87bbdb31a10a179ffd598489.png",
                 "latex-0dfc168515364defd40a91724d49adcc33541023.png",
@@ -41,8 +42,10 @@
                 "latex-1eedf6ac17e7939475042ea3e34f5cbbed7a1fbd.png",
                 "latex-1fd1cd5c6a1a2a50566fdfb484f79941d52f7d30.png",
                 "latex-215078dbe5e0b937c1b27106746b5b274e79f961.png",
+                "latex-23f9eb0aa7c607f85ef038aadf56a54f51369fc3.png",
                 "latex-24c588d502680bebf715a5dcf3b61f36621d8957.png",
                 "latex-2540c696a6b1a6edeee2577f919ed39192e05c50.png",
+                "latex-25536a75e41c0dd159de148d606e0f1c4972768b.png",
                 "latex-25ec405423c0a9f4054227966df728c85df08256.png",
                 "latex-279a3c7c267b9957739ade93c0bce91ac33e3929.png",
                 "latex-29ebf6c2cdd6b5cbf966e3e7b9743966a5fa50f3.png",
@@ -74,7 +77,6 @@
                 "latex-4d9abb6acfaa4187558d25045aa554c7efa927b8.png",
                 "latex-4dca721a201880b79b3af82c090ee12373875c19.png",
                 "latex-4f61ef7142b1a3f0940ebd807c7e2100a5a398ce.png",
-                "latex-4fb6046f34b4f434f088b9ec5c978a745c6a6391.png",
                 "latex-50c0da252f44e546633fffab190d021922195ff7.png",
                 "latex-5193059bada583cd132a745d4570d03715f4ff68.png",
                 "latex-52ca78b417056592b6594186e6f3e1d0c29954a7.png",
@@ -108,6 +110,7 @@
                 "latex-701fce7e538f37689dd740a691cd7c73d9830fc9.png",
                 "latex-72754ef40404b568a647927d88bf3901f7429c0f.png",
                 "latex-7433b2b2f0be45c9bcd6c15eb5c1768fd3c1ca71.png",
+                "latex-74fc8d7cc3e99158a5ee60169529405f66efe425.png",
                 "latex-767e5143820dda4611e3c53fc183bad7829463e3.png",
                 "latex-76a7510384955cd8e253d0766053ab64837ae0ac.png",
                 "latex-772c580ca339f983e221b34f129fabe94bd316df.png",
@@ -119,6 +122,7 @@
                 "latex-7a35ee525e2823b8fc86e3567bd388cba1e49308.png",
                 "latex-7ab7f53362a5c4db71a868d56eda42729c6681a6.png",
                 "latex-7b1a2db3092f16d0aa48e78ecfa14e4c21a540ea.png",
+                "latex-7b853c7921a7cd2ddeef84702c259cc3c9ec3c33.png",
                 "latex-7ca62daf1929741a5ee1f2ff23acd83c167dc02d.png",
                 "latex-7cfa2aa3e3bf1cd0eafd2b2185691f6d2199801d.png",
                 "latex-7fab9eea21a81d0e79c8a34f6cdd37e3b33db492.png",
@@ -135,6 +139,7 @@
                 "latex-9163565eeda2a22eb711176ddb53716afea4de33.png",
                 "latex-95d38c8e2840bea63198be8b6bbeab18c139b4b3.png",
                 "latex-95e67bc07e333901f54a6744012180fd54a01a57.png",
+                "latex-964aec03b4e3a6bbfd86ac94b5db3e0df2d3f783.png",
                 "latex-970cac31ecb60f0b9f8a5b78a04a1b66d0ba5a92.png",
                 "latex-97fedeefd418879349f1a3f986789b15d56cd114.png",
                 "latex-990abebea56c14c8688b40653ad3c946f795b6e8.png",
@@ -189,11 +194,13 @@
                 "latex-cc1da1725a121b07c0bd559ee75874a3793fae25.png",
                 "latex-cda11ccc9d2c764cc8b93985518f3c447743fe6a.png",
                 "latex-ceb4cf3f70ef5ae0e7fd055f3f66a8727cf38ccd.png",
+                "latex-cf28e503eb4f6faa09c47d9dc5988a993ba590cd.png",
                 "latex-d036c031bf8a2e653a834740fd85c51078b80c73.png",
                 "latex-d30533d8976e08d965db121fe0fe1da0abbf9d52.png",
                 "latex-d3512c8eb4bbf8b32d729dd64684a89df3e82bd3.png",
                 "latex-d41519b96b194cfeb2a21887facdbe9ae2b15edf.png",
                 "latex-d42e3719e85cf966d350801c621403bd8575a7f4.png",
+                "latex-d6965d6cd011ce65fbe5a4baaabc8e2d941d7c71.png",
                 "latex-d70abf06dce7e1a63dcd77ce87d465713ad93598.png",
                 "latex-d79b5281cdf7ee6b0196794939fcff4ce3f118ed.png",
                 "latex-d7a6462b26644841b24f9add650a6045f0e51022.png",
@@ -210,6 +217,7 @@
                 "latex-e3887d53709280bd45f42f19f58b5861d3892094.png",
                 "latex-e5641995e113d2e9c6caf9f711876d81b3b62d03.png",
                 "latex-e697748531ff131de2906e582317e8d25a6752f0.png",
+                "latex-e84a1f183186feaf41cf8ae49eaf24b747179c7f.png",
                 "latex-ebcd64de6182f9e18d659e6fcf265b58cf4e458a.png",
                 "latex-ed306333e95bb08deaeb2becc2b8d1c84de93c23.png",
                 "latex-ee1d385f01d96aee5d3d5562a7f729a4a836ba01.png",
@@ -1199,7 +1207,7 @@
                     "__type__": "Note",
                     "fields": [
                         "[latex]<div>Nenne drei Bereiche einer Trajektorie und die jeweils<div>verwendeten Verfahren zur Beschreibung der Strömung!</div><div></div><div>[/latex]<br></div></div>",
-                        "[latex]<div>\\begin{tabular}{@{}l|l@{}}</div><div>Bereich &amp; Verfahren\\\\</div><div>\\hline</div><div>$&gt;$120\\,km&amp;DSMC\\\\</div><div>$40&lt;H&lt;120$&amp; DSMC,Navier-Stokes mit Gleitrand\\\\</div><div>$&lt;40$\\,km &amp; Navier-Stokes, Grenzschichtverfahren\\\\</div><div>\\end{tabular</div><div>[/latex]<br></div>"
+                        "[latex]<div>\\begin{tabular}{@{}l|l@{}}</div><div>Bereich &amp; Verfahren\\\\</div><div>\\hline</div><div>$&gt;$120\\,km&amp;DSMC\\\\</div><div>$40$\\,km$&lt;$H$&lt;$120\\,km&amp; DSMC, Navier-Stokes mit Gleitrand\\\\</div><div>$&lt;40$\\,km &amp; Navier-Stokes, Grenzschichtverfahren\\\\</div><div>\\end{tabular}</div><div>[/latex]<br></div>"
                     ],
                     "guid": "Ce:fgA,PoJ",
                     "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
@@ -1332,6 +1340,46 @@
                         "[latex]<div>Definition:\\\\</div><div>Oberfläche an der keine chemischen Reaktionen stattfinden.\\\\</div><div>\\\\</div><div>Bedingung für die Gaszusammensetzung????</div><div>[/latex]<br></div>"
                     ],
                     "guid": "r)N{Xpas#5",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Wie&nbsp;ändern&nbsp;sich die Gastemperaturen in der&nbsp;Strömung,&nbsp;wenn<div>eine signifikante&nbsp;Strahlungskühlung&nbsp;(durch Gasstrahlung)</div><div>auftritt?</div><div>[/latex]<br></div></div>",
+                        "[latex]<div>kurz: Die Temperatur sinkt\\\\</div><div>\\\\</div><div>Die&nbsp;Strahlungskühlung&nbsp;in der&nbsp;Außenströmung&nbsp;führt&nbsp;zu einer</div><div>Absenkung der Grenzschichtrandtemperatur.</div><div>[/latex]</div>"
+                    ],
+                    "guid": "J!!N5e?vbK",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div><div>Muss die&nbsp;Oberflächenstrahlung&nbsp;bei der Berechnung des</div><div>Oberflächenwärmestroms&nbsp;des US Space Shuttle Orbiters</div><div>berücksichtigt&nbsp;werden? Spielt die&nbsp;Kühlung&nbsp;der&nbsp;Strömung&nbsp;durch</div><div>die Gasstrahlung beim Shuttle- Wiedereintritt eine wesentliche</div><div>Rolle?</div></div><div>[/latex]<br></div>",
+                        "[latex]<div>Der Energietransport durch Strahlung&nbsp;für&nbsp;den typischen Wiedereintritt<div>aus LEO ist&nbsp;vernachlässigbar.<br></div><div>[/latex]<br></div></div>"
+                    ],
+                    "guid": "dNyFu0pOa|",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div><div>Wie sind Modellbildung, Simulation, Verifikation, Validierung</div><div>definiert?</div><div>[/latex]<br></div></div>",
+                        "[latex]<div>\\begin{itemize}</div><div>\\item Modellbildung:</div><div><div>\\begin{itemize}</div><div>\\item Abstrahiert mit dem Erstellen eines Modells von der&nbsp;Realität.</div><div>\\end{itemize}</div></div><div>\\item Simulation:</div><div><div>\\begin{itemize}</div><div>\\item Ist eine Vorgehensweise zur Analyse von Systemen, die&nbsp;für&nbsp;die</div><div>theoretische oder&nbsp;formelmäßige&nbsp;Behandlung zu kompliziert sind.<br></div><div>\\end{itemize}</div></div><div>\\item Verifikation:</div><div><div>\\begin{itemize}</div><div>\\item Mathematischer Beweis, dass ein Programm (also eine konkrete</div><div>Implementation) der vorgegebenen Spezifikation entspricht.</div><div>\\end{itemize}</div></div><div>\\item Gültigkeitskontrolle:</div><div><div>\\begin{itemize}</div><div>\\item Überprüfung&nbsp;der&nbsp;Gültigkeit&nbsp;(Validierung)</div><div>Nachweis, dass eine analytische Methode&nbsp;für&nbsp;ihren Einsatzzweck</div><div>geeignet ist und die an sie gestellten Anforderungen&nbsp;erfüllt.</div><div>\\end{itemize}</div></div><div>\\end{itemize}<br></div><div>[/latex]<br></div>"
+                    ],
+                    "guid": "AeN;SNTBru",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Welche zwei Transportmodelle gibt es?<div></div><div>[/latex]<br></div></div>",
+                        "[latex]<div>\\begin{itemize}</div><div>\\item Starrkugelmodell</div><div>\\item Potentialmodell</div><div>\\end{itemize}</div><div>[/latex]<br></div>"
+                    ],
+                    "guid": "Q+_u4F-|xQ",
                     "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
                     "tags": []
                 }
