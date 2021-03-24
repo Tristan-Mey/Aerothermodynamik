@@ -11,6 +11,7 @@
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [
+                "latex-028183b70eeb776c9733b04ec04469f27c2cbf70.png",
                 "latex-03d9f1e65444842cc7c9b7ebe54414a3f297d5f1.png",
                 "latex-0519cd79c6daf087b2c4c3edacacbb6d423ff99c.png",
                 "latex-062e5c6081ab338af9adda6d39f132682eaf238c.png",
@@ -18,14 +19,19 @@
                 "latex-064dff5eba483a21b9d9b04fa93f6cbc9c744509.png",
                 "latex-08025704c3478ebb52477d964a5bb773fa1ca2e4.png",
                 "latex-08706cea69e3cc3b58df14a973af72b339eb8f92.png",
+                "latex-087f0421265eb265c483c6c3840103a16c7d19fd.png",
+                "latex-09e1fa35cd4627c4576c7d7ec3c9bd9645d28922.png",
                 "latex-09fe21adfa84cfb507626bda8e0d36a263edbbb1.png",
                 "latex-0bc39f47b4bd0746379ca5cb2c046bd38d83d68d.png",
+                "latex-0c0bcc96b035a264d17213c01665118f903d8069.png",
                 "latex-0c4018d1ab5da2da78f0fd133b62a48312307a72.png",
                 "latex-0dd2ebb9bfdb131afd19c9235bf4ef3b57b356e9.png",
                 "latex-0df534c643ea9f8e87bbdb31a10a179ffd598489.png",
                 "latex-0dfc168515364defd40a91724d49adcc33541023.png",
+                "latex-0dfd5502881b6f687859c9d7d597f0b56bbc7c02.png",
                 "latex-0e6cd31bde59e53e8b1455f14951a9e0316f2f9b.png",
                 "latex-0eff4afbe411c403740ec3e9c58cef6ccc4cdf65.png",
+                "latex-1071aa4341b6d312ca5156a9f0f1e492d6ed73dc.png",
                 "latex-11a28eceba36e6a5d341e3da8aac366bc55b8d9e.png",
                 "latex-1302c6a38d2530bd489c364e32f2d67cf17a2b0b.png",
                 "latex-131dd02e18014e6fe9a00b6388d84774d8f9dfe6.png",
@@ -34,6 +40,7 @@
                 "latex-14ebeaf01169ac2f089e73a4c8f5b451db1986b0.png",
                 "latex-164aed3e36d118d5e7f599601a35fe9683a7b184.png",
                 "latex-172df7928678c4623f0bc985e205ebafdd4ccf0c.png",
+                "latex-1745c0daeea2033087d1d5b5ccf5ae2370125898.png",
                 "latex-17831c106eb631e8b9a97e559b26c7529fec58d7.png",
                 "latex-17c402764937e79a95b440abbc814d5c250959ee.png",
                 "latex-1874b57c119351e719ba213c1c1fc1822cc58c1f.png",
@@ -42,18 +49,21 @@
                 "latex-1eedf6ac17e7939475042ea3e34f5cbbed7a1fbd.png",
                 "latex-1fd1cd5c6a1a2a50566fdfb484f79941d52f7d30.png",
                 "latex-215078dbe5e0b937c1b27106746b5b274e79f961.png",
+                "latex-2355a7ecbc3af63cfaec4615bdfb57bf21a27875.png",
                 "latex-23f9eb0aa7c607f85ef038aadf56a54f51369fc3.png",
                 "latex-24c588d502680bebf715a5dcf3b61f36621d8957.png",
                 "latex-2540c696a6b1a6edeee2577f919ed39192e05c50.png",
                 "latex-25536a75e41c0dd159de148d606e0f1c4972768b.png",
                 "latex-25ec405423c0a9f4054227966df728c85df08256.png",
                 "latex-279a3c7c267b9957739ade93c0bce91ac33e3929.png",
+                "latex-281e30f0cbec4ea1a3a0f88730c1580298c98941.png",
                 "latex-29ebf6c2cdd6b5cbf966e3e7b9743966a5fa50f3.png",
                 "latex-2f386dc52896784e812a406fb74b6bc40d6cf469.png",
                 "latex-2fd63b22620e931c56c556875466d05cbe106c82.png",
                 "latex-30842dfd2253f7ff924f9154ba2f1c40c385e694.png",
                 "latex-31a85ae37b91a18b5d75b3cd6953aedc55b3b88f.png",
                 "latex-33b12f60157641098d522bcb8fba5d39d43a0642.png",
+                "latex-348db9f8b661c167423ce16a92b7a406653b7a9e.png",
                 "latex-3500c0daae0018bf958ab5527e22f48f784e37c5.png",
                 "latex-382b38f5fc8b49711cb6133b02ea80a8de8f473d.png",
                 "latex-3844f922c72fc6c9640908ddac80d711434fc317.png",
@@ -65,6 +75,7 @@
                 "latex-3caeef084fef122ab073e24c24692a587bf3e760.png",
                 "latex-3ebe700cf8fa4526fc699e476c80d1ecb6895ac2.png",
                 "latex-4127aeb2b3f46c7a8a189b0ccdc6c7aabd569bae.png",
+                "latex-421f3be1968b5adc055966af3f866a64e7b6acd6.png",
                 "latex-43efaa2cd002c58c6f07302706bac73d1f652a42.png",
                 "latex-4544b4f4f47990f9704c781e38296bc466410d7d.png",
                 "latex-469b0477f90d573be13571c352ea7eedb447cd4a.png",
@@ -83,10 +94,12 @@
                 "latex-5328922e6d258e35d56c300518b811a275965dae.png",
                 "latex-533d4e85a4e1015331cfb0ae2b5cc67d4367813c.png",
                 "latex-561b466f28f4545c56822f0b56d47109b19e69d2.png",
+                "latex-567313ddb56f4f5d514b2246e660c8940fff8612.png",
                 "latex-584c2efb752c49bbc6c0b35c243f7a385519d07e.png",
                 "latex-58635b23c4644e0b33d1769451a52bfa6ee39012.png",
                 "latex-586903b5d7f3384efdc6fb185edf52570b87c396.png",
                 "latex-5bf663938f793d3a79f2d18e2acc57da3348f1a3.png",
+                "latex-5c6dc618dce29ae37a9422c98d49d7be6f48f075.png",
                 "latex-5cb4356e11a53b74074238a2cec066ef21841e81.png",
                 "latex-5de53fe29a77e88708cf9aa54e0a4d64215f542c.png",
                 "latex-5ff68699e46d375dd9886396e71f461d1d915d13.png",
@@ -102,10 +115,12 @@
                 "latex-66a40c3b1b29a163146bf4629874c9089dd36034.png",
                 "latex-66f3e02a620bd1f62939a90fc6add972902d85df.png",
                 "latex-6731ab7ea66392d0bec406f26c1d37beb68ac3f3.png",
+                "latex-69a90ee9f6187a571eeaac97f9cbd40ce911d75a.png",
                 "latex-69d7334c4e9c23bc407d20fb9f0a8dfbc1c7807b.png",
                 "latex-6b5572668ef3e4e36388e528e838545a6c0f0033.png",
                 "latex-6c1e82b92b34361247c8f4472779128ae3c8638b.png",
                 "latex-6c3937e1ed772793e53d6d5d9ac87c8c98ca2821.png",
+                "latex-6c6d171b4601144ad45f13d46401aa3820be255a.png",
                 "latex-6c7242fb44a807cb916f6232b4509f4f302921a2.png",
                 "latex-701fce7e538f37689dd740a691cd7c73d9830fc9.png",
                 "latex-72754ef40404b568a647927d88bf3901f7429c0f.png",
@@ -132,15 +147,20 @@
                 "latex-8454f171e76e46a53dd57b4e3e799d3d2d8fd1cc.png",
                 "latex-84d5f4a851357456ba40ac8854bc6c2faf94b113.png",
                 "latex-89651647e2199bc46c79de2e32cac89e122edcb0.png",
+                "latex-89677f31db2a2dfde23103e7ea49ccb573c61f7f.png",
+                "latex-8afd31446662a2d70058e1977e70293cccfde244.png",
+                "latex-8e857f9a2419414846c434164422080608c73b81.png",
                 "latex-8eb9536c4710057422f69526b5dca130590c5ef5.png",
                 "latex-8ec1710f72f0f955ffa7c28b550e9898c367f436.png",
                 "latex-8ee6e52df33ae8744cafc68522059ddb95f4918d.png",
+                "latex-90101979d874709d46813e56fc9a7c9c0669e1ca.png",
                 "latex-90a60c31c647fe8f0bb60c929b3a6b683a49b14f.png",
                 "latex-9163565eeda2a22eb711176ddb53716afea4de33.png",
                 "latex-95d38c8e2840bea63198be8b6bbeab18c139b4b3.png",
                 "latex-95e67bc07e333901f54a6744012180fd54a01a57.png",
                 "latex-964aec03b4e3a6bbfd86ac94b5db3e0df2d3f783.png",
                 "latex-970cac31ecb60f0b9f8a5b78a04a1b66d0ba5a92.png",
+                "latex-972ffc56b6f81df7c2ee9b8d5a13502bbb1d4324.png",
                 "latex-97fedeefd418879349f1a3f986789b15d56cd114.png",
                 "latex-990abebea56c14c8688b40653ad3c946f795b6e8.png",
                 "latex-99663fc732d1b230f981356549326d015bc60154.png",
@@ -154,6 +174,7 @@
                 "latex-a2519f87183e5c6a0d0ed4f2f4a9b44b316b72cd.png",
                 "latex-a2b68a12a244b7386df473a8104a30f9fe4d5179.png",
                 "latex-a35cd3a616888f2d608950131992af4c443f40a9.png",
+                "latex-a68489af8e858be1886977f164e7d9851b8757d9.png",
                 "latex-a8690211a5cbdd7acd1c441bc25bbdaf9ba3decb.png",
                 "latex-a898505974319759fce162e95671f6dae9ce4cef.png",
                 "latex-a9425f59d4f6341536d5b02ad3eabefe8a7bb602.png",
@@ -161,16 +182,23 @@
                 "latex-a9fe83676afe5785be1a4bc11407f9c02c491bb2.png",
                 "latex-aad2fecefcb70a63dabcb4724e4a6fb5304c3335.png",
                 "latex-abd7a93288dd3fb7ababcf4b1649e938913f2d91.png",
+                "latex-ac9cb1704cb495d14bc1924b2110df8542af3fa3.png",
                 "latex-ad9ed77d74affd602bbf737fd9e4436dff8a6147.png",
+                "latex-adb06ebbc81912208a05f440e9217040c40a725e.png",
                 "latex-ade36edf0d951e8300d7aa0e44f1176c8766e6dc.png",
                 "latex-af9ae2a62f9c2a3fadbd4edfc8990462a0fb51de.png",
+                "latex-aff30670bf3a295377fdae328864e970cf69c79e.png",
                 "latex-b0e7f3d776985b72546fa7f8846ab79c14aa2d5c.png",
                 "latex-b0ff945a0811e87d1284a95e296a690e9f50c567.png",
                 "latex-b1ebe33e692d6506bd1c7ace6b9ceab52945ca3f.png",
+                "latex-b31ce7879e2423a58ee7c0a757eb862e763d9644.png",
+                "latex-b45210bde2455d588651fb18c13bcf24f5eaa976.png",
                 "latex-b58b89ebcc0e65bccc66282295bf2567fac58843.png",
+                "latex-b74ba6f108d67d41fc55d61401ead57f7b14a7c6.png",
                 "latex-b844cad9e76bf7dd34c14efef82135aec9a69f19.png",
                 "latex-b8ae59cf29ee835ff512e804f07656d37a24f56e.png",
                 "latex-b9c36c8ab10b65a18db97f445927df3dbff00847.png",
+                "latex-ba0abae60bde40b22edbcfc0aeb38737e99f0a12.png",
                 "latex-ba6e78c9efea28cb50af894137be2d9a9e06b23d.png",
                 "latex-bbaa73010dc36f8d0e286db871e9f926592f3231.png",
                 "latex-bc8d749716d63bc2bb79900b00ffdf290474019c.png",
@@ -180,9 +208,11 @@
                 "latex-bf06b29db6497656cbf6f3c67b0a4a758c962a28.png",
                 "latex-bfe236df30a8572912f934713fe77d169ef72783.png",
                 "latex-c068f422fcc80f6847d8d76abe8c338078be650b.png",
+                "latex-c381fa948de19a8239a60e3e798fabe5083b5371.png",
                 "latex-c394b72d6ced8765589044f8f5b86f68fba54861.png",
                 "latex-c595827691f0b57ecf126aa7ed48433770c70b80.png",
                 "latex-c7cd0a238c2f41fdfdb08cdfc2f03627e86a821c.png",
+                "latex-c88e2edd41b4faa75783755578824004e5fd7e36.png",
                 "latex-c91d26e3da9886fb1bf54c055308cf6184cb1761.png",
                 "latex-c9323576b5d5f29dad5c44db774c6860a8f7f210.png",
                 "latex-c96308fc64f116d90af0f44380266a3c1aa2352a.png",
@@ -207,17 +237,21 @@
                 "latex-d811095511557c34b1e7ae2f34abfc968dcbc6c8.png",
                 "latex-d99511f4997350d6a4c1db025eeadef31b1493e3.png",
                 "latex-d99d62ec6488cf25e8e458ad91f23de49e58c84a.png",
+                "latex-db3289e93086a63b3fdddb05131d1125fdbf01cc.png",
                 "latex-dc19a5868422e851cdbfaac058679a65074e4f52.png",
                 "latex-dd524083d344b8dedc5f9e9589c2b3c7ea430260.png",
                 "latex-de58f1e5febbf0a74c27c8e7f7712dbc962e9900.png",
                 "latex-def225f81313d320794f1f69926e5e6c95b9a837.png",
                 "latex-df16808eb893d401cfcc160638feaedbe7d3e2d6.png",
                 "latex-e05258dc884be49b8cd6b1353da88b800195226d.png",
+                "latex-e145789dab384f1f6bfe817c6db87bd79ccbed57.png",
                 "latex-e30ead24115bf9fe7788e7a1fbb2be248675d48c.png",
                 "latex-e3887d53709280bd45f42f19f58b5861d3892094.png",
                 "latex-e5641995e113d2e9c6caf9f711876d81b3b62d03.png",
                 "latex-e697748531ff131de2906e582317e8d25a6752f0.png",
                 "latex-e84a1f183186feaf41cf8ae49eaf24b747179c7f.png",
+                "latex-e8707c28f1e8967b24bac118e219fb35886fa6cc.png",
+                "latex-e8d8de59f199edab81c22c86c5dc309c3022d8df.png",
                 "latex-ebcd64de6182f9e18d659e6fcf265b58cf4e458a.png",
                 "latex-ed306333e95bb08deaeb2becc2b8d1c84de93c23.png",
                 "latex-ee1d385f01d96aee5d3d5562a7f729a4a836ba01.png",
@@ -233,13 +267,20 @@
                 "latex-f7c5cdec937e3360194071678fef9013689ba852.png",
                 "latex-f8435a53ba1ebfcf3bed3cad574a56c23cb395e0.png",
                 "latex-f8b10dee619026bc55f8a28d05ea51ffe339a882.png",
+                "latex-f99c3982f6b68acf7aaa92a2edfbf14c73677bba.png",
                 "latex-fd565a025f21619c6fe136c41852fae8f0083f02.png",
                 "latex-fe9ccee60e5178810384be23f67da4367b758dc5.png",
                 "latex-ff1672321f00629230952bdc6e58e3100c1fba1c.png",
                 "latex-fffc9d11febe10939fd22d48064f5a404e8b4840.png",
                 "paste-08f579b93a562f485c0a434ae6bd381167e69e05.jpg",
                 "paste-4b4e345f41ce8cdcd8eb706052374fb45f285552.jpg",
-                "paste-b3efae7bdc922677aa778120798adf2f061f3a20.jpg"
+                "paste-53df85ff07d085d8aa681bef6d43a58ee9c9c01a.jpg",
+                "paste-872c4f6aa0f2d89dd151290f0979e64945524305.jpg",
+                "paste-a8b982dabd38eaa1cd75523d3fc2e25f22754247.jpg",
+                "paste-b3efae7bdc922677aa778120798adf2f061f3a20.jpg",
+                "paste-d5d39952ad7a9ee5c9b1e393c362bc5a927bfa6a.jpg",
+                "paste-e50d791163df83f5d70f72a201be1315be377d7b.jpg",
+                "paste-ea52096d586d9f7a987fd9589cf41b69f9ceaff9.jpg"
             ],
             "name": "00 Fragenkatalog Flurus",
             "notes": [
@@ -1200,6 +1241,186 @@
                         "[latex]<div>Sehr niedrigen Höhen: weil dort die Dichte groß ist, die Grenzschicht somit gleich gleichgewichtsnah und deshalb die Atome bereits inder Grenzschicht rekombinieren\\\\</div><div>Sehr großen Höhen: weil dort die Dichte gering ist, folglich ein kleiner Dissoziationsgrad vorliegt und darum kaum Atome vorhanden sind, die rekombinieren könnten.</div><div>[/latex]<br></div>"
                     ],
                     "guid": "g8e&Y_%~^k",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Welchen Einfluss hat die&nbsp;Oberflächenkatalyzität in einer Nicht-GG-Grenzschicht auf den Oberflächenwärmestrom? (Faktor)<br>[/latex]<br></div>",
+                        "[latex]Oberflächenwärmestrom kann bei vollkatalytischenr Oberfläche um Faktor 3 größer sein![/latex]<br><div><img src=\"paste-872c4f6aa0f2d89dd151290f0979e64945524305.jpg\"><br></div>"
+                    ],
+                    "guid": "fXK~N?<Iw2",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Warum kann der Rekombinationskoeffizient nicht über den ganzen Wandtemperaturbereich durch einen Arrheniusansatz beschrieben werden.<br><div></div><div>[/latex]<br></div></div>",
+                        "[latex]Weil der Rekombinationskoeffizient $\\gamma (T_w)$ über der Oberflächentemperatur ein Maximum annimmt. Das lässt sich mit dem exponentiellen Arrheniusansatz nicht modellieren.[/latex]<br>"
+                    ],
+                    "guid": "Co6BSE*g9q",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Was zeichnet detaillierte Katalysemodelle aus und welche drei Annahmen werden getroffen?[/latex]<br>",
+                        "[latex]Bei diesen werden die Oberflächenreaktionen allgemeine Reaktionsgleichungen ähnluch wie für die Gasphase aufgestellt.\\\\<div>Annahmen:</div><div>\\begin{itemize}</div><div>\\item Oberflächen besitzen Stellen an denen Adsorption-Desorptions-Reaktionen bevorzugt ablaufen: aktive Oberflächenplätze</div><div>\\item nur ein Typ von aktiven Overflächenplätzen wird berücksichtigt</div><div>\\item homogene Oberflächen</div><div>\\end{itemize}[/latex]<br></div>"
+                    ],
+                    "guid": "cM2-7y{Y-G",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Beschreiben Sie kurz die Absorption/Desorptions-Wandreaktion[/latex]<br>",
+                        "[latex]Atome weden auf aktive Oberflächenplätze adsorbiert und können von diesen nach einer gewissen Zeit wieder desorbieren.\\\\<div>Bsp.: $ N + X \\leftrigtharrow NX$[/latex]<br></div><div><img src=\"paste-a8b982dabd38eaa1cd75523d3fc2e25f22754247.jpg\"><br></div>"
+                    ],
+                    "guid": "M|+vQT;@Ty",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Beschrieben kurz den Eley-Rideal-Mechanismus![/latex]<br>",
+                        "[latex]Ein Gasphasenatom rekombiniert mit einem adsorbierten Atom zu einem Molekül, welches sofort von der Oberfläche desorbiert.\\\\<div>Bsp.: $NX + N \\leftrightarrow N_2 + X$</div><div>[/latex]<br></div><div><img src=\"paste-53df85ff07d085d8aa681bef6d43a58ee9c9c01a.jpg\"><br></div>"
+                    ],
+                    "guid": "CKDV*m8mak",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Wann spielt der Eley-Rideal-Mechanismus eine Rolle und wieso?[/latex]<br>",
+                        "[latex]Diese Reaktionsmechanismus vor allem bei niedrigeren Temperaturen (im Falle von SiO2-Oberflächen + Luftströmung, $T_w \\leq 1000 K$) eine wesentliche Rolle, da seine Aktivierungsenergie relativ klein ist ($E_A &lt; 100 kJ/mol$)[/latex]<br>"
+                    ],
+                    "guid": "GfzhUt9WGF",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]Beschreibe kurz den Langmuir-Hinshelwood-Mechanismus![/latex]<br>",
+                        "[latex]<div>Ein Teil der adsorbierten Atome besitzt&nbsp;genügend Energie, um sich auf der Oberfläche zu bewegen. Trifft ein solches Atom auf ein anderes&nbsp; adsorbiertes Atom, so findet eine Rekombinationsreaktion mit anschließender&nbsp;Desorption statt.\\\\</div><div>Bsp.: $OX + OX \\rightarrow O_2 + 2X$<br><div>[/latex]<br></div></div><div><img src=\"paste-ea52096d586d9f7a987fd9589cf41b69f9ceaff9.jpg\"><br></div>"
+                    ],
+                    "guid": "JiNS/{T,sF",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Wann spielt der Langmuir-Hinshelwood Mechanismus eine Rolle und wieso?<br>[/latex]<br></div>",
+                        "[latex]Im Gegensatz zum ER-Mechanismus dominiert dieser Prozess bei hohen Temperaturen ($T_w \\ge 1000 K$). Reaktionen nach dem LH-Mechanismus setzen nämlich die Lösung der Bindungen anderer adsorbierter Atome an die Oberfläche vorraus, was gleichbedeutend mit einer hohen Aktivierungsenergie ($E_A \\ge 100 kJ/mol$).&nbsp;<div>Da aber der Frequenzfaktor (preexponentieller Faktor) mit zunehmender Temperatur steigt,&nbsp;überflügelt der LH-Mechanismus den ER-Mechanismus bei&nbsp;Erhöhung&nbsp;der Temperatur.<br><div>[/latex]<br></div></div>"
+                    ],
+                    "guid": "x?5QEm5gzo",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Beschreibe kurz die Dissoziation (Wandreaktionstyp)!<br>[/latex]<br></div>",
+                        "[latex]<div><div>Moleküle&nbsp;mit hoher kinetischer und vibratorischer Energie&nbsp;können&nbsp;bei</div><div>Kollision mit der&nbsp;Oberfläche&nbsp;dissoziieren.\\\\</div><div>Bsp.: $O_2 \\rightarrow O + O$</div>[/latex]<br></div><div><img src=\"paste-e50d791163df83f5d70f72a201be1315be377d7b.jpg\"><br></div>"
+                    ],
+                    "guid": "q/;Z#C>rW|",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Wann tritt Dissoziation auf und wieso?<br>[/latex]<br></div>",
+                        "[latex]kurz: Schwingungsenergie $&gt;$ Bindungsenergie\\\\<div><div>Die Dissoziation von&nbsp;Molekülen&nbsp;an&nbsp;Oberflächen&nbsp;ohne gleichzeitige</div><div>Adsorption kann nur bei sehr hohen Gasphasentemperaturen</div><div>auftreten ($T &gt; 3000 K$).</div><div><div>So hohe Temperaturen&nbsp;können&nbsp;an der&nbsp;Oberfläche&nbsp;nur bei stark</div><div>verdünnten&nbsp;Strömungen&nbsp;erreicht werden.\\\\</div></div><div>$ \\rightarrow Temperatursprung Kn \\ge 1$)</div><div><div><div>[/latex]<br></div></div></div></div>"
+                    ],
+                    "guid": "vi@bOA=_:d",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Beschreibe kurz die Dissoziative Adsorption (Wandreaktionstyp)!<br>[/latex]<br></div>",
+                        "[latex]<div><div>Trifft ein hochenergetisches&nbsp;Molekül&nbsp;auf einen aktiven</div><div>Oberflächenplatz,&nbsp;so kann eine Dissoziation des&nbsp;Moleküls&nbsp;mit</div><div>gleichzeitiger Adsorption eines Atoms ablaufen.\\\\</div><div>Bsp.: $O_2 + X \\rightarrow OX + O$</div>[/latex]<br></div>"
+                    ],
+                    "guid": "ch$-,!5fAH",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Beschreibe kurz die Ionenrekombination! (Wandreaktionstyp)<br>[/latex]<br></div>",
+                        "[latex]<div><div>Ionisierte Teilchen rekombinieren mit einem Elektron zu</div><div>Neutralteilchen.\\\\</div><div>Bsp.: $O^+ + e^- \\rightarrow O$</div>[/latex]<br></div>"
+                    ],
+                    "guid": "ebv%}<~mCE",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Beschreibe kurz Oxidation und Erosion! (Wandreaktionstyp)<br>[/latex]<br></div>",
+                        "<img src=\"paste-d5d39952ad7a9ee5c9b1e393c362bc5a927bfa6a.jpg\">"
+                    ],
+                    "guid": "frdt_;XW4+",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div><div>Welche drei Effekte lassen sich im&nbsp;Gleitströmungsbereich</div><div>beobachten?</div>[/latex]<br></div>",
+                        "[latex]<div>Eine Verschmierung des Verdichtungsstoßes vor dem Flugkörper.\\\\</div><div><div>Einen Sprung der&nbsp;Zustandsgrößen&nbsp;an der Wand.</div></div><div>\n<div>\n<table>\n<tbody><tr>\n<td>\n<div>\\begin{itemize}</div><div>\\item Tatsächliche&nbsp;Gastemperatur stellt sich als Mittelwert der Temperatur</div><div>von einfallenden und reflektierten Partikeln ein</div><div>Gleitgeschwindigkeit stellt sich als Mittelwert der</div></td></tr></tbody></table></div>\n<div>\\item Tangentialgeschwindigkeiten einfallender und reflektierter Partikel ein</div></div><div>\\end{itemize}</div><div>Die Strömung gleitet auf der Oberfläche.\\\\</div><div>\\textrightarrow Geschwindigkeit an der Wand ist nicht Null!!</div><div>[/latex]</div>"
+                    ],
+                    "guid": "JOsC*P*-n!",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div><div>Wie werden wandnahe&nbsp;Verdünnungseffekte&nbsp;im</div><div>Gleitströmungsbereich&nbsp;formuliert?</div>[/latex]<br></div>",
+                        "[latex]<div><div>Wandnahe&nbsp;Verdünnungseffekte&nbsp;können&nbsp;im&nbsp;Gleitströmungsbereich&nbsp;mit</div><div>einer&nbsp;gaskinetisch formulierten Sprungbedingung&nbsp;innerhalb der</div><div>Kontinuumsmodellierung erfasst werden.</div>[/latex]<br></div>"
+                    ],
+                    "guid": "x^##25%zFE",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Wie ist die Knudsenschicht definiert?<br>[/latex]<br></div>",
+                        "[latex]<div><div>Die Knudsenschicht ist die direkt&nbsp;über&nbsp;der&nbsp;Oberfläche&nbsp;liegende</div><div>Schicht mit der Dicke der mittleren freien&nbsp;Weglänge.</div>[/latex]<br></div>"
+                    ],
+                    "guid": "AwABXBSxX6",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div><div>Was wird zur Aufstellung der Sprungbedinungen im</div><div>Gleitströmungsbereich&nbsp;getan?</div>[/latex]<br></div>",
+                        "[latex]<div><div>Zur Aufstellung der Sprungbedingung werden in der sogenannten</div><div>Knudsenschicht von der Ausdehnung einer mittleren freien&nbsp;Weglänge</div><div>die Teilchen-, Impuls- und&nbsp;Energieflüsse&nbsp;zur und von der Wand</div><div>bilanziert.</div>[/latex]<br></div>"
+                    ],
+                    "guid": "Gn,kWkON|L",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div><div>Worauf beruht das&nbsp;Gas-Oberflächenwechselwirkungsmodell&nbsp;von</div><div>Daiß?</div>[/latex]<br></div>",
+                        "[latex]<div><div>Auf der Bilanzierung von Teilchen-, Impuls- und&nbsp;Energieflüssen&nbsp;zur</div><div>und von der&nbsp;Oberfläche.</div>[/latex]<br></div>"
+                    ],
+                    "guid": "E`Sc}>|8VC",
                     "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
                     "tags": []
                 },
