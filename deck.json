@@ -13,16 +13,21 @@
             "media_files": [
                 "latex-03d9f1e65444842cc7c9b7ebe54414a3f297d5f1.png",
                 "latex-0519cd79c6daf087b2c4c3edacacbb6d423ff99c.png",
+                "latex-062e5c6081ab338af9adda6d39f132682eaf238c.png",
                 "latex-06300b8856fe058cae4c0136b3b188e04f3dd6e2.png",
                 "latex-064dff5eba483a21b9d9b04fa93f6cbc9c744509.png",
                 "latex-08025704c3478ebb52477d964a5bb773fa1ca2e4.png",
                 "latex-08706cea69e3cc3b58df14a973af72b339eb8f92.png",
+                "latex-09fe21adfa84cfb507626bda8e0d36a263edbbb1.png",
                 "latex-0bc39f47b4bd0746379ca5cb2c046bd38d83d68d.png",
                 "latex-0dd2ebb9bfdb131afd19c9235bf4ef3b57b356e9.png",
+                "latex-0df534c643ea9f8e87bbdb31a10a179ffd598489.png",
                 "latex-0dfc168515364defd40a91724d49adcc33541023.png",
                 "latex-0eff4afbe411c403740ec3e9c58cef6ccc4cdf65.png",
                 "latex-11a28eceba36e6a5d341e3da8aac366bc55b8d9e.png",
+                "latex-1302c6a38d2530bd489c364e32f2d67cf17a2b0b.png",
                 "latex-13b7c64c0bc648952790a9975c89eaa7be56c08b.png",
+                "latex-14b33382a7573821192bc9d41dd04364218f2b04.png",
                 "latex-14ebeaf01169ac2f089e73a4c8f5b451db1986b0.png",
                 "latex-164aed3e36d118d5e7f599601a35fe9683a7b184.png",
                 "latex-172df7928678c4623f0bc985e205ebafdd4ccf0c.png",
@@ -33,6 +38,8 @@
                 "latex-1eedf6ac17e7939475042ea3e34f5cbbed7a1fbd.png",
                 "latex-1fd1cd5c6a1a2a50566fdfb484f79941d52f7d30.png",
                 "latex-215078dbe5e0b937c1b27106746b5b274e79f961.png",
+                "latex-24c588d502680bebf715a5dcf3b61f36621d8957.png",
+                "latex-2540c696a6b1a6edeee2577f919ed39192e05c50.png",
                 "latex-25ec405423c0a9f4054227966df728c85df08256.png",
                 "latex-279a3c7c267b9957739ade93c0bce91ac33e3929.png",
                 "latex-2f386dc52896784e812a406fb74b6bc40d6cf469.png",
@@ -40,21 +47,29 @@
                 "latex-30842dfd2253f7ff924f9154ba2f1c40c385e694.png",
                 "latex-31a85ae37b91a18b5d75b3cd6953aedc55b3b88f.png",
                 "latex-33b12f60157641098d522bcb8fba5d39d43a0642.png",
+                "latex-3500c0daae0018bf958ab5527e22f48f784e37c5.png",
                 "latex-382b38f5fc8b49711cb6133b02ea80a8de8f473d.png",
                 "latex-3844f922c72fc6c9640908ddac80d711434fc317.png",
                 "latex-395d17b0e0855b7c367aecb61b5ae7ef4e1232e6.png",
                 "latex-39a93d5c166c46ee7ab3e1dd6cc853d1958f3332.png",
+                "latex-3bbe0d023e748dd98bd84cb23a852bc742368f1f.png",
                 "latex-3bdb0c2c296b357e083858a33b66f225eb7d2a60.png",
                 "latex-3c15540b581dccca5d4491274c5e9da149855a4e.png",
                 "latex-3caeef084fef122ab073e24c24692a587bf3e760.png",
+                "latex-3ebe700cf8fa4526fc699e476c80d1ecb6895ac2.png",
                 "latex-43efaa2cd002c58c6f07302706bac73d1f652a42.png",
+                "latex-4544b4f4f47990f9704c781e38296bc466410d7d.png",
                 "latex-469b0477f90d573be13571c352ea7eedb447cd4a.png",
                 "latex-4777110ba7973045a50d45fca7cbac6c3256bb7a.png",
                 "latex-477af3cd3d3fd129e22ba7ac2910989e961e4a93.png",
+                "latex-49fb64bb298d08fffe322620a11ec8a40ea94365.png",
                 "latex-4b654bbaeb275508ac075de448b21815230f7463.png",
+                "latex-4c5717610d2959932af3b319051fc709bb323a98.png",
                 "latex-4c9e36b8ec4e2a03410aec7a8e442426e32cba96.png",
                 "latex-4d9abb6acfaa4187558d25045aa554c7efa927b8.png",
+                "latex-4dca721a201880b79b3af82c090ee12373875c19.png",
                 "latex-4f61ef7142b1a3f0940ebd807c7e2100a5a398ce.png",
+                "latex-50c0da252f44e546633fffab190d021922195ff7.png",
                 "latex-5193059bada583cd132a745d4570d03715f4ff68.png",
                 "latex-52ca78b417056592b6594186e6f3e1d0c29954a7.png",
                 "latex-5328922e6d258e35d56c300518b811a275965dae.png",
@@ -62,6 +77,8 @@
                 "latex-561b466f28f4545c56822f0b56d47109b19e69d2.png",
                 "latex-584c2efb752c49bbc6c0b35c243f7a385519d07e.png",
                 "latex-58635b23c4644e0b33d1769451a52bfa6ee39012.png",
+                "latex-586903b5d7f3384efdc6fb185edf52570b87c396.png",
+                "latex-5bf663938f793d3a79f2d18e2acc57da3348f1a3.png",
                 "latex-5de53fe29a77e88708cf9aa54e0a4d64215f542c.png",
                 "latex-5ff68699e46d375dd9886396e71f461d1d915d13.png",
                 "latex-60e121bd8d6b336b6761fe0280cabf9dfb65ccfe.png",
@@ -71,6 +88,7 @@
                 "latex-649e3913c32f83bae59555e7b9676e4f5135b052.png",
                 "latex-652c9a516d5a8fbcac9cf23ba0f02cdfb815e708.png",
                 "latex-66148f53c271fd74c608b4a7690ca2599d5182f4.png",
+                "latex-66a40c3b1b29a163146bf4629874c9089dd36034.png",
                 "latex-66f3e02a620bd1f62939a90fc6add972902d85df.png",
                 "latex-69d7334c4e9c23bc407d20fb9f0a8dfbc1c7807b.png",
                 "latex-6b5572668ef3e4e36388e528e838545a6c0f0033.png",
@@ -80,12 +98,16 @@
                 "latex-701fce7e538f37689dd740a691cd7c73d9830fc9.png",
                 "latex-72754ef40404b568a647927d88bf3901f7429c0f.png",
                 "latex-7433b2b2f0be45c9bcd6c15eb5c1768fd3c1ca71.png",
+                "latex-767e5143820dda4611e3c53fc183bad7829463e3.png",
                 "latex-76a7510384955cd8e253d0766053ab64837ae0ac.png",
+                "latex-772c580ca339f983e221b34f129fabe94bd316df.png",
                 "latex-77ee2b0dde726fc7fcbdcb7a220939c6283e2fc5.png",
                 "latex-78c8f20606d15dbf045605049481e8f8b6365057.png",
+                "latex-79118d25b77f37a1b69e2bda53b77a79a05554f0.png",
                 "latex-79fba8a1c7a2db3f36c272343ad52b771ac7fae0.png",
                 "latex-7a2e90206427da3145d1690546d75922a7150883.png",
                 "latex-7a35ee525e2823b8fc86e3567bd388cba1e49308.png",
+                "latex-7ab7f53362a5c4db71a868d56eda42729c6681a6.png",
                 "latex-7b1a2db3092f16d0aa48e78ecfa14e4c21a540ea.png",
                 "latex-7ca62daf1929741a5ee1f2ff23acd83c167dc02d.png",
                 "latex-7cfa2aa3e3bf1cd0eafd2b2185691f6d2199801d.png",
@@ -93,12 +115,15 @@
                 "latex-822c170104d34f35493f30cee60ab2ff23185a8f.png",
                 "latex-829693d677e717b2a143e303ba59d81d7f807e42.png",
                 "latex-8454f171e76e46a53dd57b4e3e799d3d2d8fd1cc.png",
+                "latex-84d5f4a851357456ba40ac8854bc6c2faf94b113.png",
                 "latex-89651647e2199bc46c79de2e32cac89e122edcb0.png",
                 "latex-8eb9536c4710057422f69526b5dca130590c5ef5.png",
                 "latex-8ec1710f72f0f955ffa7c28b550e9898c367f436.png",
                 "latex-8ee6e52df33ae8744cafc68522059ddb95f4918d.png",
                 "latex-90a60c31c647fe8f0bb60c929b3a6b683a49b14f.png",
                 "latex-9163565eeda2a22eb711176ddb53716afea4de33.png",
+                "latex-95e67bc07e333901f54a6744012180fd54a01a57.png",
+                "latex-970cac31ecb60f0b9f8a5b78a04a1b66d0ba5a92.png",
                 "latex-97fedeefd418879349f1a3f986789b15d56cd114.png",
                 "latex-990abebea56c14c8688b40653ad3c946f795b6e8.png",
                 "latex-99663fc732d1b230f981356549326d015bc60154.png",
@@ -107,12 +132,16 @@
                 "latex-9dbf4b092ae54a77b88975ae4c089bd16d4a123a.png",
                 "latex-9e7c91d941a30556e544ac7ea138bb35ecaed264.png",
                 "latex-9fdeef5e2545429f97c369c38782451ee68059fb.png",
+                "latex-a1c08088cbd93543a324517ae2f397f3f8172b2e.png",
                 "latex-a2519f87183e5c6a0d0ed4f2f4a9b44b316b72cd.png",
                 "latex-a2b68a12a244b7386df473a8104a30f9fe4d5179.png",
                 "latex-a35cd3a616888f2d608950131992af4c443f40a9.png",
+                "latex-a898505974319759fce162e95671f6dae9ce4cef.png",
+                "latex-a9425f59d4f6341536d5b02ad3eabefe8a7bb602.png",
                 "latex-a95082e8a24de094097f766112a3be8d32a426bc.png",
                 "latex-aad2fecefcb70a63dabcb4724e4a6fb5304c3335.png",
                 "latex-abd7a93288dd3fb7ababcf4b1649e938913f2d91.png",
+                "latex-ad9ed77d74affd602bbf737fd9e4436dff8a6147.png",
                 "latex-af9ae2a62f9c2a3fadbd4edfc8990462a0fb51de.png",
                 "latex-b0e7f3d776985b72546fa7f8846ab79c14aa2d5c.png",
                 "latex-b0ff945a0811e87d1284a95e296a690e9f50c567.png",
@@ -121,40 +150,60 @@
                 "latex-b844cad9e76bf7dd34c14efef82135aec9a69f19.png",
                 "latex-b9c36c8ab10b65a18db97f445927df3dbff00847.png",
                 "latex-ba6e78c9efea28cb50af894137be2d9a9e06b23d.png",
+                "latex-bbaa73010dc36f8d0e286db871e9f926592f3231.png",
+                "latex-bc8d749716d63bc2bb79900b00ffdf290474019c.png",
                 "latex-bdcbf19fd3c373cc4425079f655b277641b0fb01.png",
                 "latex-be34107f48e2339ad578846b7d77008f14ac1530.png",
                 "latex-bf06b29db6497656cbf6f3c67b0a4a758c962a28.png",
                 "latex-bfe236df30a8572912f934713fe77d169ef72783.png",
                 "latex-c394b72d6ced8765589044f8f5b86f68fba54861.png",
+                "latex-c7cd0a238c2f41fdfdb08cdfc2f03627e86a821c.png",
+                "latex-c91d26e3da9886fb1bf54c055308cf6184cb1761.png",
+                "latex-c9323576b5d5f29dad5c44db774c6860a8f7f210.png",
                 "latex-c9d66cd0e1e4bab385379a5db562550c1e945e4a.png",
                 "latex-ca21f4889d5a63d74af241d6b723c153eca11ceb.png",
                 "latex-ca95c2c6dbb07b6d73de2d18b7e54724239ddf2e.png",
                 "latex-caa13195bd31d00b00676b51b76d3cf7e8a6795c.png",
+                "latex-cb4e42ee266654cc41ff80234a2a6037f3c8c797.png",
+                "latex-cda11ccc9d2c764cc8b93985518f3c447743fe6a.png",
+                "latex-ceb4cf3f70ef5ae0e7fd055f3f66a8727cf38ccd.png",
                 "latex-d036c031bf8a2e653a834740fd85c51078b80c73.png",
                 "latex-d30533d8976e08d965db121fe0fe1da0abbf9d52.png",
+                "latex-d41519b96b194cfeb2a21887facdbe9ae2b15edf.png",
                 "latex-d42e3719e85cf966d350801c621403bd8575a7f4.png",
                 "latex-d70abf06dce7e1a63dcd77ce87d465713ad93598.png",
                 "latex-d79b5281cdf7ee6b0196794939fcff4ce3f118ed.png",
+                "latex-d7a6462b26644841b24f9add650a6045f0e51022.png",
                 "latex-d811095511557c34b1e7ae2f34abfc968dcbc6c8.png",
+                "latex-d99511f4997350d6a4c1db025eeadef31b1493e3.png",
+                "latex-d99d62ec6488cf25e8e458ad91f23de49e58c84a.png",
                 "latex-dc19a5868422e851cdbfaac058679a65074e4f52.png",
                 "latex-dd524083d344b8dedc5f9e9589c2b3c7ea430260.png",
                 "latex-de58f1e5febbf0a74c27c8e7f7712dbc962e9900.png",
                 "latex-def225f81313d320794f1f69926e5e6c95b9a837.png",
                 "latex-df16808eb893d401cfcc160638feaedbe7d3e2d6.png",
+                "latex-e05258dc884be49b8cd6b1353da88b800195226d.png",
                 "latex-e3887d53709280bd45f42f19f58b5861d3892094.png",
+                "latex-e5641995e113d2e9c6caf9f711876d81b3b62d03.png",
                 "latex-ebcd64de6182f9e18d659e6fcf265b58cf4e458a.png",
                 "latex-ed306333e95bb08deaeb2becc2b8d1c84de93c23.png",
                 "latex-ee1d385f01d96aee5d3d5562a7f729a4a836ba01.png",
+                "latex-ef1d840fb4261fbca969129cda7d5eae0dd2c7da.png",
                 "latex-efd75a39c570ff12b98540923ac769c0e50bfa11.png",
                 "latex-f13ca2ec993ff4423f27f4a6b3a38aeafb4eb474.png",
                 "latex-f2549972acfdc61f84f3ea9dfa38384bab55c80d.png",
+                "latex-f38174f8896654fbfdb3ca6f7ab50196c0fcddfa.png",
                 "latex-f3c5bb5500b0c94a851cf903e7513ea5065ffc5d.png",
                 "latex-f5a909611f269f0ab810e016e09561b16b95fd07.png",
+                "latex-f77b7c85855c07554b72a4b688f2c5d60a5acc08.png",
                 "latex-f7c5cdec937e3360194071678fef9013689ba852.png",
+                "latex-f8435a53ba1ebfcf3bed3cad574a56c23cb395e0.png",
                 "latex-f8b10dee619026bc55f8a28d05ea51ffe339a882.png",
                 "latex-fd565a025f21619c6fe136c41852fae8f0083f02.png",
                 "latex-fe9ccee60e5178810384be23f67da4367b758dc5.png",
-                "latex-ff1672321f00629230952bdc6e58e3100c1fba1c.png"
+                "latex-ff1672321f00629230952bdc6e58e3100c1fba1c.png",
+                "paste-08f579b93a562f485c0a434ae6bd381167e69e05.jpg",
+                "paste-4b4e345f41ce8cdcd8eb706052374fb45f285552.jpg"
             ],
             "name": "00 Fragenkatalog Flurus",
             "notes": [
@@ -875,6 +924,246 @@
                         "[latex]<div>\n<table>\n<tbody><tr>\n<td>\n<div>Die Transportkoeffizienten\n  der inneren Freiheitsgrade müssen durch einen\n  Diffusionsansatz bestimmt werden, da die innere Struktur der Teilchen durch\n  die Chapman-Enskog Methode nicht berücksichtigt wird.</div>\n</td>\n</tr>\n</tbody></table></div>[/latex]<br>"
                     ],
                     "guid": "d])72{>>IR",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Woraus besteht im Prinzip die Berechnung der Transportkoeffizienten&nbsp;für&nbsp;Gasgemische?<br><div>[/latex]<br></div></div>",
+                        "[latex]<div><table><tbody><tr><td><div>Die Berechnung der Transportkoeffizienten&nbsp;für Gasgemische besteht im Prinzip darin, die&nbsp;Stoßintegrale&nbsp;für&nbsp;alle&nbsp;möglichen&nbsp;Stoßpaarungen zu ermitteln und&nbsp;über die Molanteile der Gaskomponenten zu gewichten.</div></td></tr></tbody></table></div><div>[/latex]<br></div>"
+                    ],
+                    "guid": "r{mPCq,wIc",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Wie lassen sich die&nbsp;Stoßintegrale zur Berechnung der Transportkoeffizienten ermitteln?<br>[/latex]<br></div>",
+                        "[latex]<div>Die&nbsp;Stoßintegrale&nbsp;selbst&nbsp;können aus den Interaktionspotentialen zwischen den&nbsp;Molekülen, z.B. dem bekannten Lennard-Jones Potential berechnet oder aus Messergebnissen für Materialeigenschaften, wie z.B.&nbsp;Viskosität reiner Gase ermittelt werden.<br>[/latex]<br></div>"
+                    ],
+                    "guid": "b*`h:Ej!/d",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div><div>Von was sind die&nbsp;Stoßintegrale&nbsp;abhängig?</div>[/latex]<br></div>",
+                        "[latex]<div><div>Von der Temperatur.</div>[/latex]<br></div>"
+                    ],
+                    "guid": "mWMy_4&KkT",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Welche&nbsp;Kräfte&nbsp;sind&nbsp;für&nbsp;die Berechnung der&nbsp;Stoßintegrale zweier geladener Teilchen verantwortlich?<br><div><div></div>[/latex]<br></div></div>",
+                        "[latex]<div><div>Für&nbsp;das&nbsp;Stoßintegral&nbsp;zweier geladener Teilchen sind&nbsp;hauptsächlich die Coulombkräfte&nbsp;verantwortlich.</div>[/latex]<br></div>"
+                    ],
+                    "guid": "GM|CK5ir$`",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Wovon ist das Kollisionsintegral zweier geladener Teilchen abhängig?<br>[/latex]<br></div>",
+                        "[latex]Temperatur und Elektronendichte (Coloumbkräfte)[/latex]<br>"
+                    ],
+                    "guid": "p~P3AtPGsP",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Wo treten&nbsp;große&nbsp;Gas Oberflächenwechselwirkungseffekte besonders auf?<br>[/latex]<br></div>",
+                        "[latex]<div><table><tbody><tr><td><div>In Nichtgleichgewichtsgrenzschichten.</div></td></tr></tbody></table>[/latex]<br></div>"
+                    ],
+                    "guid": "m][z|IJ0qM",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Nenne 2 katalytische Reaktionen, die an TPS Oberflächen auftreten&nbsp;können!<br>[/latex]<br></div>",
+                        "[latex]Redox-Reaktion:\\\\<div>Reduktion: Aufnahme von Elektronen\\\\</div><div>Oxidation: Abgabe von Elektronen\\\\\\\\</div><div>Thermische Zersetzung / Pyrolyse des Oberflächenmaterials (Ablation)[/latex]<br></div>"
+                    ],
+                    "guid": "A-qzdDlAk1",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Welche Auswirkungen haben katalytische Prozesse an Oberflächen&nbsp;auf ein&nbsp;strömendes&nbsp;Gas?<br>[/latex]<br></div>",
+                        "[latex]<div>Sie verschieben die chemische Zusammensetzung des strömenden Gases zum chemischen Gleichgewicht hin und beeinflussen auch dessen thermischen Zustand.<br>[/latex]<br></div>"
+                    ],
+                    "guid": "G=u;Mt#!O&",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div><table><tbody><tr><td><div>Was passiert an ''kalten''&nbsp;Wänden&nbsp;($Tw &lt; 2000 K$) mit N2 bzw. O2?</div></td></tr></tbody></table><div>[/latex]<br></div></div>",
+                        "[latex]<div><table><tbody><tr><td><div>An ''kalten'' Wänden (Tw &lt; 2000 K) reagieren Stickstoff- und Sauerstoffatome zu den entsprechenden molekularen Spezies N2 und O2.</div></td></tr></tbody></table>[/latex]<br></div>"
+                    ],
+                    "guid": "CMF{s~k]Iw",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div><table><tbody><tr><td><div>Was ist bei freiwerdender Reaktionsenthalpie an katalytischen Oberflächen zu beachten? Welche Auswirkung hat das auf die Fahrzeugauslegung?</div></td></tr></tbody></table><div>[/latex]<br></div></div>",
+                        "[latex]<div><table><tbody><tr><td><div>Die freiwerdende Reaktionsenthalpie&nbsp;führt&nbsp;zu einer&nbsp;Erhöhung des Oberflächenwärmestroms&nbsp;und damit zu einer&nbsp;Erhöhung der thermischen&nbsp; Belastung eines Wiedereintrittsfahrzeuges.\\\\</div><div>Um den&nbsp;Wärmestrom klein zu halten, werden deshalb schwachkatalytische&nbsp;Hitzeschutzoberflächen&nbsp;für Wiedereintrittsfahrzeuge eingesetzt.</div></td></tr></tbody></table><div></div>[/latex]<br></div>"
+                    ],
+                    "guid": "m!(Izfh&w.",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Wie wird bei der einfachen&nbsp;Abschätzung der Katalyseeffekte auf den&nbsp;Oberflächenwärmestrom&nbsp;vorgegangen?<br>[/latex]<br></div>",
+                        "[latex]<div>Zur einfachen&nbsp;Abschätzung der Katalyseeffekte auf den Oberflächen-wärmestrom nach oben und nach unten, werden oft die Grenzfälle&nbsp;einer voll- bzw. nichtkatalytischen&nbsp;Oberfläche&nbsp;untersucht.<br>[/latex]<br></div>"
+                    ],
+                    "guid": "jYtVPLO~)b",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div><table><tbody><tr><td><div>Skizziere die Atomrekombination an einer voll-, teilweise und nichtkatalytische&nbsp;Oberfläche! Gib auch die Rekombinations- und&nbsp;Oberflächenrekombinationskoeffizienten&nbsp;an!</div></td></tr></tbody></table></div><div>[/latex]<br></div>",
+                        "<img src=\"paste-08f579b93a562f485c0a434ae6bd381167e69e05.jpg\"><div>[latex]</div><div>$\\gamma$ Rekombinationskoeffizient\\\\</div><div>$k_w$ Oberflächenrekombinationskoeffizient[/latex]<br></div>"
+                    ],
+                    "guid": "bz2tBYDLz<",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Skizziere kurz ein RFK mit hochangeregten Molekülen in der Grenzschicht bzw. an der Wand! Wo entstehen diese und wohin bewegen sie sich?<br>[/latex]<br></div>",
+                        "<img src=\"paste-4b4e345f41ce8cdcd8eb706052374fb45f285552.jpg\">"
+                    ],
+                    "guid": "A,*)[aYBS#",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div><div>Was zeichnet einfache Katalysemodelle aus?</div>[/latex]<br></div>",
+                        "[latex]<div>\\begin{itemize}</div><div>\\item globale halbimpirische Modelle</div><div>\\item entahlten nur die Rekombinationskoeffizienten der atomaren Spezies als Anpassparameter</div><div>\\item vollständige Energieakkomodation&nbsp;</div>\\end{itemize}<br><div>[/latex]</div><div><br></div>"
+                    ],
+                    "guid": "Q1]cg}j,;x",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div><table><tbody><tr><td><div>Welche drei Definitionen&nbsp;für&nbsp;vollkatalytische&nbsp;Oberflächen gibt es und welche Eigenschaften haben diese?</div></td></tr></tbody></table><div>[/latex]<br></div></div>",
+                        "[latex]<div>1. Die Reaktionsenthalpie wird beim Auftreffen der Teilchen auf die Oberfläche freigesetzt\\\\</div><div>\\textrightarrow Nur $N_2$ und $O_2$ verlassen die Oberflaeche\\\\</div><div>\\textrightarrow Liefert zu hohen Wärmestrom und zu hohe Spezieskonzentrationen von $N_2$ und $O_2$\\\\<br></div><div>2. An vollkatalytischer Oberfläche herrscht chemisches Gleichgewicht</div><div>\\textrightarrow Liefert zu hohen Wärmestrom und zu hohe Spezieskonzentrationen von $N_2$ und $O_2$\\\\<br></div><div>3. Alle Teilchen die unter chemischen GG-Bedingungen nicht vorhanden sind (z.B. NO, N, O) reagieren bei Kollisionen mit der Oberfläche zu Teilchen, die unter GG-Bedingungen vorhanden sind (N2 und O2)\\\\</div><div>\\textrightarrow Modell physikalisch sinnvoll für Luftströmung an kalten Oberflächen</div><div>[/latex]<br></div>"
+                    ],
+                    "guid": "w)p02r;8xQ",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Woher kommen die zwei im Skript vorgestellten Definitionen für vollkatalytischeOberflächen.<br>[/latex]<br></div>",
+                        "[latex]<div><div>Aus&nbsp;Möglichkeiten&nbsp;zur Einbindung in CFD.</div>[/latex]<br></div>"
+                    ],
+                    "guid": "zoaMBei8ZR",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Wie ist der Rekombinationskoeffizienten einer endlich katalytischen&nbsp;Oberfläche&nbsp;definiert?<br><div>[/latex]<br></div></div>",
+                        "[latex]$\\gamma_c$: Anzahl der Teilchen der Spezeis s die auf die Oberfläche treffen und reagieren zur Anzahl der Teilchen der Spezies s die insgesamt auf die Oberfläche treffen[/latex]<br>"
+                    ],
+                    "guid": "qC0[Tu8$lQ",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Nenne 3 Kennzahlen der katalytischen Rekombination!<br><div><div><div><div>[/latex]<br></div></div></div></div></div>",
+                        "[latex]Als Kennzahlen der katalytischen Rekombination werden die&nbsp;<div>\\begin{itemize}</div><div>\\item Akkomodationskoeffizienten der frei werden Bindungsenergie</div><div>\\item die Rekombinationskoeffizienten</div><div>\\item Rekombinationswahrscheinlichkeit</div><div>\\end{itemize}</div><div>definiert.[/latex]<br></div>"
+                    ],
+                    "guid": "l#?ovUGn@-",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Wovon sind die Kennzahlen der katalytischen Rekombination abhängig?<br><div><div>[/latex]<br></div></div></div>",
+                        "[latex]<div>\\begin{itemize}<div>\\item Gasart</div></div><div>\\item Teilchengeschwindigkeit</div><div>\\item Einfallswinkel</div><div>\\item Wandmaterial</div><div>\\item Oberflächengüte</div><div>\\item Wandtemperatur</div><div>\\end{itemize}</div><div>[/latex]<br></div>"
+                    ],
+                    "guid": "D<6+av3eIX",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Sinkt oder steigt der Rekombinationskoeffizient des US-Shuttle-HRSI-Materials mit steigender Wandtemperatur?<br>[/latex]<br></div>",
+                        "[latex]<div><div>Der Rekombinationskoeffizient steigt mit steigender Wandtemperatur.</div>[/latex]<br></div>"
+                    ],
+                    "guid": "ia2qP}N|DF",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Welchen Einfluss hat der katalytische Oberflächen-Rekombinationskoeffizient $k_w$ auf den Staupunkt-Wärmestrom?\\\\</div><div>Bei welchen Anströmgeschwindigkeiten wirkt sich dieser besonders aus?<br><div><div><div>[/latex]<br></div></div></div></div>",
+                        "[latex]Der Staupunktwärmestrom steigt mit zunehmenden $k_w$ erheblich an, insbesondere bei hohen Anströmgeschwindigkeite, da diese hohe Nachstoßtemperaturen und damit verbundenen einen hohen Dissoziationsgrad der Strömung bewirken[/latex]<br>"
+                    ],
+                    "guid": "hw&RK(WEN6",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Wie kann es sein, dass bei schwach katalytisch&nbsp;Oberflächen der Wärmestrom&nbsp;lokal&nbsp;größer wird als bei hochkatalytischen Oberflächen?<br>[/latex]<br></div>",
+                        "[latex]<div>Atomare Spezies, die nicht in schwachkatalytischen Gebieten rekombinieren, werden in der Grenzschicht stromab transportiert und rekombinieren in hochkatalytischen Gebieten.<br>[/latex]<br></div>"
+                    ],
+                    "guid": "t1ErX-e^UP",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>Wovon&nbsp;hängt&nbsp;der Einfluss der&nbsp;Oberflächenkatalyzität auf den Oberflächenwärmestrom&nbsp;ab?<br>[/latex]<br></div>",
+                        "[latex]<div>Der Einfluss der&nbsp;Oberflächenkatalyzität auf den Oberflächen-wärmestrom&nbsp;hängt wesentlich vom Nichtgleichgewichtszustand der Grenzschicht ab.<br>[/latex]<br></div>"
+                    ],
+                    "guid": "YB`H*t4Li",
+                    "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[latex]<div>In welchen Höhen ist derStaupunktwärmestrom nahezu unabhängig von $\\gamma_w$ und $k_w$ und wieso?<br><div></div>[/latex]<br></div>",
+                        "[latex]<div>Sehr niedrigen Höhen: weil dort die Dichte groß ist, die Grenzschicht somit gleich gleichgewichtsnah und deshalb die Atome bereits inder Grenzschicht rekombinieren\\\\</div><div>Sehr großen Höhen: weil dort die Dichte gering ist, folglich ein kleiner Dissoziationsgrad vorliegt und darum kaum Atome vorhanden sind, die rekombinieren könnten.</div><div>[/latex]<br></div>"
+                    ],
+                    "guid": "g8e&Y_%~^k",
                     "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
                     "tags": []
                 }
