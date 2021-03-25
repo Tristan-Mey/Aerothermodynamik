@@ -182,7 +182,6 @@
                 "latex-9699231487b09549ed28010d9a65fe1a3100eee6.png",
                 "latex-970cac31ecb60f0b9f8a5b78a04a1b66d0ba5a92.png",
                 "latex-972ffc56b6f81df7c2ee9b8d5a13502bbb1d4324.png",
-                "latex-97fedeefd418879349f1a3f986789b15d56cd114.png",
                 "latex-990abebea56c14c8688b40653ad3c946f795b6e8.png",
                 "latex-99663fc732d1b230f981356549326d015bc60154.png",
                 "latex-99a0c2d5337ea5a1124181c2afcbb86dfc0045ff.png",
@@ -202,6 +201,7 @@
                 "latex-a7b4f49afa02f8cf60f918b6691df76475e3adc3.png",
                 "latex-a8690211a5cbdd7acd1c441bc25bbdaf9ba3decb.png",
                 "latex-a898505974319759fce162e95671f6dae9ce4cef.png",
+                "latex-a8e3ba177ac17378fe9104d54fff43e44c8fa7db.png",
                 "latex-a9425f59d4f6341536d5b02ad3eabefe8a7bb602.png",
                 "latex-a95082e8a24de094097f766112a3be8d32a426bc.png",
                 "latex-a9fe83676afe5785be1a4bc11407f9c02c491bb2.png",
@@ -737,7 +737,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "[latex]<div>\n<table>\n<tbody><tr>\n<td>\n<div>Wann spricht\n  man von thermochemischen Relaxationen?</div>\n</td>\n</tr>\n</tbody></table></div>[/latex]<br>",
+                        "[latex]<div>Wann spricht man von thermochemischen Relaxationen?<br>[/latex]<br></div>",
                         "[latex]<div>\n<table>\n<tbody><tr>\n<td>\n<div>Wenn\n  gleichzeitig Relaxationsprozesse innerer Freiheitsgrade und</div>\n<div>chemische\n  Relaxationsprozesse stattfinden.</div>\n</td>\n</tr>\n</tbody></table></div>[/latex]<br>"
                     ],
                     "guid": "%TYLBT0P1",
